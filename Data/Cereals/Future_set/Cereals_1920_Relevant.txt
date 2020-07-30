@@ -1,0 +1,1609 @@
+﻿@article{Journal Article,
+   author = {Abdallah, M. F. and Girgin, G. and Baydar, T.},
+   year = {2019},
+   title = {Mycotoxin detection in maize, commercial feed, and raw dairy milk samples from Assiut City, Egypt},
+   journal = {Veterinary Sciences},
+   volume = {6},
+   issue = {2},
+   DOI = {10.3390/VETSCI6020057},
+   article_number = {57},
+   keywords = {Aflatoxins
+Egypt
+HPLC
+Maize
+Mycotoxins
+Ochratoxin a
+Raw milk
+Zearalenone},
+   abstract = {This survey was conducted to investigate the contamination by multiple mycotoxins, aflatoxins (AFB1, AFB2, AFG1, and AFG2), ochratoxin A (OTA), and zearalenone (ZEA) in 61 samples of maize and 17 commercial animal feed samples, and of aflatoxin M1 (AFM1) in raw dairy milk samples (n = 20) collected from Assiut City in Upper Egypt. Multi-mycotoxin immunoaffinity columns were used for samples cleanup and mycotoxin purification. An HPLC-FLD system with an on-line post-column photochemical derivatization was used for the detection of the target toxins. AFB1 was detected in both maize (n = 15) and feed (n = 8), with only one maize sample presenting a concentration above the maximum permissible level set by the Egyptian authorities. AFB2 was observed in six maize samples and in one feed sample, with a maximum value of 0.5 μg/kg. ZEA was detected only in feed samples (n = 4), with a maximum value of 3.5 μg/kg, while OTA, AFG1, and AFG2 were under the limits of detection. For milk, all the analyzed samples (100%) were contaminated with AFM1, and 14 samples (70%) presented concentrations above the maximum permissible level in the European Union (EU) (0.05 μg/kg). The concentrations ranged from 0.02 μg/kg to 0.19 μg/kg, except that of one sample, which was under the limit of quantification. The contamination rates in maize and animal feeds are not alarming. In contrast, the consumption of dairy milk samples in Assiut City may pose public health hazards, as AFM1 levels were found to exceed the international permissible limits. Further surveys are highly recommended in order to establish a database for mycotoxin occurrence in Egypt to minimize the possible health risks in animals and humans. © 2018 by the authors.},
+   notes = {Cited By :1
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85069792105&doi=10.3390%2fVETSCI6020057&partnerID=40&md5=c95e6cdd462179817b0725ed7a5c50b2},
+   address = {Department of Forensic Medicine and Toxicology, Faculty of Veterinary Medicine, Assiut University, Assiut, 71515, Egypt
+Department of Pharmaceutical Toxicology, Faculty of Pharmacy, Hacettepe University, Sihhiye, Ankara, 90-06100, Turkey},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Adu, J. K. and Fafanyo, D. and Orman, E. and Ayensu, I. and Amengor, C. D. K. and Kwofie, S.},
+   year = {2020},
+   title = {Assessing metal contaminants in milled maize products available on the Ghanaian market with Atomic Absorption Spectrometry and Instrumental Neutron Activation Analyser techniques},
+   journal = {Food Control},
+   volume = {109},
+   DOI = {10.1016/j.foodcont.2019.106912},
+   article_number = {106912},
+   keywords = {Atomic absorption spectroscopy
+Corn milling plate
+Food contamination
+Ghana Research Reactor-1
+Heavy metals
+Instrumental neutron activation analysis},
+   abstract = {The study is undertaken as a quality assurance exercise, to investigate the quality of milling plates available on the market by evaluating the metals released from them into food products in contact with them during comminution. Two locally manufactured and one imported milling plates were used in both dry and wet milling of maize samples collected from different geographical locations in the country (N = 12). Atomic Absorption Spectrometry and Instrumental Neutron Activation Analyser techniques were used to detect and quantify the metals present as contaminant in the flour samples over a seven-week period. While Na, Fe, Zn, Mn, Mg, Ca and Al were detected, As, Cd, Cu, Co, Pb and Ni were either absent or below detection limits. The concentrations of the metals were observed to decline with continuous use of milling plates, with Mg recording the highest of concentrations in each week and Mn, the vice versa. The results showed that the quality of the milling plates contributed to the levels of metals seen in the samples. In terms of the extent of contamination, the imported plate was deemed best of the three milling plates used whiles the two locally manufactured plates were comparable. Wet milling process was touted as better than dry milling in contributing to metal contamination of milled food products. Also, the maize samples collected from different places were shown to exhibit varying metal concentrations. The sample from Ejura-Sekyere Dumase was showed to be more contaminated than from other sources. When the flours were used to produce consumable foods, porridge and kenkey, the metal concentrations in them were comparable. The outcomes of the study show that education on sources of food contamination should be organized for stakeholders in the maize cultivation and processing industry and regulatory systems should also be strengthened to safeguard consumers’ health. © 2019 Elsevier Ltd},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85072542985&doi=10.1016%2fj.foodcont.2019.106912&partnerID=40&md5=795b2f2d902b8500e9fdab980a16d1f3},
+   address = {Department of Pharmaceutical Chemistry, Faculty of Pharmacy and Pharmaceutical Sciences, College of Health Sciences, Kwame Nkrumah University of Science and Technology (KNUST), Kumasi, Ghana
+Department of Pharmaceutical Chemistry, School of Pharmacy, University of Health and Allied Sciences (UHAS), Ho, Ghana
+Department of Materials Engineering, College of Engineering, Kwame Nkrumah University of Science and Technology (KNUST), Kumasi, Ghana},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Ali, N.},
+   year = {2019},
+   title = {Aflatoxins in rice: Worldwide occurrence and public health perspectives},
+   journal = {Toxicology Reports},
+   volume = {6},
+   pages = {1188-1197},
+   DOI = {10.1016/j.toxrep.2019.11.007},
+   keywords = {Aflatoxins
+Biomarker
+Exposure
+Human health
+Occurrence
+Rice},
+   abstract = {Aflatoxins are fungal secondary metabolites that contaminate dietary staples worldwide, including maize, rice and groundnuts. Dietary exposure to aflatoxins is a public health concern due to their carcinogenic, acute and chronic effects. Rice is an important staple food consumed widely and consists of a major part of the diets for half of the world population. Human exposure to these mycotoxins is a serious problem especially in developing countries where hot and humid climates favor the fungal growth and where food storage conditions are poor and lack of regulatory limits enforcement. The recent developments of biomarkers have provided opportunities in assessing aflatoxins exposure and related health effects in the high-risk population groups. This review describes the worldwide occurrence of aflatoxins in rice during the period from 1990 to 2015 and biomarkers-based evidence for human exposure to aflatoxins and their adverse health effects. Aflatoxin is a potent hepatocarcinogen and humans may expose to it at any stage of life. Epidemiological studies reported an association between aflatoxin intake and the incidence of hepatocellular carcinoma in some sub-Saharan and Asian countries. Even daily high intake of rice with a low level of contamination is of health concern. Thus, it is necessary to implement effective strategies to prevent contamination and fungal growth in rice. A good agricultural and manufacturing practice should be applied during handling, storage and distribution of rice to ensure that aflatoxins contamination level is lower in the final product. Moreover, a regular survey for aflatoxins occurrence in rice and biomarkers-based studies is recommended to prevent and reduce the adverse health effects in the world population. © 2019 The Author},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075150461&doi=10.1016%2fj.toxrep.2019.11.007&partnerID=40&md5=76e19e08080de0f2587241f17b22306c},
+   address = {Department of Biochemistry and Molecular Biology, Shahjalal University of Science and Technology, Sylhet, 3114, Bangladesh},
+   database = {Scopus},
+
+}
+
+@inproceedings{Conference Proceedings,
+   author = {Asiah, N. and David, W. and Ardiansyah and Madonna, S.},
+   conference_year = {2019},
+   title = {Review on pesticide residue on rice},
+   conference = {IOP Conference Series: Earth and Environmental Science},
+   volume = {379},
+   edition = {1},
+   DOI = {10.1088/1755-1315/379/1/012008},
+   abstract = {Pesticide residue in rice has been investigated since the growing of demand of food safe. The determination of pesticide residues in food is becomes an essential requirement for consumers, producers and authorities responsible for food quality control. This study is aiming to show the information regarding agrochemical residue in rice from meta-analysis. This study showed that there are three major of agrochemical has been use as Pesticide, Fungicide, Herbicide and Insecticide. Effect of processing (milling) may decrease the pesticide contamination. Pesticide residue is adverse effect on human health problems. © 2019 IOP Publishing Ltd. All rights reserved.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076686120&doi=10.1088%2f1755-1315%2f379%2f1%2f012008&partnerID=40&md5=0e6f19f766c57b9c56d01b05f825a7ee},
+   address = {Department of Food Science and Technology, Universitas Bakrie, Indonesia
+Department of Environmental Engineering, Universitas Bakrie, Indonesia},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Atiaga-Franco, O. L. and Otero, X. L. and Gallego-Pico, A. and Escobar-Castaneda, L. A. and Bravo-Yague, J. C. and Carrera-Villacres, D.},
+   year = {2019},
+   title = {Analysis of total arsenic content in purchased rice from Ecuador},
+   journal = {Czech Journal of Food Sciences},
+   volume = {37},
+   issue = {6},
+   pages = {425-431},
+   ISSN = {1212-1800},
+   DOI = {10.17221/183/2018-cjfs},
+   accession_number = {WOS:000505030300005},
+   abstract = {Natural and anthropogenic sources contribute to arsenic contamination in water and human food chain in Andean countries. Human exposure to arsenic via rice consumption is of great concern in countries where this crop is the dominant staple food, and limited information is available on the arsenic contamination on rice in Ecuador. This work was to contribute to the lack of knowledge analysing total arsenic by hydride generation-atomic absorption spectrometry in the samples of white, brown and parboiled rice purchased in Ecuadorian markets and produced in the two main rice wetlands in Ecuador, Guayas and Los Rios, were carried out. For the samples from Guayas, arsenic concentration in white, brown and parboiled rice were 0.174 +/- 0.014, 0.232 +/- 0.021, and 0.186 +/- 0.017 mg/kg respectively, whereas samples of white rice from Los Rios showed a total arsenic level of 0.258 +/- 0.037 mg/kg. This last arsenic concentration exceeds recommended maximum permissible limit by the FAO/WHO. Obtained data have available to estimate the Ecuadorian dietary exposure revealing serious health risk for population.},
+   notes = {Atiaga-Franco, Oliva L. Otero, Xose L. Gallego-Pico, Alejandrina Escobar-Castaneda, Luis A. Bravo-Yague, Juan C. Carrera-Villacres, David
+Atiaga, Oliva/0000-0002-7653-512X
+1805-9317},
+   url = {<Go to ISI>://WOS:000505030300005},
+
+}
+
+@article{Journal Article,
+   author = {Borba, V. S. D. and Paiva Rodrigues, M. H. and Badiale-Furlong, E.},
+   year = {2019},
+   title = {Impact of Biological Contamination of Rice on Food Safety},
+   journal = {Food Reviews International},
+   DOI = {10.1080/87559129.2019.1683745},
+   keywords = {bacteria
+crop
+fungi
+nematodes
+virus},
+   abstract = {Contaminants in rice compromise the economy and food security. Fungi, bacteria, nematodes, and viruses are biological contaminants that have been found in rice. This manuscript reviews the available information about the type and frequency of biological contaminants in rice produced around the world and their impact on the production chain. The survey reports have shown that toxigenic fungi and mycotoxins before and post-harvest, milling and storage of rice and its products are the main focus of the previous studies. However, the frequency of other microbial contamination in rice needs also to be considered to mitigate the risk on food safety by increasing the crop quality with innovative solutions. © 2019, © 2019 Taylor & Francis.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074810147&doi=10.1080%2f87559129.2019.1683745&partnerID=40&md5=7fa1f9fb321c6e3c0672e2b506b83f45},
+   address = {Laboratório de Micotoxinas e Ciência de Alimentos, Escola de Química e Alimentos, Universidade Federal do Rio Grande–FURG, Rio Grande, Brazil},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Bordini, J. G. and Ono, M. A. and Garcia, G. T. and Vizoni, E. and Amador, I. R. and Hirozawa, M. T. and Ono, E. Y. S.},
+   year = {2019},
+   title = {Transgenic versus conventional corn: fate of fumonisins during industrial dry milling},
+   journal = {Mycotoxin Research},
+   volume = {35},
+   issue = {2},
+   pages = {169-176},
+   date = {May},
+   ISSN = {0178-7888},
+   DOI = {10.1007/s12550-019-00343-1},
+   accession_number = {WOS:000465506000006},
+   abstract = {The aim of this study was to compare the fate of fumonisins in transgenic and non-transgenic corn during industrial dry milling. For this purpose, whole corn samples and their fractions (germ, pericarp, endosperm, corn meal, and grits) were collected from one of the major Brazilian milling plants, totaling 480 samples. There was no significant difference (p>0.05) between mean fumonisin (FB1 + FB2) levels in transgenic (1130g/kg) and non-transgenic (920g/kg) whole corn. However, in non-transgenic germ, endosperm and corn meal fraction fumonisin levels were higher (2940g/kg, 250g/kg and 190g/kg, respectively) than in transgenic fractions (2180g/kg, 130g/kg and 85.0g/kg, respectively). Furthermore, the highest percentages of fumonisins were distributed in the germ, corresponding to about 87 and 76% of the total fumonisins present in the whole corn from non-transgenic and transgenic hybrids, respectively. Concerning the endosperm from non-transgenic and transgenic corn, approximately, 23% and 13% of the total fumonisins were retained after the dry milling. Further processing in corn meal (300 to 420 m particle size) and grits (590 to 1190m) decreased the percentages of remaining fumonisins to 4% and 2% (transgenic) and 10% and 3% (non-transgenic corn), respectively. These results suggested that fumonisin concentration was higher in outer and inner non-transgenic fractions when compared to transgenic ones and that the fate of fumonisins during the industrial dry milling could be affected by the transgenic status. However, it was not possible to conclude that the difference was exclusively due to this variable.},
+   notes = {Bordini, Jaqueline Gozzi Ono, Mario Augusto Garcia, Glauco Tironi Vizoni, Edio Amador, Ismael Rodrigues Hirozawa, Melissa Tiemi Sataque Ono, Elisabete Yurie
+Ono, Mario Augusto A/D-4023-2009
+Ono, Mario Augusto A/0000-0002-8691-5118
+1867-1632},
+   url = {<Go to ISI>://WOS:000465506000006},
+
+}
+
+@article{Journal Article,
+   author = {Bredeson, M. M. and Lundgren, J. G.},
+   year = {2019},
+   title = {Neonicotinoid insecticidal seed-treatment on corn contaminates interseeded cover crops intended as habitat for beneficial insects},
+   journal = {Ecotoxicology},
+   volume = {28},
+   issue = {2},
+   pages = {222-228},
+   DOI = {10.1007/s10646-018-02015-9},
+   keywords = {Clothianidin
+Insecticide
+Non-targets
+Risk assessment
+Thiamethoxam
+Zea mays},
+   abstract = {Neonicotinoid seed treatments are extensively used to systemically protect corn from invertebrate herbivory. Interseeding cover crops can promote beneficial insect communities and their ecosystem services such as predation on pests, and this practice is gaining interest from farmers. In this study, cereal rye (Secale cereale) and hairy vetch (Vicia villosa) were planted between rows of early vegetative corn that had been seed-treated with thiamethoxam. Thiamethoxam and its insecticidal metabolite, clothianidin were quantified in cover crop leaves throughout the growing season. Thiamethoxam was present in cereal rye at concentrations ranging from 0 to 0.33 ± 0.09 ng/g of leaf tissue and was detected on six out of seven collection dates. Cereal rye leaves contained clothianidin at concentrations from 1.05 ± 0.22 to 2.61 ± 0.24 ng/g and was present on all sampling dates. Both thiamethoxam and clothianidin were detected in hairy vetch on all sampling dates at rates ranging from 0.10 ± 0.05 to 0.51 ± 0.11 ng/g and 0.56 ± 0.15 to 9.73 ± 5.04 ng/g of leaf tissue, respectively. Clothianidin was measured at a higher concentration than its precursor, thiamethoxam, in both plant species on every sampling date. Neonicotinoids entering interseeded cover crops from adjacent treated plants is a newly discovered route of exposure and potential hazard for non-target beneficial invertebrates. Future research efforts should examine the effects of systemic insecticides on biological communities in agroecosystems whose goal is to diversify plant communities using methods such as cover cropping. © 2019, Springer Science+Business Media, LLC, part of Springer Nature.},
+   notes = {Cited By :1
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060348980&doi=10.1007%2fs10646-018-02015-9&partnerID=40&md5=9f02b73d54968dff4bf9ffc19aec8dde},
+   address = {Department of Natural Resource Management, South Dakota State University, Brookings, SD 57007, United States
+Ecdysis Foundation, 46958 188th St, Estelline, SD 57234, United States},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Castañares, E. and Pavicich, M. A. and Dinolfo, M. I. and Moreyra, F. and Stenglein, S. A. and Patriarca, A.},
+   year = {2020},
+   title = {Natural occurrence of Alternaria mycotoxins in malting barley grains in the main producing region of Argentina},
+   journal = {Journal of the Science of Food and Agriculture},
+   volume = {100},
+   issue = {3},
+   pages = {1004-1011},
+   DOI = {10.1002/jsfa.10101},
+   keywords = {alternariol
+alternariol monomethyl ether
+barley
+tenuazonic acid},
+   abstract = {BACKGROUND: Barley (Hordeum vulgare L.) is one of the most important cereals worldwide, and its quality is affected by fungal contamination such as species of the genus Alternaria. No information is available about the occurrence of Alternaria mycotoxins in Argentinean barley grains, which is of concern, because they can be transferred into malt and beer. The aim of this study was to analyze the occurrence of alternariol (AOH), alternariol monomethyl ether (AME) and tenuazonic acid (TeA) in malting barley grains from the main producing region of Argentina during the 2014 and 2015 growing seasons. RESULTS: The most frequent mycotoxin was AOH (64%), which was detected at higher levels (712 μg kg−1) compared with other studies, followed by TeA (37%, 1522 μg kg−1), while AME was present in five samples in the 2015 growing season only, with a mean of 4876 μg kg−1. A similar frequency of mycotoxin occurrence was observed in both years (80.8 vs 85.3%), but more diverse contamination was found in 2015, which was characterized by lower accumulated precipitation. Nevertheless, AOH was more frequently found in 2014 than in 2015 (80.8 and 47.1% respectively). A negative correlation between AOH concentration and temperature was observed. The susceptibility of different barley varieties to mycotoxin accumulation varied with the mycotoxin, geographical location and meteorological conditions. CONCLUSION: The results obtained in the present work represent a tool for risk assessment of exposition to these mycotoxins and could be used by food safety authorities to determine the need for their regulation. Furthermore, the establishment of a hazard analysis and critical control point (HACCP) system to minimize fungal and mycotoxin contamination in barley from farm to processing could be apply to ensure food safety. © 2019 Society of Chemical Industry. © 2019 Society of Chemical Industry},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076091380&doi=10.1002%2fjsfa.10101&partnerID=40&md5=7c8c82d20e2d461f25c580ea1bd230b1},
+   address = {Laboratorio de Biología Funcional y Biotecnología (BIOLAB)-INBIOTEC-CONICET-CICBA, Facultad de Agronomía, UNCPBA, Azul, Buenos Aires, Argentina
+Facultad de Ciencias Exactas y Naturales, Departamento de Química Orgánica, Laboratorio de Microbiología de Alimentos, CONICET, Instituto de Micología y Botánica (INMIBO), Universidad de Buenos Aires, Buenos Aires, Argentina
+Estación Experimental Agropecuaria INTA Bordenave, Bordenave, Buenos Aires, Argentina},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Cendoya, E. and Nichea, M. J. and Monge, M. P. and Sulyok, M. and Chiacchiera, S. M. and Ramirez, M. L.},
+   year = {2019},
+   title = {Fumonisin occurrence in wheat-based products from Argentina},
+   journal = {Food Additives & Contaminants Part B-Surveillance},
+   volume = {12},
+   issue = {1},
+   pages = {31-37},
+   ISSN = {1939-3210},
+   DOI = {10.1080/19393210.2018.1520308},
+   accession_number = {WOS:000460143800005},
+   abstract = {In Argentina, wheat is the most consumed cereal by the human population. Since fumonisins occurence in wheat grains and wheat-based products have been reported worldwide, a survey was conducted in order to determine fumonisin contamination in 91 wheat-based products (white wheat flour samples, wheat flour used at bakery products and whole-wheat flour samples) collected from different retail stores of Rio Cuarto city in Argentina using HPLC-MS/MS. Sixty-seven samples (74%) showed contamination by fumonisins. From these samples, 16 showed fumonisin levels between LOD and LOQ (between 0.01 to 0.05 ng/g), while fumonisins (FB1 +FB2) in quantifiable samples ranged from 0.05 ng/g to 18.9 ng/g. Although FB1 was more prevalent, FB2 was foun3d in higher levels than FB1. Overall, fumonisin prevalence was high, but concentrations were far below EU or USA limits set for maize and maize-based products.},
+   notes = {Cendoya, Eugenia Nichea, Maria J. Monge, Maria P. Sulyok, Michael Chiacchiera, Stella M. Ramirez, Maria L.
+Sulyok, Michael/H-7591-2019
+Sulyok, Michael/0000-0002-3302-0732; Ramirez, Maria Laura/0000-0002-6921-2656
+1939-3229},
+   url = {<Go to ISI>://WOS:000460143800005},
+
+}
+
+@article{Journal Article,
+   author = {Chen, C. and Turna, N. S. and Wu, F.},
+   year = {2019},
+   title = {Risk assessment of dietary deoxynivalenol exposure in wheat products worldwide: Are new codex DON guidelines adequately protective?},
+   journal = {Trends in Food Science & Technology},
+   volume = {89},
+   pages = {11-25},
+   date = {Jul},
+   ISSN = {0924-2244},
+   DOI = {10.1016/j.tifs.2019.05.002},
+   accession_number = {WOS:000472590600002},
+   abstract = {Background: Deoxynivalenol (DON) is a mycotoxin produced primarily by the fungi Fusarium graminearum and F. culmorum in cereal grains. It causes vomiting, anorexia, reduced weight gain, and impaired immune function in multiple animal species. Several outbreaks of human gastroenteritis in different populations worldwide suggest a possible link to dietary DON exposure. Because of these acute and chronic health risks, the United Nations (UN) Codex Alimentarius Commission has recently set guidelines on maximum tolerable DON levels in wheat, barley, and maize. Scope and approach: This review describes DON occurrence in wheat worldwide, and current regulations regarding DON in foods set by Codex Alimentarius Commission and some individual countries. We review toxicological evaluations of DON and extend global human health risk assessments for different age-subgroups. Whether the recent Codex DON guidelines are adequately protective is addressed on the basis of risk assessments with and without these guidelines in place, in different nations of the world. Key findings and conclusions: Using updated wheat consumption data from the FAO/WHO Chronic individual food consumption database (CIFOCO), we found adult populations in Brazil, China and Belgium and child populations in Australia, China, and Belgium have DON exposures that could pose chronic health risks. The new Codex guidelines for DON in wheat are stricter than most nations' current regulatory standards. Some populations worldwide may not be well protected even if Codex standards are applied, because of high wheat consumption. In those populations, pre- and postharvest interventions to reduce DON in wheat should be implemented to protect health.},
+   notes = {Chen, Chen Turna, Nikita Saha Wu, Felicia},
+   url = {<Go to ISI>://WOS:000472590600002},
+
+}
+
+@article{Journal Article,
+   author = {Coloma, Z. N. and Oliveira, M. S. and Dilkin, P. and Mallmann, A. O. and Almeida, C. A. A. and Mallmann, C. A.},
+   year = {2019},
+   title = {Mycotoxin occurrence in Peruvian purple maize},
+   journal = {World Mycotoxin Journal},
+   volume = {12},
+   issue = {3},
+   pages = {307-315},
+   DOI = {10.3920/WMJ2019.2436},
+   keywords = {Aflatoxins
+Chicha morada
+Fumonisins
+Mazamorra morada
+Zea mays},
+   abstract = {The presence of mycotoxins in 82 samples of Peruvian purple maize was determined by LC-MS/MS methods. Samples were collected from local commercial establishments in Peru from December 2015 to March 2016, and from March 2017 to April 2017. Aflatoxins (AF) (64.6%) and fumonisins (FB) (63.4%) were the most common mycotoxins, with average values of 2.1 (1-17) and 2,586 (125-27,490) µg/kg, respectively. Zearalenone (ZEA) was identified in a single sample at 24.4 µg/kg. Co-occurrence of AF and FB was confirmed in 45.1% of the samples (n=37), which presented significant (P&lt;0.05) Spearman correlation (ρ=0.59) between these mycotoxins. Co-occurrence of AF, FB and ZEA was found in one sample and ZEA was found in one sample. Ochratoxin A, deoxynivalenol, nivalenol, fusarenone X, diacetoxyscirpenol, 3-acetyldeoxinivalenol, HT-2 toxin and T-2 toxin were not detected. Water activity (Aw) of these samples exceeded 0.73; there was no correlation between Aw and the levels of mycotoxins. This is the first study to evaluate the occurrence of mycotoxins in Peruvian purple maize, and it ascertained that this variety may pose a risk to public health. Therefore, there is a need to control this grain supply chain in order to determine the factors involved in the presence of these toxins, and to establish regulatory limits or guidelines for maximum tolerated levels. © 2019 Wageningen Academic Publishers},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85069700894&doi=10.3920%2fWMJ2019.2436&partnerID=40&md5=39c965669abcd0d67225c13c51d7b9b5},
+   address = {Laboratory of Mycotoxicological Analysis (LAMIC), Federal University of Santa Maria (UFSM), P.O. Box 5011, Santa Maria, Rio Grande do Sul, 97105-970, Brazil},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Djekic, I. and Udovicki, B. and Kljusurić, J. G. and Papageorgiou, M. and Jovanovic, J. and Giotsas, C. and Djugum, J. and Tomic, N. and Rajkovic, A.},
+   year = {2019},
+   title = {Exposure assessment of adult consumers in Serbia, Greece and Croatia to deoxynivalenol and zearalenone through consumption of major wheat-based products},
+   journal = {World Mycotoxin Journal},
+   volume = {12},
+   issue = {4},
+   pages = {431-442},
+   DOI = {10.3920/WMJ2019.2452},
+   keywords = {Consumption risks
+Monte Carlo
+Mycotoxins
+Wheat products},
+   abstract = {The main objective of this research was to perform an exposure assessment of mycotoxin intake through consumption of wheat-based products in Serbia, Croatia, and Greece by estimating deoxynivalenol (DON) and zearalenone (ZEA) exposure from wheat. Food consumption survey of wheat-based products has been performed during 2017 in the three countries with at least 1000 interviewees per country. Values for the concentration of DON and ZEA were extracted from available research published in this decade. Finally, a Monte Carlo analysis of 100,000 simulations was performed to estimate the intake of DON and ZEA from consumption of wheat-based products. Results revealed that the estimated daily wheat-borne intake of DON of the adult population in Croatia was 0.121 μg/kg bw/day, followed by Greece with 0.181 μg/kg bw/day and Serbia with 0.262 μg/kg bw/day. This shows that 0.25% of Croatian, 1.19% of Greek and 3.96% of Serbian adult population is exposed to higher daily dietary intakes of DON than recommended. Estimated daily wheat-borne intake of ZEA was 0.017 μg/kg bw/day in Greece, 0.026 μg/kg bw/day in Croatia and 0.050 μg/kg bw/day in Serbia. Higher intake of ZEA is associated with 0.62% of the Greek population, followed by 0.95% Croatian and 2.25% of Serbian citizens. This type of research is helpful to assess accurately the risk by DON/ZEA intake associated with the consumption of wheat-based products by consumers in these three countries. Distributions of potential mycotoxin intakes were highly right-skewed. © 2019 Wageningen Academic Publishers.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075971325&doi=10.3920%2fWMJ2019.2452&partnerID=40&md5=c27e0e3d581e8ac064d00dbe5bb41dca},
+   address = {Department of Food Safety and Quality Management, University of Belgrade, Faculty of Agriculture, Nemanjina 6, Belgrade, 11080, Serbia
+Faculty of Food Technology and Biotechnology, University of Zagreb, Pierottijeva ul. 6, Zagreb, 10000, Croatia
+Food Technology Alexander Technological Educational Institute of Thessaloniki, POB 141, Thessaloniki, 574 00, Greece
+Department of Food Safety and Food Quality, Faculty of Bioscience Engineering, Ghent University, Campus Coupure A, Coupure Links 653, Ghent, 9000, Belgium
+Ministry of Agriculture, Ulica grada Vukovara 78, Zagreb, Croatia},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Echodu, R. and Malinga, G. M. and Kaducu, J. M. and Ovuga, E. and Haesaert, G.},
+   year = {2019},
+   title = {Prevalence of aflatoxin, ochratoxin and deoxynivalenol in cereal grains in northern Uganda: Implication for food safety and health},
+   journal = {Toxicology Reports},
+   volume = {6},
+   pages = {1012-1017},
+   DOI = {10.1016/j.toxrep.2019.09.002},
+   accession_number = {WOS:000501571200123},
+   abstract = {Mycotoxin contamination of cereals is a significant health risk for humans and animals, particularly in developing countries. To gain insight into food safety related to agricultural practices, we assessed levels of mycotoxin contamination in 105 samples of food grains raised and stored for consumption by rural households in the post-conflict districts of Kitgum and Lamwo in Northern Uganda. Aflatoxin, ochratoxin and deoxynivalenol (DON) contamination was assessed by quantitative enzyme-linked immunosorbent assay. Total aflatoxin in the foods analyzed varied from nd (not detected) to 68.2 mu g/Kg. Ochratoxin ranged from 0.1 to 16.4 mu g/Kg. DON ranged from nd to 2606 mu g/Kg. The mean concentration of total aflatoxins was significantly higher (P = 0.002) in sorghum than in millet, maize and sesame seeds. Frequency of co-occurrence of two mycotoxins ranged from 8.3 to 100%, with the highest being aflatoxin and ochratoxin in sorghum. Co-occurrence of all three mycotoxins ranged from 8.3 to 35.3%, with the highest again being in sorghum. Mean levels of aflatoxins concentration in sorghum samples were 11.8 mu g/Kg, exceeding the Ugandan national regulatory limits of 10 mu g/Kg. Furthermore, 46.5% of the sorghum consumed in both districts exceeded this limit, and 86.1% of sorghum samples exceeded the European Union (E.U.) maximum tolerable limit of 4 mu g/Kg. The Estimated Daily Intake (EDI) and Hazard Indices (HI) values were in the range of 1.2 x 10(-5)-91.521 and 1.3 x 10(-7) to 0.0059, respectively. In conclusion, our results provide evidence of high levels of mycotoxin contamination and co-occurrence in food grains in Northern Uganda with aflatoxins and ochratoxins at high levels in all the cereal types analyzed. Consumption of cereals cultivated in this region poses no health risk of mycotoxins exposure since HI values obtained were less than 1.},
+   notes = {Echodu, Richard Malinga, Geoffrey Maxwell Kaducu, Joyce Moriku Ovuga, Emilio Haesaert, Geert
+2214-7500},
+   url = {<Go to ISI>://WOS:000501571200123},
+
+}
+
+@article{Journal Article,
+   author = {Elaridi, J. and Yamani, O. and Al Matari, A. and Dakroub, S. and Attieh, Z.},
+   year = {2019},
+   title = {Determination of Ochratoxin A (OTA), Ochratoxin B (OTB), T-2, and HT-2 toxins in wheat grains, wheat flour, and bread in Lebanon by LC-MS/MS},
+   journal = {Toxins},
+   volume = {11},
+   issue = {8},
+   DOI = {10.3390/toxins11080471},
+   article_number = {471},
+   keywords = {Bread
+Flour
+HT-2 toxin
+Lebanon
+Ochratoxin A
+Ochratoxin B
+T-2 toxin
+Wheat},
+   abstract = {Cereals are prone to fungal infection during growth, harvesting, transportation, and/or storage. As a result, cereals such as wheat grains and wheat-derived products may be contaminated with mycotoxins leading to acute and chronic health exposure. The current study investigated the presence of the mycotoxins: Ochratoxin A (OTA), ochratoxin B (OTB), T-2, and HT-2 toxins in samples of wheat grains (n = 50), wheat flour (n = 50), and bread (n = 37) from the main mills in Lebanon using LC-MS/MS. Accuracy ranged from 98-100%, recoveries from 93-105%, and intraday and interday precision were 5-7% and 9-12%, respectively. The tested wheat grains, wheat flour, and bread samples did not contain detectable levels of T-2 and HT-2 toxins and OTB. Four wheat flour samples (8% of flour samples) showed positive OTA levels ranging from 0.6-3.4 μg kg-1 with an arithmetic mean of 1.9 ± 0.2 μg kg-1. Only one sample contained an OTA concentration greater than the limit set by the European Union (3 μg kg-1) for wheat-derived products. This study suggests that mycotoxin contamination of wheat grains, wheat flour, and bread in Lebanon is currently not a serious public health concern. However, surveillance strategies and monitoring programs must be routinely implemented to ensure minimal mycotoxin contamination of wheat-based products. © 2019 by the authors.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85071281674&doi=10.3390%2ftoxins11080471&partnerID=40&md5=36ff1403b9d6207cd1fee99d65ccf882},
+   address = {Department of Natural Sciences, School of Arts and Sciences, Lebanese American University, P.O. Box 13-5053, Beirut, 1102-2801, Lebanon
+Department of Laboratory Science and Technology, American University of Science and Technology, Achrafieh, 16-6452, Lebanon},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Fão, N. and Nascimento, S. and de La Cruz, A. H. and Calderon, D. and Rocha, R. and Saint’Pierre, T. and Gioda, A. and Thiesen, F. V. and Brucker, N. and Emanuelli, T. and Garcia, S. C.},
+   year = {2019},
+   title = {Estimation of total arsenic contamination and exposure in Brazilian rice and infant cereals},
+   journal = {Drug and Chemical Toxicology},
+   DOI = {10.1080/01480545.2019.1591435},
+   keywords = {Arsenic
+ICP-MS
+infant cereals
+rice
+toxic effects},
+   abstract = {Arsenic (As) causes health effects, especially cancer. Rice (Oryza sativa L.) can contain high As concentrations. Using ICP-MS, we quantified the total As ( t As) levels in the main brands of rice (n = 103) and infant cereals (n = 27) consumed by Brazilians. The levels were compared to the maximum limits prescribed by regulatory agencies. We estimated the daily intake (EDI) of As by Brazilians by combining the mean As concentration determined in the white rice samples with per capita daily consumption divided by the average body weight as reported by the Brazilian Institute of Geography and Statistics in 2010. The possible health risk for consumers was assessed by calculating the margin of exposure (MOE) as prescribed by the Joint FAO/WHO Expert Committee on Food Additives (JECFA). Moreover, t As was determined in 11 pesticides used by Brazilian farmers. The t As levels in the rice ranged from 0.003 to 1.3 mg kg −1 . Approximately 27% of the white rice contained t As levels above the limit set by Mercosul (0.3 mg kg −1 ) and 45% were above the limit set by the European Commission (0.2 mg kg −1 ). In the infant cereals, t As levels ranged from 0.003 to 0.243 mg kg −1 . In the pesticides, t As levels ranged from 0.005 to 0.315 mg L −1 . The EDI showed that, on average, Brazilians consume 4.13 µg As kg −1 BW weekly. In addition, a low MOE was observed, demonstrating that high use of rice presents a risk of high inorganic ( i As) exposure, which represents a public health concern. © 2019, © 2019 Informa UK Limited, trading as Taylor & Francis Group.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063725682&doi=10.1080%2f01480545.2019.1591435&partnerID=40&md5=c5d9e34dffe5fa9479072bb7c886eeaf},
+   address = {Post-graduate Program in Pharmaceutical Sciences, Federal University of Rio Grande do Sul, Porto Alegre, RS, Brazil
+Laboratory of Toxicology (LATOX), Department of Clinical Analysis, Federal University of Rio Grande do Sul, Porto Alegre, RS, Brazil
+Universidad Peruana Unión, Post-graduate School, Lima, Peru
+Department of Chemistry, Pontifical Catholic University of Rio de Janeiro (PUC-Rio), Rio de Janeiro, RJ, Brazil
+Science School, Pontifical Catholic University of Rio Grande do Sul, Porto Alegre, RS, Brazil
+Department of Physiology and Pharmacology, Federal University of Santa Santa MariaRS, Brazil
+Integrated Centre for Laboratory Analysis Development (NIDAL), Department of Food Technology and Science, Centre of Rural Sciences, Federal University of Santa Maria, Santa Maria, RS, Brazil},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Ferrero, F. and Prencipe, S. and Spadaro, D. and Gullino, M. L. and Cavallarin, L. and Piano, S. and Tabacco, E. and Borreani, G.},
+   year = {2019},
+   title = {Increase in aflatoxins due to Aspergillus section Flavi multiplication during the aerobic deterioration of corn silage treated with different bacteria inocula},
+   journal = {Journal of Dairy Science},
+   volume = {102},
+   issue = {2},
+   pages = {1176-1193},
+   date = {Feb},
+   ISSN = {0022-0302},
+   DOI = {10.3168/jds.2018-15468},
+   accession_number = {WOS:000456431800021},
+   abstract = {The growth of Aspergillus flavus and the production of aflatoxins (AF) during the aerobic deterioration of corn silage represent a problem for animal and human health. This experiment was conducted to evaluate whether the presence of A. flavus and AF production originate from the field or additional AF are produced during the fermentation phase or during aerobic deterioration of corn silage. The trial was carried out in northern Italy on corn at a dry matter (DM) level of 34%. The fresh herbage was either not treated (C) or treated with a Lactobacillus buchneri (LB) NCIMB 40788 [(at 3 x 10(5) cfu/g of fresh matter (FM)], Lactobacillus hilgardii (LH) CNCM 1-4785 (at 3 x 10(5) cfu/g of FM), or their combination (LB+LH; at 1.5 x 10(5) cfu/g of FM of each strain) ensiled in 20-L silos and opened after 250 d of ensiling. After silo opening, the aerobic stability was evaluated and samples were taken after 7 and 14 d of air exposure. The pre-ensiled material, the silages at silo opening, and the aerobically exposed silages were analyzed for DM content, fermentative profiles, microbial count, nutritive characteristics, DM losses, and AFB(1), AFB(2), AFG(1), and AFG(2) contents. Furthermore, a subsample of colonies with macromorphological features of Aspergillus section Flavi was selected for AF gene pattern characterization and in vitro AF production. The presence of A. flavus was below the detection limit (<1.00 log(10) cfu/g) in the fresh forage before ensiling, whereas it was found in 1 out of 16 silage samples at silo opening at a level of 1.24 log(10) cfu/g. The AF were found in both the fresh forage and at opening in all the samples, with a predominance of AFB(2) (mean value of 1.71 mu g/kg of DM). The inoculation of lactic acid bacteria determined a reduction in the lactic-to-acetic ratio compared with the control. A larger amount of acetic acid resulted in a lower yeast count and higher aerobic stability in the treated silages than in the control ones. At the beginning of aerobic deterioration, the yeasts increased to over 5 log(10) cfu/g, whereas the molds were close to the value observed at silo opening. When the inhibiting conditions were depleted (pH and temperature higher than 5 and 35 degrees C, respectively), both the total molds and A. flavus reached higher values than 8.00 and 4.00 log(10) cfu/g, respectively, thus determining the ex novo production of AFB(1) during aerobic deterioration, regardless of treatments. The analysis of gene pattern showed that 64% of the selected colonies of A. flavus showed the presence of all 4 AF gene patterns, and 43% of the selected colonies were able to produce AF in vitro. During air exposure, after 1,000 degrees C.h have been cumulated, starch content decreased (below 10% DM) and concentration of neutral detergent fiber, acid detergent fiber, hemicelluloses, crude protein, and ash increased. The inoculation with LB and LB+LH increased the aerobic stability of the silages and delayed the onset of aerobic microbial degradation, which in turn indirectly reduced the risk of A. flavus outgrowth and AFB(1) production after silage opening.},
+   notes = {Ferrero, Francesco Prencipe, Simona Spadaro, Davide Gullino, Maria Lodovica Cavallarin, Laura Piano, Serenella Tabacco, Ernesto Borreani, Giorgio
+Borreani, Giorgio/D-4274-2011; Spadaro, Davide/F-1994-2011
+Borreani, Giorgio/0000-0002-7726-4173; Spadaro, Davide/0000-0001-5207-9345; Ferrero, Francesco/0000-0002-9551-0796; PIANO, Serenella/0000-0002-7404-073X
+1525-3198},
+   url = {<Go to ISI>://WOS:000456431800021},
+
+}
+
+@article{Journal Article,
+   author = {Foroud, N. A. and Baines, D. and Gagkaeva, T. Y. and Thakor, N. and Badea, A. and Steiner, B. and Bürstmayr, M. and Bürstmayr, H.},
+   year = {2019},
+   title = {Trichothecenes in cereal grains - An update},
+   journal = {Toxins},
+   volume = {11},
+   issue = {11},
+   DOI = {10.3390/toxins11110634},
+   article_number = {634},
+   keywords = {Barley
+Deoxynivalenol
+Fusarium
+Fusarium head blight (FHB)
+Resistance
+T-2 toxin
+Wheat},
+   abstract = {Trichothecenes are sesquiterpenoid mycotoxins produced by fungi from the order Hypocreales, including members of the Fusarium genus that infect cereal grain crops. Different trichothecene-producing Fusarium species and strains have different trichothecene chemotypes belonging to the Type A and B class. These fungi cause a disease of small grain cereals, called Fusarium head blight, and their toxins contaminate host tissues. As potent inhibitors of eukaryotic protein synthesis, trichothecenes pose a health risk to human and animal consumers of infected cereal grains. In 2009, Foroud and Eudes published a review of trichothecenes in cereal grains for human consumption. As an update to this review, the work herein provides a comprehensive and multi-disciplinary review of the Fusarium trichothecenes covering topics in chemistry and biochemistry, pathogen biology, trichothecene toxicity, molecular mechanisms of resistance or detoxification, genetics of resistance and breeding strategies to reduce their contamination of wheat and barley. © 2019 by the Authers.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074550334&doi=10.3390%2ftoxins11110634&partnerID=40&md5=59c82ab3a48a2022dabc68113c6fb632},
+   address = {Lethbridge Research and Development Centre, Agriculture and Agri-Food Canada, Lethbridge, AB T1J 4B1, Canada
+Laboratory of Mycology and Phytopathology, All-Russian Institute of Plant Protection (VIZR), St. Petersburg, Pushkin, 196608, Russian Federation
+Department of Chemistry and Biochemistry, University of Lethbridge, Lethbridge, AB T1K 3M4, Canada
+Brandon Research and Development Centre, Agriculture and Agri-Food Canada, Brandon, MB R7A 5Y3, Canada
+Department of Agrobiotechnology (IFA-Tulln), Institute of Biotechnology in Plant Production, University of Natural Resources and Life Sciences, Vienna (BOKU), Tulln, 3430, Austria},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {García-Rico, L. and Valenzuela-Rodríguez, M. P. and Meza-Montenegro, M. M. and Lopez-Duarte, A. L.},
+   year = {2019},
+   title = {Arsenic in rice and rice products in Northwestern Mexico and health risk assessment},
+   journal = {Food Additives and Contaminants: Part B Surveillance},
+   DOI = {10.1080/19393210.2019.1678672},
+   keywords = {bioaccessibility
+food safety
+health risk
+inorganic arsenic
+intake
+rice
+Total arsenic},
+   abstract = {The aim of this study was to evaluate the health risk of arsenic exposure by consumption of rice and its products marketed in northwestern Mexico. Sixty-six national and imported rice products were purchased in markets in northwestern Mexico, an endemic arsenic region. Total and inorganic arsenic in rice samples were analysed by inductively coupled plasma atomic emission spectroscopy and the risk assessment was evaluated according to the hazard quotient (HQ) and carcinogenic risk (CR). Total and inorganic arsenic in rice samples ranged from 0.06 to 0.29 mg/kg and from 0.03 to 0.13 mg/kg, respectively, and 40% of the analysed samples exceeded FAO/WHO arsenic recommended levels. The inorganic/total arsenic ratio ranged from 15% to 65%. The HQ and CR values for total and inorganic arsenic did not exceed safety levels. Therefore, rice supply in the northwestern of Mexico appears to be safe for human consumption. © 2019, © 2019 Informa UK Limited, trading as Taylor & Francis Group.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074764096&doi=10.1080%2f19393210.2019.1678672&partnerID=40&md5=2ffb5d68def1eba1f53b21b6afe09645},
+   address = {Coordinación de Ciencia de Alimentos, Centro de Investigación en Alimentación y Desarrollo, Hermosillo, Mexico
+Departamento de Recursos Naturales, Instituto Tecnológico de Sonora, Cd. Obregón, Mexico},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Gavilanes-Terán, I. and Cano-Lamadrid, M. and Idrovo-Novillo, J. and García-García, E. and Veloz-Mayorga, N. and Erazo-Arrieta, R. and Burló, F. and Cruz-Paca, F. and Carbonell-Barrachina, Á A.},
+   year = {2019},
+   title = {Inorganic arsenic content in Ecuadorian rice-based products},
+   journal = {Food Additives and Contaminants - Part A Chemistry, Analysis, Control, Exposure and Risk Assessment},
+   volume = {36},
+   issue = {6},
+   pages = {922-928},
+   DOI = {10.1080/19440049.2019.1595744},
+   keywords = {children
+Ecuador
+food safety
+Latin America
+metalloids
+Oryza sativa},
+   abstract = {Arsenic intake in the world is linked with drinking water and food; the main sources of inorganic As (i-As) exposure in food are rice and rice-based products. The consumption of rice in Ecuador is 53.2 kg year−1 and it is the most commonly used cereal for the preparation of many popular dishes especially for subjects with celiac disease. Objectives of this research were: (i) to determine the content of i-As in foods widely consumed by Ecuadorians with celiac disease, (ii) to calculate the i-As dietary intake, and (iii) to model and predict the health risks of the population under study as a result of their exposure to i-As from rice-based food. The estimated daily intakes of Ecuadorian children (below 3 years of age) and adults were established at 0.52 and 0.55 μg kg−1 body weight d−1, respectively. These values were above the lower BMDL01 value established for i-As established by the EFSA; consequently, it can be concluded that health risk cannot be excluded for the Ecuadorian population with celiac disease. © 2019, © 2019 Taylor & Francis Group, LLC.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064752408&doi=10.1080%2f19440049.2019.1595744&partnerID=40&md5=185d5243efcc78802dbf91d3c559e841},
+   address = {Facultad de Ciencias, Escuela Superior Politécnica De Chimborazo, Riobamba, Ecuador
+Departamento de Tecnología Agroalimentaria, Grupo de Calidad y Seguridad Alimentaria, Universidad Miguel Hernández de Elche, Alicante, Spain
+Instituto de Bioingenieria, Grupo Calidad y Seguridad Alimentaria, Alicante, Spain
+Centro de Servicios Técnicos y Transferencia Tecnológica Ambiental, Escuela Superior Politécnica de Chimborazo, Riobamba, Ecuador},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Ghanati, K. and Zayeri, F. and Hosseini, H.},
+   year = {2019},
+   title = {Potential health risk assessment of different heavy metals in wheat products},
+   journal = {Iranian Journal of Pharmaceutical Research},
+   volume = {18},
+   issue = {4},
+   pages = {2093-2100},
+   DOI = {10.22037/ijpr.2019.1100865},
+   keywords = {Atomic absorption spectrometry
+Health risk assessment
+Heavy metal
+Inductively coupled plasma-atomic emission spectrometry
+Wheat products},
+   abstract = {In the present work, health risk of heavy metals such as As, Cd, Co, Cr, Cu, Hg, Ni, Pb, and Zn in Iranian urban and rural samples including wheat, wheat flour, bread, pasta and sweets were assessed. The real amount of heavy metals in target samples were determined by inductively coupled plasma-atomic emission spectrometry (ICP-AES) and atomic absorption spectroscopy (AAS). Wet ashing and hydride generation techniques were used in sample preparation step. Results demonstrated that heavy metal contaminations in cereal samples were significant. The average concentrations of heavy metals in wheat products were between 0.01 mg kg−1 to 46 mg kg−1. Finally, the health risk assessment results showed that heavy metal contents in rural samples were higher than those in urban samples. The risk of Cu and Zn was significant in two areas and risk of Cr and Cd was not significant. © 2019, Iranian Journal of Pharmaceutical Research. All rights reserved.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077559667&doi=10.22037%2fijpr.2019.1100865&partnerID=40&md5=4594b9d3f08e0df2051985814be3fed9},
+   address = {Food Safety Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran
+Department of Food Science and Technology, National Nutrition and Food Technology Research Institute, Faculty of Nutrition Sciences and Food Technology, Shahid Beheshti University of Medical Sciences, Tehran, Iran
+Department of Biostatistics and Proteomic Research Center, Faculty of Paramedical Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Ghoochani, M. and Dehghani, M. H. and Mehrabi, F. and Fard, N. R. and Alimohammadi, M. and Khaniki, G. J. and Nodehi, R. N.},
+   year = {2019},
+   title = {Determining additional risk of carcinogenicity and non-carcinogenicity of heavy metals (lead and arsenic) in raw and as-consumed samples of imported rice in Tehran, Iran},
+   journal = {Environmental Science and Pollution Research},
+   volume = {26},
+   issue = {23},
+   pages = {24190-24197},
+   date = {Aug},
+   ISSN = {0944-1344},
+   DOI = {10.1007/s11356-019-05778-8},
+   accession_number = {WOS:000477958300081},
+   abstract = {Rice is considered the most main food in Iranian diet. Its chemical contamination with heavy metals can lead to adverse effects to human health. In the present study, 60 imported rice samples from 20 different brands were collected and examined in terms of lead and arsenic levels in Tehran. Besides, point estimation and uncertainty analysis were used to determine the additional risk of carcinogenicity and non-carcinogenicity in raw and as-consumed rice. The results showed that the means of lead and arsenic (mg/kg fresh weight) in raw sampled rice were 0.0352 +/- 0.0398 and 0.106 +/- 0.049, respectively, and they were 0.0226 +/- 0.0360 and 0.0689 +/- 0.046 in as-consumed rice, respectively. Additionally, lead and arsenic amounts were 5% and 15% higher than the value set by Institute of Standards and Industrial Research of Iran respectively, while assessment of the non-carcinogenicity risk of lead and arsenic in point estimation and uncertainty analysis showed the hazard quotient and hazard index values were less than 1 and in safe ranges in both raw and as-consumed rice and were not considered a threat to the public health. The additional risk of arsenic carcinogenicity in point estimation and uncertainty analysis in raw and as-consumed rice samples found higher than the 1E-06 EPA's acceptable level of risk. So, these results could be applicable and encourage researchers to perform more detailed studies with more samples for considering by food authorities.},
+   notes = {Ghoochani, Mahboobeh Dehghani, Mohammad Hadi Mehrabi, Farahnaz Fard, Nahid Rahimi Alimohammadi, Mahmood Khaniki, Gholamreza Jahed Nodehi, Ramin Nabizadeh
+1614-7499},
+   url = {<Go to ISI>://WOS:000477958300081},
+
+}
+
+@article{Journal Article,
+   author = {Ghoreishy, F. and Salehi, M. and Fallahzade, J.},
+   year = {2019},
+   title = {Cadmium and lead in rice grains and wheat breads in Isfahan (Iran) and human health risk assessment},
+   journal = {Human and Ecological Risk Assessment},
+   volume = {25},
+   issue = {4},
+   pages = {924-934},
+   DOI = {10.1080/10807039.2018.1456898},
+   keywords = {foods
+hazard quotient
+heavy metal
+industrial region
+weekly intake},
+   abstract = {This study was conducted to survey the levels of cadmium (Cd) and lead (Pb) in the main foods of Isfahan province (central Iran). The rice grains and wheat breads were collected from Isfahan city and villages around the Isfahan and Mobarakeh Steel companies. The food samples were wet-ashed by heating in the presence of concentrated nitric acid and hydrogen peroxide. The concentrations of Cd and Pb were determined by inductively coupled plasma-optical emission spectrometer (ICP-OES). The potential exposure risks were then estimated. Levels of Cd in the rice grains and Pb in the investigated foods (except Sangak beard) were above the maximum levels as set by the Codex Alimentarius and National standards of Iran. The wheat bread samples in Isfahan city and Mobarakeh Steel regions presented higher estimated weekly intake (EWI) of Pb (40.93 and 35.35 µg kg–1 body weight, respectively) compared to other foods. The EWI for Cd and Pb in most samples was considerably above than the provisional tolerable weekly intake. In most cases, the target hazard quotients values were above one and consequently the consumption of foods in the investigated regions was a potentially serious health risk caused by exposure to the crops contaminated with Cd and Pb. © 2018, © 2018 Taylor & Francis Group, LLC.},
+   notes = {Cited By :1
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057340311&doi=10.1080%2f10807039.2018.1456898&partnerID=40&md5=6cfd096f29dd83d86653f2e686a3fc88},
+   address = {Department of Soil Science, College of Agriculture, Isfahan (Khorasgan) Branch, Islamic Azad University, Isfahan, Iran
+Department of Horticulture, College of Agriculture, Isfahan (Khorasgan) Branch, Islamic Azad University, Isfahan, Iran
+Young Researchers and Elite Club, Isfahan (Khorasgan) Branch, Islamic Azad University, Isfahan, Iran},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Golge, O. and Kabak, B.},
+   year = {2020},
+   title = {Occurrence of deoxynivalenol and zearalenone in cereals and cereal products from Turkey},
+   journal = {Food Control},
+   volume = {110},
+   DOI = {10.1016/j.foodcont.2019.106982},
+   article_number = {106982},
+   keywords = {Cereal quality
+Deoxynivalenol
+Food safety
+HPLC
+Occurrence
+PubChem CID: 40024
+PubChem CID: 5281576
+Zearalenone},
+   abstract = {This report describes concentrations of deoxynivalenol (DON) and zearalenone (ZEA) in cereals and derived products collected in Turkey from 2015 to 2018. A total of 240 cereals and cereal products were analysed by high performance liquid chromatography coupled with photodiode array (HPLC-PDA) and fluorescence (HPLC-FLD) detectors. The analytical method performance was satisfactory, with limit of quantification (LOQ) values of 46.90–72.30 μg kg−1, and 3.50–3.70 μg kg−1 for DON and ZEA, respectively. Thirteen wheat (58–1092 μg kg−1), two maize (313–331 μg kg−1), three barley (138–973 μg kg−1), seven paddy rice (136–256 μg kg−1), three wheat flour (92–151 μg kg−1), two biscuits (31.2–71.3 μg kg−1) and only one pasta (49.3 μg kg−1) contained DON, but levels were below the EU maximum level (ML). DON was not detected in bulgur and wheat bread. ZEA was found in two wheat, three maize, eleven paddy rice and two wheat flour with a mean middle bound ZEA level of 1.34, 28.0, 42.9, and 2.66 μg kg−1, respectively. Amongst the samples contaminated with ZEA, only one paddy rice exceeded EU ML of 100 μg kg−1. However, barley, bulgur, wheat bread, pasta and biscuit products did not contain ZEA. © 2019 Elsevier Ltd},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074534025&doi=10.1016%2fj.foodcont.2019.106982&partnerID=40&md5=0cb59902fe060e984bc678fdc02298a0},
+   address = {Alanya Alaaddin Keykubat University, Faculty of Tourism, Department of Gastronomy and Culinary Arts, Alanya, Antalya, Turkey
+Hitit University, Faculty of Engineering, Department of Food Engineering, Corum, TR-19030, Turkey},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Guo, Z. M. and Wang, M. M. and Wu, J. Z. and Tao, F. F. and Chen, Q. S. and Wang, Q. Y. and Ouyang, Q. and Shi, J. Y. and Zou, X. B.},
+   year = {2019},
+   title = {Quantitative assessment of zearalenone in maize using multivariate algorithms coupled to Raman spectroscopy},
+   journal = {Food Chemistry},
+   volume = {286},
+   pages = {282-288},
+   date = {Jul},
+   ISSN = {0308-8146},
+   DOI = {10.1016/j.foodchem.2019.02.020},
+   accession_number = {WOS:000460107400037},
+   abstract = {Zearalenone is a contaminant in food and feed products which are hazardous to humans and animals. This study explored the feasibility of the Raman rapid screening technique for zearalenone in contaminated maize. For representative Raman spectra acquisition, the ground maize samples were collected by extended sample area to avoid the adverse effect of heterogeneous component. Regression models were built with partial least squares (PLS) and compared with those built with other variable selection algorithms such as synergy interval PLS (siPLS), ant colony optimization PLS (ACO-PLS) and siPLS-ACO. SiPLS-ACO algorithm was superior to others in terms of predictive power performance for zearalenone analysis. The best model based on siPLS-ACO achieved coefficients of correlation (R-p) of 0.9260 and RMSEP of 87.9132 mu g/kg in the prediction set, respectively. Raman spectroscopy combined multivariate calibration showed promising results for the rapid screening large numbers of zearalenone maize contaminations in bulk quantities without sample-extraction steps.},
+   notes = {Guo, Zhiming Wang, Mingming Wu, Jingzhu Tao, Feifei Chen, Quansheng Wang, Qingyan Ouyang, Qin Shi, Jiyong Zou, Xiaobo
+1873-7072},
+   url = {<Go to ISI>://WOS:000460107400037},
+
+}
+
+@article{Journal Article,
+   author = {Hanvi, D. M. and Lawson-Evi, P. and De Boevre, M. and Goto, C. E. and De Saeger, S. and Eklu-Gadegbeku, K.},
+   year = {2019},
+   title = {Natural occurrence of mycotoxins in maize and sorghum in Togo},
+   journal = {Mycotoxin Research},
+   volume = {35},
+   issue = {4},
+   pages = {321-327},
+   DOI = {10.1007/s12550-019-00351-1},
+   keywords = {Co-occurrence
+Maize
+Mycotoxins
+Sorghum
+Togo},
+   abstract = {Mycotoxins are fungal secondary metabolites frequently affecting agronomical crops and consequently imposing a major challenge for food safety and public health. In this study, a total of 67 raw cereals (55 maize and 12 sorghum) were collected from the market of Togo. The samples were investigated on the occurrence of 21 mycotoxins using state-of-the-art high-performance liquid chromatography coupled to tandem mass spectrometry (HPLC-MS/MS). The most frequent occurring mycotoxins were fumonisins (88 and 67% for maize and sorghum respectively) with concentrations ranging from 101 to 1838 μg/kg for maize and 81.5 to 361 μg/kg for sorghum, respectively. Aflatoxin B1 was detected in 38% of the maize samples with maximum contamination levels of 256 μg/kg, and 25% of the sorghum samples (range 6–16 μg/kg). The concentrations of aflatoxins were high in maize, with some cases exceeding the maximum legislative limits (EU) for unprocessed maize placed on the market. In addition to these high contamination levels, the co-occurrence of three classes of mycotoxins (i.e., aflatoxins, fumonisins, and trichothecenes) was observed in this study. For the first time, the multi-mycotoxins occurrence in agronomical crops in Togo was reported. © 2019, Society for Mycotoxin (Research Gesellschaft für Mykotoxinforschung e.V.) and Springer-Verlag GmbH Germany, part of Springer Nature.},
+   notes = {Cited By :1
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064349188&doi=10.1007%2fs12550-019-00351-1&partnerID=40&md5=2a67d73fc92dc8d67c0b46083267f01f},
+   address = {Food Control Laboratory, Agronomic Research Institute, BP1163, Lomé, Togo
+Department of Animal Physiology, Lomé University, BP 1515, Lomé, Togo
+Department of Bioanalysis, Centre of Excellence in Mycotoxicology & Public Health, Ghent University, Ottergemsesteenweg 460, Ghent, 9000, Belgium},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Heshmati, A. and Mehri, F. and Karami-Momtaz, J. and Khaneghah, A. M.},
+   year = {2020},
+   title = {Concentration and Risk Assessment of Potentially Toxic Elements, Lead and Cadmium, in Vegetables and Cereals Consumed in Western Iran},
+   journal = {Journal of food protection},
+   volume = {83},
+   issue = {1},
+   pages = {101-107},
+   DOI = {10.4315/0362-028X.JFP-19-312},
+   keywords = {Cereals
+Contamination
+Health risks
+Iran
+Potentially toxic elements
+Vegetables},
+   abstract = {The concentration of cadmium (Cd) and lead (Pb) in vegetable (potatoes, onions, tomatoes, lettuce, leeks, and carrots) and cereal (wheat and rice) samples collected from Iran were investigated by a graphite furnace atomic absorption spectrophotometer. In addition, we determined the health risks due to exposure to Cd and Pb through vegetable and cereal consumption by computing the estimated daily intake, the target hazard quotient (THQ), the total THQ, and the margin of exposure. The mean concentrations of Pb in potato, onion, tomato, lettuce, leek, carrot, wheat, and rice samples were measured as 0.029 ± 0.011, 0.016 ± 0.012, 0.007 ± 0.005, 0.022 ± 0.020, 0.040 ± 0.048, 0.029 ± 0.025, 0.123 ± 0.120, and 0.097 ± 0.059 mg kg-1 wet weight, respectively, and all were below the maximum allowable concentrations set by the European Union. The mean concentrations of Cd in potatoes, onions, tomatoes, lettuce, leeks, carrots, wheat, and rice samples were measured as 0.022 ± 0.013, 0.011 ± 0.009, 0.003 ± 0.003, 0.007 ± 0.005, 0.015 ± 0.024, 0.013 ± 0.011, 0.046 ± 0.043, and 0.049 ± 0.04 mg kg-1 wet weight, respectively, and all were below the permissible levels established by the European Union. The corresponding values for the estimated daily intake of Cd were acceptable and lower than the provisional tolerable daily intake. The THQ and total THQ values of Cd through consumption of all vegetables and cereals were lower than 1. The margin of exposure values for Pb in samples were >1, showing no significant human health risks for both potentially toxic elements. The findings of this study indicated there is no risk associated with exposure to Pb and Cd through the intake of selected vegetables and cereals in western Iran.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077403846&doi=10.4315%2f0362-028X.JFP-19-312&partnerID=40&md5=56b566e716f4fb8d8779d2c905453891},
+   address = {Department of Nutrition and Food Safety, School of Medicine, Nutrition Health Research Center, Hamadan University of Medical SciencesHamadan, Iran
+Food and Drug Control Laboratory, Nutrition Health Research Center, Hamadan University of Medical SciencesHamadan, Iran
+Department of Food Science, Faculty of Food Engineering, University of Campinas, Rua Monteiro Lobato ,P.O. Box 6121, Campinas, São Paulo 13083-862, Brazil},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Jiang, D. F. and Li, F. H. and Zheng, F. J. and Zhou, J. Y. and Li, L. and Shen, F. and Chen, J. D. and Li, W.},
+   year = {2019},
+   title = {Occurrence and dietary exposure assessment of multiple mycotoxins in corn-based food products from Shandong, China},
+   journal = {Food Additives & Contaminants Part B-Surveillance},
+   volume = {12},
+   issue = {1},
+   pages = {10-17},
+   ISSN = {1939-3210},
+   DOI = {10.1080/19393210.2018.1503341},
+   accession_number = {WOS:000460143800002},
+   abstract = {This study was designed to investigate the occurrence and exposure assessment of multiple mycotoxins in corn-based food products from Shandong Province, China. Results demonstrated that the mean level of total mycotoxins in test samples was 197.2 mu g/kg. The most frequently found mycotoxins were deoxynivalenol (96.7%) and fumonisin B-1 (94.4%), with mean contamination levels of 65.24 and 128.2, respectively. Among these corn-based food products, thin corn pancake had the highest mean contamination (886.7 mu g/kg), followed by wotou (143.7 mu g/kg), corn cake (135.4 mu g/kg) and mantou (63.73 mu g/kg). The average exposure values to total fumonisins and deoxynivalenol were 0.05 and 0.02 mu g/kg bw/day, which were lower than the provisional maximum tolerable daily intake values of 2 and 1 mu g/kg bw/day, respectively, as established by the Joint FAO/WHO Expert Committee on Food Additives. In the future strict control and systematic monitoring are needed to secure food safety and human health.},
+   notes = {Jiang, Dafeng Li, Fenghua Zheng, Fengjia Zhou, Jingyang Li, Lu Shen, Fei Chen, Jindong Li, Wei
+Jiang, Dafeng/0000-0001-5628-0572
+1939-3229},
+   url = {<Go to ISI>://WOS:000460143800002},
+
+}
+
+@article{Journal Article,
+   author = {Jiang, X. S. and Zhang, B. and Zhao, T. X. and Xiong, C. P. and Shen, F. and He, X. M. and Liu, Q. and Zhou, H. P. and Liu, X. Q.},
+   year = {2019},
+   title = {Screening of DON Contamination in Wheat Based on Visible/Near Infrared Spectroscopy},
+   journal = {Guang Pu Xue Yu Guang Pu Fen Xi/Spectroscopy and Spectral Analysis},
+   volume = {39},
+   issue = {12},
+   pages = {3904-3909},
+   DOI = {10.3964/j.issn.1000-0593(2019)12-3904-06},
+   keywords = {Deoxynivalenol
+On-line detection
+Rapid screening
+Visible/near spectroscopy
+Wheat flour},
+   abstract = {Wheat is not only the main grain in China, but also is an important feed and industrial raw material. Wheat is susceptible to scab, which can produce vomitoxin whose scientific name is Deoxynivalenol (DON). Vomitoxin is carcinogenic and pose a serious threat to human and animal health. In recent years, due to the frequent occurrence of extreme and abnormal weather, the risk of DON infection is on the rise, which has become the main factor affecting the quality and safety of wheat products. However, traditional methods for detecting DON content have obvious problems such as cumbersome and time-consuming detection process. Therefore, developing a fast, low-cost and online detection method is of great significance for the safe production and processing of wheat. Firstly, 200 wheat samples with different degrees of scab infection were collected from all parts of Jiangsu. After milling, the content of DON in wheat was determined by ultra-performance liquid chromatography-tandem mass spectrometry (UPLC-MS/MS), and then the visible/near-infrared spectral of wheat were collected online. The data processing steps are: pre-processing the spectrum by multi-scattering correction and second derivative, and extracting the characteristic wavelength according to the competitive adaptive reweighted sampling algorithm, then using linear discriminant analysis (LDA) and partial least squares discriminant analysis (PLS-DA) was used to establish a qualitative analysis model of wheat flour samples (with a national standard of 1 000 μg•kg-1), and a quantitative analysis model of DON content in wheat flour samples was established according to partial least squares regression (PLSR). UPLC-MS/MS results showed that the risk of wheat DON contamination was higher, and the over-standard rate of the tested samples was 50%. Visible/near-infrared spectroscopy analysis showed that the spectral characteristics of different DON content wheat samples had some differences. The original spectrum and the second derivative spectrum showed that the higher the DON content, the lower the absorbance at 1 420 nm. Due to the low absolute content of DON and the limited detection limit of spectroscopy, the obvious clustering trend could not be found by principal component analysis. However, the LDA and PLS-DA discriminant models constructed according to the full spectrum and the characteristic spectrum can quickly identify and screen sound and infection samples, and the best recognition rate was 87.69%. According to the quantitative analysis results, the PLSR model of DON content in wheat samples was not ideal. The optimal model results: the correlation coefficient (rp) of the prediction set was 0.688, the root mean square error (RMSEP) was 727 μg•kg-1, and the relative analysis deviation (RPD) was 1.38. The accuracy and robustness of the model needed to be further improved. It is feasible to use visible/near-infrared spectroscopy and chemometrics methods to achieve on-line discrimination and screening of wheat DON content exceeding the standard, which provides a technical reference for the rapid and quality detection of wheat products in China. However, the quantitative analysis of DON content needs further research to explore the influence of external factors on the model, and it is planned to expand the sample size, collect wheat samples from different regions and different varieties, and improve the accuracy and universality of the model. © 2019, Peking University Press. All right reserved.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076706250&doi=10.3964%2fj.issn.1000-0593%282019%2912-3904-06&partnerID=40&md5=ce5c30a6c3e26e69a9b4146562041b76},
+   address = {College of Mechanical and Electronic Engineering, Nanjing Forestry University, Nanjing, 210037, China
+College of Food Science and Engineering, Nanjing University of Finance and Economics, Nanjing, 210023, China
+School of Agriculture and Food Science, Zhejiang A&F University, Hangzhou, 311300, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Kadjo, D. and Ricker-Gilbert, J. and Shively, G. and Abdoulaye, T.},
+   year = {2019},
+   title = {Food Safety and Adverse Selection in Rural Maize Markets},
+   journal = {Journal of Agricultural Economics},
+   DOI = {10.1111/1477-9552.12350},
+   keywords = {Adverse selection
+asymmetric information
+food safety},
+   abstract = {Without enforced standards or reliable third-party verification, food safety threats such as pesticide residues and aflatoxin contamination are generally unobservable or only partially observable to both buyers and sellers, especially of staple foods in rural maize markets in sub-Saharan Africa. As a result, sellers have more information about food quality than do buyers. Such information asymmetries can impede market development and undermine human health. We study farm household behaviour in the context of imperfect food safety information. We pool observations obtained from 707 food storage containers maintained by 309 farm households in Benin, surveyed following the maize harvests of 2011/2012 and 2013/2014. Our results indicate that when a household perceives a food safety risk associated with application of insecticides, on average it is 33 percentage points less likely to apply insecticides to maize it intends to consume than it is to maize it intends to sell. These individuals are also more likely to sell maize than households without food safety concerns. Results highlight the potential value of improved storage technologies and quality control to promote market transactions and reduce hidden health risks. © 2019 The Authors. Journal of Agricultural Economics published by John Wiley & Sons Ltd on behalf of Agricultural Economics Society},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070326013&doi=10.1111%2f1477-9552.12350&partnerID=40&md5=5c91bd64c9dda19c4cbe51e591f216f3},
+   address = {ONYX, Cote d'Ivoire
+Agricultural Economics Department, Purdue UniversityIN, United States
+IITA, Nigeria},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Kortei, N. K. and Agyekum, A. A. and Akuamoa, F. and Baffour, V. K. and Alidu, H. W.},
+   year = {2019},
+   title = {Risk assessment and exposure to levels of naturally occurring aflatoxins in some packaged cereals and cereal based foods consumed in Accra, Ghana},
+   journal = {Toxicology Reports},
+   volume = {6},
+   pages = {34-41},
+   DOI = {10.1016/j.toxrep.2018.11.012},
+   accession_number = {WOS:000501571200005},
+   abstract = {Aflatoxins are toxic secondary metabolites of fungal origin that contaminate agricultural commodities before, during and after harvest periods. A total of fifty-three (53) different foods (27 rice brands, 20 cereal based food brands and 6 pasta brands) were randomly obtained from the market and assessed for their different aflatoxin constitution (AFB1, AFB2, AFG1 and AFG2) as well as the total levels of the aflatoxins using High Performance Liquid Chromatography (HPLC) method. For the rice grain category, RS4 recorded the highest aflatoxin quantities of 65.77, 19.27, 1.02 mu g/kg for AFB1, AFB2, AFG1 respectively and a total of 86.06 mu g/kg which significantly differed (p < 0.05) from the other brands of foods. For the cereal based food category, CBS11 recorded the greatest quantifies of 35.46, 4.92, 3.39 and 0.32 mu g/kg for AFB1, AFB2, AFG1 and AFG2 respectively and a total of 45.1 mu g/kg. For the pasta category, PS1 recorded the greatest quantifies of 0.94 and 0.85 mu g/kg for AFB1 and AFB2 respectively. Total aflatoxin quantifies detected in some foods were above the acceptable limits set by the European Union which makes them unsafe and dangerous for human consumption. Recorded Estimated Daily Intakes (EDI) and Hazard Indices (HI) values were in the range of 3.9 x 10(-3) - 0.899 and 3.9 x 10(-4) - 0.0899 respectively. The risk was low since HI values obtained were less than 1.},
+   notes = {Kortei, Nii Korley Agyekum, Akwasi Akomeah Akuamoa, Felicia Baffour, Vincent Kyei Alidu, Huseini Wiisibie
+Kortei, Nii Korley/0000-0002-8863-4694
+2214-7500},
+   url = {<Go to ISI>://WOS:000501571200005},
+
+}
+
+@article{Journal Article,
+   author = {Ksieniewicz-Woźniak, E. and Bryła, M. and Waśkiewicz, A. and Yoshinari, T. and Szymczyk, K.},
+   year = {2019},
+   title = {Selected trichothecenes in barley malt and beer from Poland and an assessment of dietary risks associated with their consumption},
+   journal = {Toxins},
+   volume = {11},
+   issue = {12},
+   DOI = {10.3390/toxins11120715},
+   article_number = {715},
+   keywords = {Beer
+Fusarium toxins
+Malt
+Modified mycotoxins
+Risk assessment},
+   abstract = {Eighty-seven samples of malt from several Polish malting plants and 157 beer samples from the beer available on the Polish market (in 2018) were tested for Fusarium mycotoxins (deoxynivalenol (DON), nivalenol (NIV)), and their modified forms ((deoxynivalenol-3-glucoside (DON-3G), nivalenol-3-glucoside (NIV-3G), 3-acetyldeoxynivalenol (3-AcDON)). DON and its metabolite, DON-3G, were found the most, among the samples analyzed; DON and DON-3G were present in 90% and 91% of malt samples, and in 97% and 99% of beer samples, respectively. NIV was found in 24% of malt samples and in 64% of beer samples, and NIV-3G was found in 48% of malt samples and 39% of beer samples. In the malt samples, the mean concentration of DON was 52.9 μg/kg (range: 5.3-347.6 μg/kg) and that of DON-3G was 74.1 μg/kg (range: 4.4-410.3 μg/kg). In the beer samples, the mean concentration of DON was 12.3 μg/L (range: 1.2-156.5 μg/L) and that of DON-3G was 7.1 μg/L (range: 0.6-58.4 μg/L). The concentrations of other tested mycotoxins in the samples of malt and beer were several times lower. The risk of exposure to the tested mycotoxins, following the consumption of beer in Poland, was assessed. The corresponding probable daily intakes (PDIs) remained a small fraction of the tolerable daily intake (TDI). However, in the improbable worst-case scenario, in which every beer bottle consumed would be contaminated with mycotoxins present at the highest level observed among the analyzed beer samples, the PDI would exceed the TDI for DON and its metabolite after the consumption of a single bottle (0.5 L) of beer. © 2019 by the authors.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076495927&doi=10.3390%2ftoxins11120715&partnerID=40&md5=a2e7afe379f330c4789f6ab236178da4},
+   address = {Department of Food Analysis, Prof. Waclaw Dabrowski Institute of Agricultural and Food Biotechnology, Rakowiecka 36, Warsaw, 02-532, Poland
+Department of Chemistry, Poznan University of Life Sciences, Wojska Polskiego 75, Poznan, 60-625, Poland
+Division of Microbiology, National Institute of Health Sciences, 3-25-26 Tonomachi, Kawasaki-ku, Kawasaki-shi, Kanagawa, 210-9501, Japan},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Kumarathilaka, P. and Seneweera, S. and Ok, Y. S. and Meharg, A. and Bundschuh, J.},
+   year = {2019},
+   title = {Arsenic in cooked rice foods: Assessing health risks and mitigation options},
+   journal = {Environment International},
+   volume = {127},
+   pages = {584-591},
+   DOI = {10.1016/j.envint.2019.04.004},
+   keywords = {Arsenic mitigation
+Arsenic speciation
+Arsenic-contaminated water
+Cooked rice
+Health risks},
+   abstract = {Human exposure to arsenic (As) through the consumption of rice (Oryza sativa L.) is a worldwide health concern. In this paper, we evaluated the major causes for high inorganic As levels in cooked rice foods, and the potential of post-harvesting and cooking options for decreasing inorganic As content in cooked rice, focusing particularly on As endemic areas. The key factors for high As concentration in cooked rice in As endemic areas are: (1) rice cultivation on As-contaminated paddy soils; (2) use of raw rice grains which exceed 200 μg kg−1 of inorganic As to cook rice; and (3) use of As-contaminated water for cooking rice. In vitro and in vivo methods can provide useful information regarding the bioaccessibility of As in the gastrointestinal tract. Urinary levels of As can also be used as a valid measure of As exposure in humans. Polishing of raw rice grains has been found to be a method to decrease total As content in cooked rice. Sequential washing of raw rice grains and use of an excess volume of water for cooking also decrease As content in cooked rice. The major concern with those methods (i.e. polishing of raw rice, sequential washing of raw rice, and use of excess volume of water for cooking rice) is the decreased nutrient content in the cooked rice. Cooking rice in percolating water has recently gained significant attention as a way to decrease As content in cooked rice. Introducing and promoting rainwater harvesting systems in As endemic areas may be a sustainable way of reducing the use of As-contaminated water for cooking purposes. In conclusion, post-harvesting methods and changes in cooking practices could reduce As content in cooked rice to a greater extent. Research gaps and directions for future studies in relation to different post-harvesting and cooking practices, and rainwater harvesting systems are also discussed in this review. © 2019},
+   notes = {Cited By :5
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064282354&doi=10.1016%2fj.envint.2019.04.004&partnerID=40&md5=794ed70f371cd8b83ca1c48dd585db11},
+   address = {School of Civil Engineering and Surveying, Faculty of Health, Engineering and Sciences, University of Southern Queensland, West Street, Toowoomba, Queensland 4350, Australia
+Centre for Crop Health, Faculty of Health, Engineering and Sciences, University of Southern Queensland, West Street, Toowoomba, Queensland 4350, Australia
+National Institute of Fundamental Studies, Hantana Road, Kandy, 20000, Sri Lanka
+Korea Biochar Research Center & Division of Environmental Science and Ecological Engineering, Korea University, Seoul, South Korea
+Institute for Global Food Security, Queen's University Belfast, David Keir Building, Malone Road, Belfast, BT9 5BN, United Kingdom
+UNESCO Chair on Groundwater Arsenic within the 2030 Agenda for Sustainable Development, University of Southern Queensland, West Street, Toowoomba, Queensland 4350, Australia},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Lanza, A. and da Silva, R. C. and dos Santos, I. D. and Pizzutti, I. R. and Cence, K. and Cansian, R. L. and Zeni, J. and Valduga, E.},
+   year = {2019},
+   title = {Mycotoxins' evaluation in wheat flours used in Brazilian bakeries},
+   journal = {Food Science and Biotechnology},
+   volume = {28},
+   issue = {3},
+   pages = {931-937},
+   date = {Jun},
+   ISSN = {1226-7708},
+   DOI = {10.1007/s10068-018-0537-4},
+   accession_number = {WOS:000465966600034},
+   abstract = {The aim of this study was to evaluate the mycotoxicological quality of wheat flours used by bakeries from the North Region in Rio Grande do Sul state, Brazil, regarding the presence of mycotoxins. On collecting type-1 refined wheat flour, a conglomerate sampling from 13 cities and 3 bakeries per city (n=39), selected from the defined region was performed. The mycotoxins analysis was using QuEChERS method and UPLC-MS/MS analysis. As a result, 100% of samples presented contamination by DON, with concentrations ranging from 76.7 to 3630.2 mu gkg(-1) and ZON was found in one sample (26.7 mu gkg(-1)), which represented 2.6% of the analyzed wheat flours. Other mycotoxins (AFB1, AFB2, AFG1, AFG2, DAS, HT-2 toxin, OTA, FB1 and FB2) were not detected in the analyzed samples. [GRAPHICS] .},
+   notes = {Lanza, Andressa da Silva, Rosselei Caiel dos Santos, Ingrid Duarte Pizzutti, Ionara Regina Cence, Karine Cansian, Rogerio Luis Zeni, Jamile Valduga, Eunice
+Zeni, Jamile/AAC-1735-2019; Pizzutti, Ionara R/F-2294-2018; Valduga, Eunice/T-9951-2019
+Zeni, Jamile/0000-0002-0529-2212; Pizzutti, Ionara R/0000-0003-4592-9107; Valduga, Eunice/0000-0002-2553-0740
+2092-6456},
+   url = {<Go to ISI>://WOS:000465966600034},
+
+}
+
+@article{Journal Article,
+   author = {Li, M. and Yang, C. and Mao, Y. and Hong, X. and Du, D.},
+   year = {2019},
+   title = {Zearalenone contamination in corn, corn products, and swine feed in China in 2016–2018 as assessed by magnetic bead immunoassay},
+   journal = {Toxins},
+   volume = {11},
+   issue = {8},
+   DOI = {10.3390/toxins11080451},
+   article_number = {451},
+   keywords = {Contamination
+Corn
+Corn product
+Magnetic bead immunoassay
+Swine feed
+Zearalenone},
+   abstract = {In total, 405 samples of corn, corn products, and swine feed from China in 2016–2018 were surveyed for zearalenone (ZEN) contamination using a magnetic bead immunoassay-coupled biotin–streptavidin system (BAS-MBI). The developed BAS-MBI had a limit of detection (LOD) of 0.098 ng mL−1, with half-maximal inhibition concentration (IC50) of 0.71 ng mL−1 in working buffer, and an LOD of 0.98 ng g−1; the detection range was from 0.98 to 51.6 ng g−1 in authentic agricultural samples. The BAS-MBI has been demonstrated to be a powerful method for the rapid, sensitive, specific, and accurate determination of ZEN. The ZEN positivity rate reached the highest level of 40.6% in 133 samples in 2016; ZEN levels ranged from 1.8 to 1100.0 ng g−1, with an average level of 217.9 ng g−1. In 2017, the ZEN positivity rate was the lowest at 24.5% in 143 samples; ZEN levels ranged from 1.1 to 722.6 ng g−1, with an average of 166.7 ng g−1. In 2018, the ZEN positivity rate was 31.8% in 129 samples; ZEN levels ranged from 1.3 to 947.8 ng g−1, with an average of 157.0 ng g−1. About 20% of ZEN-positive samples exceeded maximum limit levels. An alternative method of ZEN detection and a valuable reference for ZEN contamination in corn and its related products in China are provided. This survey suggests the need for prevention of serious ZEN contamination, along with management for food safety and human health. © 2019 by the authors. Licensee MDPI, Basel, Switzerland.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070752274&doi=10.3390%2ftoxins11080451&partnerID=40&md5=61c4b8afadb0f56a40ef1b16ae4d28b8},
+   address = {Institute of Environmental Health and Ecological Security, School of the Environment and Safety Engineering, Jiangsu University, Xuefu Road 301, Zhenjiang, 212013, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Liverpool-Tasie, L. S. O. and Turna, N. S. and Ademola, O. and Obadina, A. and Wu, F.},
+   year = {2019},
+   title = {The occurrence and co-occurrence of aflatoxin and fumonisin along the maize value chain in southwest Nigeria},
+   journal = {Food and Chemical Toxicology},
+   volume = {129},
+   pages = {458-465},
+   DOI = {10.1016/j.fct.2019.05.008},
+   keywords = {Aflatoxin
+Co-occurrence
+Fumonisin
+Maize
+Nigeria
+Value chains},
+   abstract = {Aflatoxin and fumonisin are two major foodborne mycotoxins: toxic chemicals produced by fungi that contaminate food commodities including maize, a staple food in sub-Saharan Africa. Aflatoxin causes liver cancer, and is associated with acute liver toxicity and immunotoxicity; while fumonisin is associated with neural tube defects in infants and esophageal cancer. Both mycotoxins have been associated with child growth impairment. Previous studies suggest that co-occurrence of these mycotoxins may have potentially synergistic toxicological effects. Despite health risks associated with co-occurrence of these mycotoxins, no study has examined their co-occurrence along key food supply chains in Africa. This study is the first report that examines the occurrence and co-occurrence of aflatoxins and fumonisins along the maize value chain in Nigeria. All samples were analyzed using LC-MS/MS. About 52% and 21% of the samples had aflatoxin levels above the Nigerian and US standards for human food, respectively. Though no regulatory limits exist for fumonisin in Nigeria, 13% of the samples contained fumonisin levels higher than the US regulatory limit. Aflatoxin levels can become dangerously high in maize stored four months or longer. Adequately addressing mycotoxin risk requires consideration of the entire maize value chain and associated value chains for food production. © 2019 Elsevier Ltd},
+   notes = {Cited By :2
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065549020&doi=10.1016%2fj.fct.2019.05.008&partnerID=40&md5=cc79a3f491c2ae591cf77332537a00e0},
+   address = {Department of Agricultural, Food, and Resource Economics, Michigan State University, East Lansing, MI 48823, United States
+Department of Food Science and Human Nutrition, Michigan State University, East Lansing, MI 48823, United States
+Department of Food Science and Technology, Federal University of Agriculture, Abeokuta, 2240, Nigeria},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Ma, Y. N. and Zhan, L. W. and Yang, H. and Qin, M. L. and Chai, S. S. and Cao, Z. Y. and Mou, R. X. and Chen, M. X.},
+   year = {2019},
+   title = {Dissipation of two field-incurred pesticides and three degradation products in rice (Oryza sativa L.) from harvest to dining table},
+   journal = {Journal of the Science of Food and Agriculture},
+   volume = {99},
+   issue = {10},
+   pages = {4602-4608},
+   date = {Aug},
+   ISSN = {0022-5142},
+   DOI = {10.1002/jsfa.9699},
+   accession_number = {WOS:000471905200011},
+   abstract = {BACKGROUND High levels of harmful pesticide residues in rice can cause undesirable side effects and are a source of great concern to consumers. Reduction of pesticide residues to provide rice security has thus became an urgent problem. RESULTS In this study, the effects of commercial and home processing on removal of chlorpyrifos and carbosulfan residues from rice, and the formation of metabolites during processing, were studied. The results showed that 3,5,6-trichloro-2-pyridinol (0.87 mg kg(-1)) and carbofuran (0.43 mg kg(-1)) were the predominant components detected in paddy rice. All detected residues were primarily deposited on the rice hull and bran. Washing twice followed by high-pressure cooking was able to further decrease residues in polished rice with the processing factor value <0.25. Following application of pesticides at the recommended rate and twice the recommended rate, with a preharvest interval of 28 days, changes in residues from harvest to dining table based on efficient processing techniques were investigated. The final residues dropped to below maximum residue levels after washing twice followed by high-pressure cooking. CONCLUSION This simple cooking process thus reduces the risk of dietary exposure, and it is recommended that it is adopted by all consumers. (c) 2019 Society of Chemical Industry},
+   notes = {Ma, Youning Zhan, Liwei Yang, Huan Qin, Meiling Chai, Shuangshuang Cao, Zhaoyun Mou, Renxiang Chen, Mingxue
+1097-0010},
+   url = {<Go to ISI>://WOS:000471905200011},
+
+}
+
+@article{Journal Article,
+   author = {Martinez-Miranda, M. M. and Rosero-Moreano, M. and Taborda-Ocampo, G.},
+   year = {2019},
+   title = {Occurrence, dietary exposure and risk assessment of aflatoxins in arepa, bread and rice},
+   journal = {Food Control},
+   volume = {98},
+   pages = {359-366},
+   DOI = {10.1016/j.foodcont.2018.11.046},
+   keywords = {Aflatoxins
+Dietary exposure
+Occurrence
+Risk assessment},
+   abstract = {The purpose of this study was to assess the risk of aflatoxins due to arepa, bread and rice consumption among the adult population of the Department of Caldas, Colombia. A high-performance liquid chromatography method with fluorescence detection (HPLC-FD) was validated and used to determine aflatoxins in 246 samples. Dietary exposure was calculated by estimated daily intake (EDI), whereas risk characterization was assessed using the risk of cancer and margin of exposure (MOE) approaches. The method showed good selectivity, linearity (R2 &gt; 0.9993), limit of detection (LOD = 0.004–0.014 ng mL−1), limit of quantification (LOQ = 0.014–0.046 ng mL−1), accuracy (2.40%–14.1%), and recovery (58%–110%). Aflatoxins were detected in 38.6% of the samples at levels between 0.08 and 41.75 μg kg−1, and 11.4% of the samples contaminated with AFB1 exceeded the limit (2 μg kg−1) established by the European Commission (EC). The EDI of aflatoxins due to the consumption of arepa (0.732) and rice (3.093) were above the recommended level of 0.017 ng kg−1 bw day−1. Also, the estimated number of liver cancer cases associated with AFB1 exposure due to arepa (0.726) and rice (3.314) consumption was above the suggested limit of 0.1 cases/75 years/100,000 individuals. Finally, the MOEs obtained by arepa and rice consumption were 277.5 and 60.79, respectively, far from the safe margin of 10,000, thereby indicating a potential risk to public health. © 2018 Elsevier Ltd},
+   notes = {Cited By :4
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058789316&doi=10.1016%2fj.foodcont.2018.11.046&partnerID=40&md5=53d0a5ff0cbfb4b11a0fae12af1a7566},
+   address = {Grupo de Investigación en Cromatografía y Técnicas Afines (GICTA), Departamento de Ingeniería, Facultad de Ingeniería, Universidad de Caldas, Calle 65 # 26-10, Manizales, 170004, Colombia
+Grupo de Investigación en Cromatografía y Técnicas Afines (GICTA), Departamento de Química, Facultad de Ciencias Exactas y Naturales, Universidad de Caldas, Calle 65 # 26-10, Manizales, 170004, Colombia},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {McMaster, N. and Acharya, B. and Harich, K. and Grothe, J. and Mehl, H. L. and Schmale, D. G., III},
+   year = {2019},
+   title = {Quantification of the Mycotoxin Deoxynivalenol (DON) in Sorghum Using GC-MS and a Stable Isotope Dilution Assay (SIDA)},
+   journal = {Food Analytical Methods},
+   volume = {12},
+   issue = {10},
+   pages = {2334-2343},
+   DOI = {10.1007/s12161-019-01588-3},
+   keywords = {Deoxynivalenol
+GC-MS
+Mycotoxin
+Sorghum
+Stable isotope
+Trichothecene},
+   abstract = {Sorghum has gained popularity with consumers as a grain source with its gluten-free and high protein dietary characteristics. Acreage has increased recently, in part due to the demand for an alternative feed source for poultry and swine. New information is needed about the level of mycotoxin contamination in sorghum accessions, and accurate and affordable analytical methods need to be developed and tested to quantify mycotoxins in sorghum. A traditional method (solid-phase extraction chromatography with C18, followed by GC-MS) to quantify the mycotoxin deoxynivalenol (DON) produced inconsistent DON values following controlled spiking and recovery experiments with different sorghum accessions. Consequently, we incorporated a stable isotope (d1-DON) as an internal standard into a traditional GC-MS method. This method, stable isotope dilution assay (SIDA), was used to accurately determine DON levels in 196 sorghum samples representing 98 different accessions. Of the 98 accessions tested (two samples per accession), 76 of the accessions had DON levels that were greater than the limit of detection for both methods (0.20 μg g−1). For a USA regulatory threshold of 1 μg g−1, about one third of all the accessions (26/76) had at least 20% more DON using the SIDA method. For a regulatory threshold of 5 μg g−1, about 7% of all the accessions (5/76) had at least 20% more DON using the SIDA method. Using SIDA, the amount of DON in a sorghum sample can be accurately and reliably quantitated by basing calculations on the recovery of d1-DON, and this method may have future applications for quantifying DON from samples with complex matrices. © 2019, Springer Science+Business Media, LLC, part of Springer Nature.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85069732382&doi=10.1007%2fs12161-019-01588-3&partnerID=40&md5=c46c8145564b0d74c7bdd132aaf9d3ae},
+   address = {School of Plant and Environmental Sciences, Virginia Tech, Blacksburg, VA 24061, United States
+Virginia Tech Tidewater Agricultural Research and Extension Center, Suffolk, VA 23437, United States
+Department of Biochemistry, Virginia Tech, Blacksburg, VA 24061, United States},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Mebdoua, S. and Ounane, G.},
+   year = {2019},
+   title = {Evaluation of pesticide residues in wheat grains and its products from Algeria},
+   journal = {Food Additives and Contaminants: Part B Surveillance},
+   volume = {12},
+   issue = {4},
+   pages = {289-295},
+   DOI = {10.1080/19393210.2019.1661529},
+   keywords = {Algeria
+long-term exposure
+Maximum Residue Limits
+Pesticide residues
+pirimiphos methyl
+wheat},
+   abstract = {The presence of pesticide residues in wheat grains and its products produced and imported in Algeria was determined using QuEchERS extraction method and multi-residue analysis by gas chromatography–mass spectrometry. Among the 80 wheat samples analysed, detectable residues were found in 62.5% of samples. The most often pesticide found was pirimiphos methyl in 46 samples (57.5%). A percentage of 5% of samples contained pesticide residues above Maximum Residue Limits (MRLs) due to benalaxyl, chlorpyrifos and metalaxyl residues. Risk assessment for long-term exposure was done for all pesticides detected in wheat grains, the risk of exposure of Algerian consumers to pirimiphos methyl residues through wheat consumption was potentially high (EDI = 78%ADI). This risk was less important in the case of chlorpyrifos (EDI<9% ADI). For the others residues, EDIs were less than 1.5% of ADIs. © 2019, © 2019 Taylor & Francis.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85071977234&doi=10.1080%2f19393210.2019.1661529&partnerID=40&md5=79bf796f7c90c8182836c904bdfef79e},
+   address = {Département des sciences agronomiques, Université de Akli Mohand Oulhadj Bouira, Bouira, Algeria
+Laboratoire d’amélioration intégrative des productions végétales, Ecole nationale supérieure agronomique, Alger, Algeria},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Morrison, D. M. and Ledoux, D. R. and Chester, L. F. B. and Samuels, C. A. N.},
+   year = {2019},
+   title = {Occurrence of aflatoxins in rice and in cassava (Manihot esculenta) products (meal, bread) produced in Guyana},
+   journal = {Mycotoxin Research},
+   volume = {35},
+   issue = {1},
+   pages = {75-81},
+   date = {Feb},
+   ISSN = {0178-7888},
+   DOI = {10.1007/s12550-018-0332-3},
+   accession_number = {WOS:000455655800008},
+   abstract = {A survey was conducted on Guyana's main staple foods, rice, cassava meal and cassava bread to determine the presence and concentration of aflatoxins (AFs) using enzyme-linked immunosorbent assay (ELISA) and high-performance liquid chromatography (HPLC) with fluorescence detection for concurrence. Aflatoxins are secondary metabolites of the fungus Aspergillus and can be a health risk to humans and animals.Results were compared with European Union Commission (EUC) maximum levels of total aflatoxins of 10g/kg. Various types of rice (paddy, steamed paddy, cargo rice, white rice and parboiled rice) were randomly collected either directly from the field and rice mills in Guyana during the November 2015/March 2016 season. Of the total 186 composite samples of rice fractions collected from field and mills, 10% (19) had AF concentrations greater than the maximum EUC level of 10g/kg. Fifteen samples had aflatoxin concentrations ranging from 10 to 171g/kg, mean 54.4g/kg; four samples were outliers. Since Guyanese consume mainly white and parboiled rice, composite samples were taken along the marketing chain at points of sale to determine the presence of AFs. Of the sixty samples of white rice collected, 6.7% (4) had AF concentrations greater than the EUC regulatory limits ranging from 31.9 to 131g/kg, mean 80.8g/kg. For the 57 samples of parboiled rice, 3.5% (2) samples exceeded the limit with values of 72.6 and 407g/kg. Forty (40) samples each of cassava meal and cassava bread were analysed fresh and after 2months of storage, and no sample exceeded the ELISA detection limit of 0.5g/kg.},
+   notes = {Morrison, Donna M. Ledoux, David R. Chester, Lambert F. B. Samuels, Coretta A. N.
+1867-1632},
+   url = {<Go to ISI>://WOS:000455655800008},
+
+}
+
+@article{Journal Article,
+   author = {Mousavi Khaneghah, A. and Fakhri, Y. and Gahruie, H. H. and Niakousari, M. and Sant'Ana, A. S.},
+   year = {2019},
+   title = {Mycotoxins in cereal-based products during 24 years (1983–2017): A global systematic review},
+   journal = {Trends in Food Science and Technology},
+   volume = {91},
+   pages = {95-105},
+   DOI = {10.1016/j.tifs.2019.06.007},
+   keywords = {Contamination
+Deoxynivalenol
+Food analysis
+Food safety
+Food toxicology
+Ochratoxin A
+Total aflatoxin
+Toxigenic fungi
+Zearalenone},
+   abstract = {Background: Cereal and cereal-based products are used as an important sources of energy and minerals as well as vitamins in all of the world. However, their contamination with mycotoxins reserved huge concerns due to adverse effects of mycotoxin on human health. Scope and approach: The present research was undertaken to evaluate published studies regarding the identification of mycotoxins zearalenone (ZEN), ochratoxin A (OTA), deoxynivalenol (DON), and total aflatoxin (TAF) in the cereal-based products between 1 January 1983 and 25 December 2017. In this regard, 66 out of 2817 screened studies were used in the conducted systematic review. Key findings and conclusions: The lowest and highest number of published reports was associated with DON and TAF in some of the cereal-based products, respectively. Among the countries, Germany was ranked as the first in establishing investigations. Moreover, the liquid chromatography-electrospray ionization-tandem mass spectrometry (LC-ESI/MS) was categorized as the most implemented technique for mycotoxin detection. The rank order of products cereal-based food based on number of studies was cereal grains > cornflake > bread > breakfast > flour > infant product > pasta > other products. The results of this study not only summarized the most frequently mycotoxin detection technique but also may provide a roadmap for future research regarding the mycotoxins detection analysis. © 2019 Elsevier Ltd},
+   notes = {Cited By :3
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068263641&doi=10.1016%2fj.tifs.2019.06.007&partnerID=40&md5=7cab4c59385c1651cb10045e5d9df1a8},
+   address = {Department of Food Science, Faculty of Food Engineering, University of Campinas, Campinas, SP, Brazil
+Department of Environmental Health Engineering, Student Research Committee, Shahid Beheshti University of Medical Sciences, Tehran, Iran
+Department of Food Science and Technology, School of Agriculture, Shiraz University, Shiraz, Iran
+Biomolecular Engineering Laboratory, Department of Food Science and Technology, School of Agriculture, Shiraz University, Shiraz, Iran},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Mousavi Khaneghah, A. and Fakhri, Y. and Nematollahi, A. and Pirhadi, M.},
+   year = {2020},
+   title = {Potentially toxic elements (PTEs) in cereal-based foods: A systematic review and meta-analysis},
+   journal = {Trends in Food Science and Technology},
+   volume = {96},
+   pages = {30-44},
+   DOI = {10.1016/j.tifs.2019.12.007},
+   keywords = {Cereal-based products
+Impact of unit processing
+Meta-analysis
+Potential toxic elements (PTEs)
+Systematic review},
+   abstract = {Background: The current meta-analysis study was aimed to estimate the potentially toxic elements (PTEs) contamination in cereal grains and their products such as wheat, rice, corn, maize, barley, oat, peas, soybean, cornflakes, and breakfast. Scope and approach: The recommended databases, including PubMed, Scopus, and ScienceDirect databases, were investigated to collect data regarding the PTEs contamination in cereal-based products from 1 January 1983 to 30 May 2019. Key findings and conclusions: Among 1401 retrieved citations in the identification step, 45 articles were included in the conducted meta-analysis. In this context, the overall rank order of PTEs mean concentration in the cereal foods was Fe > Zn > Mn > Cu > Ni > Cr > Cd > As > Pb > Sn > Hg. The results of the current study showed that processing has a strong effect on the reduction of PTEs except in the case of Zn and Sn. The concentration of Cu, Cd, Pb, Fe, Hg and Mn in wheat was higher than corn and rice. The amount of Zn and As in rice was greater than wheat and corn while the concentration of Ni and Cr in corn was higher than wheat and rice. The findings of this meta-analysis may be useful for the building of risk assessment models aiming to derive data for the development of specific actions to reduce exposure to PTEs through the consumption of the cereal-based products. © 2019 Elsevier Ltd},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076493493&doi=10.1016%2fj.tifs.2019.12.007&partnerID=40&md5=fc4ca774274f7acb61938747afcdb6bb},
+   address = {Department of Food Science, Faculty of Food Engineering, University of Campinas (UNICAMP), Rua Monteiro Lobato, 80, Caixa, Postal: 6121, Campinas, São Paulo CEP: 13083-862, Brazil
+Department of Environmental Health Engineering, Student Research Committee, Shahid Beheshti University of Medical Sciences, Tehran, Iran
+Department of Food Safety and Hygiene, School of Health, Fasa University of Medical Sciences, Fasa, Iran
+Department of Environmental Health, School of Public Health, Tehran University of Medical Sciences, Tehran, Iran},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Mousavi Khaneghah, A. and Kamani, M. H. and Fakhri, Y. and Coppa, C. F. S. C. and de Oliveira, C. A. F. and Sant'Ana, A. S.},
+   year = {2019},
+   title = {Changes in masked forms of deoxynivalenol and their co-occurrence with culmorin in cereal-based products: A systematic review and meta-analysis},
+   journal = {Food Chemistry},
+   volume = {294},
+   pages = {587-596},
+   DOI = {10.1016/j.foodchem.2019.05.034},
+   keywords = {Cereal-based foods
+Emerging mycotoxins
+Fate
+Food safety
+Hidden mycotoxin
+Meta-analysis
+Processing},
+   abstract = {This study was aimed to evaluate the fate of D3G, 3-ADON, and 15-ADON during various processing steps (milling, fermentation, baking and cooking with water) of different cereal-based products, as well as the co-occurrence of culmorin (CUL) and its derivatives (15-Hydroxy-CUL and 5-Hydroxy-CUL. Some databases such as Science Direct, PubMed, Scopus, and Embase were screened to collect the relevant published papers between January 1983 to October 2018, and 23 articles with 319 data were included. The baking resulted in reductions in the concentration of all types of investigated masked mycotoxins, i.e., 15-ADON (−25%) > 3-ADON (−15%) > D3G (−6%). Also, rank order of CUL and its derivatives based on occurrence was CUL (70%) > 15-Hydroxy-CUL (47%) > 5-Hydroxy-CUL (15%) and their rank based on their concentration was 5-Hydroxy-CUL (99.21 µg/kg) > CUL (48.84 µg/kg) > 15-Hydroxy-CUL (9.39 µg/kg) > Hydroxy -CUL (0.06 µg/kg) > 12-Hydroxy-CUL (0.05 µg/kg) > 14-Hydroxy-CUL (0.01 µg/kg). © 2019 Elsevier Ltd},
+   notes = {Cited By :8
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065754702&doi=10.1016%2fj.foodchem.2019.05.034&partnerID=40&md5=942a0bc2fc51ad5c837f048b8012e0ef},
+   address = {Department of Food Science, Faculty of Food Engineering, University of Campinas (UNICAMP), Rua Monteiro Lobato, 80. Caixa Postal: 6121. CEP: 13083-862, Campinas, São Paulo, Brazil
+Young Researchers and Elite Club, Sabzevar Branch, Islamic Azad University, Sabzevar, Iran
+Department of Environmental Health Engineering, Student Research Committee, School of Public Health, Shahid Beheshti University of Medical Sciences, Tehran, Iran
+Department of Food Engineering, School of Animal Science and Food Engineering, University of São Paulo, Av. Duque de Caxias – Norte, 225, CEP 13635-900, Pirassununga, SP, Brazil},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Pante, G. C. and Silva, M. V. and Romoli, J. C. Z. and Rocha, G. H. O. and Bando, E. and Nerilo, S. B. and Mossini, S. A. G. and Machinski, M., Jr.},
+   year = {2019},
+   title = {Occurrence of zearalenone in corn meal commercialized in south region of Brazil and daily intake estimates in the Brazilian population},
+   journal = {Journal of Food Safety},
+   volume = {39},
+   issue = {5},
+   DOI = {10.1111/jfs.12672},
+   article_number = {e12672},
+   abstract = {The purpose of this study was to assess the risk of zearalenone (ZEA) in corn meal produced and commercialized in State of Parana, Brazil. The extraction method carried out with a Romer Mycosep 226 column was found to be efficient due to addition of both diatomaceous earth and centrifuging during the cleaning step. From the total of 84 analyzed samples, 78.6% (n = 66) were found to be contaminated ZEA at levels between 15.4 and 72.1 μg/kg. This study was the first report on occurrence of positive samples for ZEA in corn meal commercialized in Parana since 2005. The estimated daily intake (EDI) of ZEA for the Brazilian population and for the State of Parana was 3.1 and 2.2 ng/kg bw/day, respectively. The EDI was below the tolerable daily intake of 250 ng/kg bw/day. Despite the low health risk of the population, it was observed that the occurrence of ZEA in corn meal was frequent, which demonstrates the importance of monitoring studies to ensure consumer's health. Practical applications: Occurrence of zearalenone in corn meal was high (78.6%) in Brazil. First report on corn meal samples positive for zearalenone in Paraná, Brazil. No sample exceeded the tolerated limit by both Brazilian and European legislation. EDI due to corn meal consumption was inferior to TDI. © 2019 Wiley Periodicals, Inc.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068102385&doi=10.1111%2fjfs.12672&partnerID=40&md5=f08557334689bdc868103a9b07303266},
+   address = {Department of Health Basic Sciences, State University of Maringa (UEM), Laboratory of Toxicology, Maringa, Brazil
+Department of Clinical and Toxicological Analyses, University of Sao Paulo (USP), Laboratory of Experimental Toxicology, Sao Paulo, Brazil
+Department of Pharmacy, Inga College (Uninga), Maringa, Brazil},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Pirsaheb, M. and Fakhri, Y. and Karami, M. and Akbarzadeh, R. and Safaei, Z. and Fatahi, N. and Sillanpää, M. and Asadi, A.},
+   year = {2019},
+   title = {Measurement of permethrin, deltamethrin and malathion pesticide residues in the wheat flour and breads and probabilistic health risk assessment: a case study in Kermanshah, Iran},
+   journal = {International Journal of Environmental Analytical Chemistry},
+   volume = {99},
+   issue = {13},
+   pages = {1353-1364},
+   DOI = {10.1080/03067319.2019.1622009},
+   keywords = {bread
+deltamethrin
+Kermanshah
+malathion
+Permethrin
+risk assessment},
+   abstract = {This study was conducted to investigate the residues of pyrethroid and organophosphorus pesticide in flour and breads which were collected from local markets in Kermanshah province, Iran. Four different types of breads and two types of flour samples with high distribution were taken from market and their residues of pesticides were measured. A simple dispersive liquid–liquid microextraction (DLLME) method with solidification of floating organic drop was developed for the measurement. The health risk of these pesticides on adults and children health was assessed by target hazard quotient (THQ) using Monte Carlo simulation (MCS) method. About, 15% and 11.1% of total samples contained detectable levels of deltamethrin and malathion, respectively. None of the tested samples showed any permethrin residue. The results from all samples showed that none of the pesticides exceeded the maximum residue limits (MRLs). About 85% of pesticide residue detections were observed in tropical and mild weather area which is due to high consumption rate of insecticides in these areas. The percentile 95% of THQ is due to bread ingestion content of deltamethrin which was 0.033 and 0.070 for the adults and children, respectively, while this value for malathion was found to be, 0.015 and 0.030, respectively. In the adults and children for both deltamethrin and malathion, the percentile 95% of THQ value were lower than 1 (acceptable level). The non-carcinogenic health risk assessment indicated that bread consumers in Kermanshah province are not at a considerable risk because of deltamethrin and malathion. © 2019, © 2019 Informa UK Limited, trading as Taylor & Francis Group.},
+   notes = {Cited By :1
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067550565&doi=10.1080%2f03067319.2019.1622009&partnerID=40&md5=fd04cedaa6c11d51a9fc0f7f567ae523},
+   address = {Research Center for Environmental Determinants of Health, Health Institute, Kermanshah University of Medical Sciences, Kermanshah, Iran
+Department of Environmental Health Engineering, School of Public Health and Safety, Shahid Beheshti University of Medical Sciences, Tehran, Iran
+Student Research Committee, Kermanshah University of Medical Sciences, Kermanshah, Iran
+Mechanical Engineering Department, Faculty of Engineering and the Built Environment, University of Johannesburg, Johannesburg, South Africa
+Department of Green Chemistry, LUT University, Mikkeli, Finland
+Department of Chemistry and Biochemistry, New Mexico State University, Las Cruces, NM, United States},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Proshad, R. and Kormoker, T. and Islam, M. S. and Chandra, K.},
+   year = {2019},
+   title = {Potential health risk of heavy metals via consumption of rice and vegetables grown in the industrial areas of Bangladesh},
+   journal = {Human and Ecological Risk Assessment},
+   DOI = {10.1080/10807039.2018.1546114},
+   keywords = {Bangladesh
+health risk
+Heavy metals
+rice
+vegetables},
+   abstract = {Heavy metals are toxic in nature, and their contamination in foodstuff is a matter of concern for human health. The present study was conducted to assess the concentrations of chromium, nickel, copper, arsenic, cadmium, and lead in rice and vegetables and their possible human health risks in Tangail district, Bangladesh. Metals were measured by inductively coupled plasma mass spectrometry (ICP-MS) after microwave digestion system. The average values of Cr, Ni, Cu, As, Cd, and Pb in rice and vegetables were 16.26, 16.11, 13.99, 2.28, 1.86, and 7.93 mg/kg, respectively. The average metal concentration in rice and vegetable species was in the decreasing order of okra &gt; chili &gt; bitter gourd &gt; papaya &gt; brinjal &gt; bean &gt; bottle gourd &gt; rice &gt; cucumber &gt; sponge gourd &gt; Indian spinach. The estimated daily intake (EDI) values of all the metals except Cu were higher than the maximum tolerable daily intake (MTDI). The target hazard quotients (THQs) values of Ni, Cu, As, Cd, and Pb exceeded the threshold value of 1 through consumption of rice and vegetables, indicating significant health risks to both adult and children. The target carcinogenic risk (TR) of As and Pb through consumption of rice and vegetables was higher than the USEPA threshold level (10−4). From the health point of view, this study clearly revealed that consumption of these contaminated rice and vegetables definitely poses carcinogenic and non-carcinogenic risks. © 2019, © 2019 Taylor & Francis Group, LLC.},
+   notes = {Cited By :2
+Export Date: 21 January 2020
+Article in Press},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060139422&doi=10.1080%2f10807039.2018.1546114&partnerID=40&md5=89e79dbf68ca4b1013e341fbb4629386},
+   address = {Department of Soil Science, Patuakhali Science and Technology University, Patuakhali, Bangladesh
+Department of Emergency Management, Patuakhali Science and Technology University, Patuakhali, Bangladesh
+Department of Applied Biological Chemistry, Graduate School of Agricultural and Life Sciences, The university of Tokyo, Tokyo, Japan
+Department of Chemistry, Goverment Saadat College, Tangail, Bangladesh},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Qiu, J. B. and Xu, J. H. and Shi, J. R.},
+   year = {2019},
+   title = {Fusarium Toxins in Chinese Wheat since the 1980s},
+   journal = {Toxins},
+   volume = {11},
+   issue = {5},
+   date = {May},
+   ISSN = {2072-6651},
+   DOI = {10.3390/toxins11050248},
+   article_number = {248},
+   accession_number = {WOS:000472672300011},
+   abstract = {Wheat Fusarium head blight (FHB), caused by Fusarium species, is a widespread and destructive fungal disease. In addition to the substantial yield and revenue losses, diseased grains are often contaminated with Fusarium mycotoxins, making them unsuitable for human consumption or use as animal feed. As a vital food and feed ingredient in China, the quality and safety of wheat and its products have gained growing attention from consumers, producers, scientists, and policymakers. This review supplies detailed data about the occurrence of Fusarium toxins and related intoxications from the 1980s to the present. Despite the serious situation of toxin contamination in wheat, the concentration of toxins in flour is usually lower than that in raw materials, and food-poisoning incidents have been considerably reduced. Much work has been conducted on every phase of toxin production and wheat circulation by scientific researchers. Regulations for maximum contamination limits have been established in recent years and play a substantial role in ensuring the stability of the national economy and people's livelihoods.},
+   notes = {Qiu, Jianbo Xu, Jianhong Shi, Jianrong},
+   url = {<Go to ISI>://WOS:000472672300011},
+
+}
+
+@article{Journal Article,
+   author = {Rahman, M. and Islam, M. A.},
+   year = {2019},
+   title = {Concentrations and Health Risk Assessment of Trace Elements in Cereals, Fruits, and Vegetables of Bangladesh},
+   journal = {Biological Trace Element Research},
+   volume = {191},
+   issue = {1},
+   pages = {243-253},
+   DOI = {10.1007/s12011-018-1596-3},
+   keywords = {Atomic absorption spectrometry
+Dietary intake
+Foodstuffs
+Health risks
+Trace elements},
+   abstract = {This study was conducted to determine concentrations of five toxic trace elements (Cr, Ni, As, Cd, and Pb) in cereals, fruits, and vegetables of Bangladesh. The range of mass fractions (mg/kg) of Cr, Ni, As, Cd, and Pb in the foodstuffs was 0.090–2.5, 0.03–2.6, 0.13–1.7, 0.010–0.74, and 0.37–2.2, respectively. This study indicates that concentration of Cr, and Pb in fruits; As, Cd, and Pb in vegetables were higher than WHO/FAO maximum allowable concentration levels. The hazard index (HI) values for adults and children of the toxic elements in studied cereals, fruits and vegetables were higher than 1.0, suggesting non-carcinogenic adverse health hazard to the consumers. The estimated target carcinogenic risk (TCR) values were greater than the threshold level of 1.0 × 10−4 for Cr and Cd in cereals and vegetables indicate potential cancer risk to both adults and children for consumption of the foodstuffs. The present study reveals that trace elements contamination in foodstuffs is a serious issue of concern in Bangladesh. © 2019, Springer Science+Business Media, LLC, part of Springer Nature.},
+   notes = {Cited By :1
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059571039&doi=10.1007%2fs12011-018-1596-3&partnerID=40&md5=f0e9dcb4c95b874ec481e3b4ffdbf2f6},
+   address = {Department of Nuclear Science & Engineering, Military Institute of Science and Technology, Mirpur, Dhaka, 1216, Bangladesh
+Institute of Nuclear Science & Technology, Atomic Energy Research Establishment, Ganakbari, Ashulia, Dhaka, 1349, Bangladesh},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Samiee, H. and Hosseini, H. and Mofid, V. and Jannat, B.},
+   year = {2020},
+   title = {Contamination and risk assessment of total aflatoxin in Iranian rice in various food security regions},
+   journal = {Iranian Journal of Nutrition Sciences and Food Technology},
+   volume = {14},
+   issue = {4},
+   pages = {45-54},
+   keywords = {Food security regions
+Iranian rice
+Risk assessment
+Total aflatoxin},
+   abstract = {Background and Objectives: Aflatoxin is one of the most important and common toxins in high consumption foods such as rice, which can threaten health of the consumers. In this study, risk of total aflatoxin based on its exposure levels and adverse effects was assessed in Iranian rice. Materials &amp; Methods: This study was carried out on total aflatoxin in 60 national rice samples collected based on the Food Safety and Nutrition regions. The risk score was assessed in each region and through the country using quantitative risk assessment method based on the estimated exposure, provisional maximum tolerable daily intake (PMTDI), carcinogenic slip factor (CSF) in the two groups of HBAg+ and HBAg- and effects of various cooking methods. Results: The mean and standard deviation of the total aflatoxin content in rice samples included 1.13 and 1.8 μg/kg, respectively. Results of the exposure assessment in terms of minimum, average and maximum concentrations of the contaminants and the consumption volume in each region for the two groups of HBAg+ and HBAg- showed that the highest risk score was linked to rice cooking method in rural areas of relatively unsafe regions and in HBAg+ group. Conclusion: Despite a high-risk score volume of the rice consumption in Iran, results have shown that the total aflatoxin in rice is lower than the maximum eligible limit by the Iranian National Standard (30 μg/kg); therefore, total aflatoxin contamination of the rice in Iran includes no risks to the health of consumers. © 2020, National Nutrition and Food Technology Research Institute. All rights reserved.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077602809&partnerID=40&md5=4bec2dadc43c9826167ff6c85ea25445},
+   address = {Halal research center of IRI, FDA, Tehran, 1415845371, Iran
+Food Science and Technology Department, National Nutrition and Food Technology Research Institute, Faculty of Nutrition Sciences and Food Technology, Shahid Beheshti University of Medical Sciences, Tehran, Iran
+Food Safety Research Center, Shahid Beheshti University of Medical Sciences, Iran},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Sharafi, K. and Yunesian, M. and Nodehi, R. N. and Hossein Mahvi, A. and Pirsaheb, M. and Nazmara, S.},
+   year = {2019},
+   title = {The reduction of toxic metals of various rice types by different preparation and cooking processes – Human health risk assessment in Tehran households, Iran},
+   journal = {Food Chemistry},
+   volume = {280},
+   pages = {294-302},
+   DOI = {10.1016/j.foodchem.2018.12.060},
+   keywords = {Cooked rice
+Soaking
+Tehran
+Toxic metals
+Washing},
+   abstract = {In this study, the effect of washing, soaking (1, 5 and 12 h), and cooking rice methods including Rinsed (boiling in excess water) and Kateh (conventional) cooking on the reduction of the arsenic (As), lead (Pb), and cadmium (Cd) were evaluated. The results showed that the rinsed cooking has higher efficiency for removal of toxic metals (As = 42.3%, Pb = 42.9% and = 27.6%) than Kateh method (As = 26.9%, Pb = 26.9% and = 20.9%). Additionally, by increasing of rice soaking time from 1 to 12 h, the toxic metals removal was increased up to 37.1%, 42.6% and 16.6% for As, Pb and Cd, respectively. Although the toxic metals reduction was such that the non-carcinogenic risk was regarded as acceptable level after all processes, for arsenic, these reductions did not lower the carcinogenic risk to an acceptable level. Finally, it is suggested that Tehran households, after washing and soaking to 5 h, then cook it by rinse method. © 2018 Elsevier Ltd},
+   notes = {Cited By :9
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059333245&doi=10.1016%2fj.foodchem.2018.12.060&partnerID=40&md5=3b1385c607e0a54761fd617219c3d138},
+   address = {Department of Environmental Health Engineering, School of Public Health, Tehran University of Medical Sciences, Tehran, Iran
+Center for Research Methodology and Data Analysis (CRMDA), Institute for Environmental Research (IER), Tehran University of Medical Sciences, Tehran, Iran
+Center for Air Pollution Research (CAPR), Institute for Environmental Research (IER), Tehran University of Medical Sciences, Tehran, Iran
+Center for Solid Waste Research (CSWR), Institute for Environmental Research (IER), Tehran University of Medical Sciences, Tehran, Iran
+Research Center for Environmental Determinants of Health (RCEDH), Kermanshah University of Medical Sciences, Kermanshah, Iran},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Sharafi, K. and Yunesian, M. and Nodehi, R. N. and Mahvi, A. H. and Pirsaheb, M.},
+   year = {2019},
+   title = {A systematic literature review for some toxic metals in widely consumed rice types (domestic and imported) in Iran: Human health risk assessment, uncertainty and sensitivity analysis},
+   journal = {Ecotoxicology and Environmental Safety},
+   volume = {176},
+   pages = {64-75},
+   DOI = {10.1016/j.ecoenv.2019.03.072},
+   keywords = {Iran
+Rice
+Risk assessment
+Systematic review
+Toxic metals},
+   abstract = {In present study we aimed to investigate the literature in the form of systematic review to determinate the concentrations of some toxic metals (arsenic, lead, and cadmium) in widely consumed rice brands in Iran and their related health risks. International and Iranian national databases were searched carefully with appropriate keywords for papers on toxic metal contamination of rice from Agust-2000 to Agust-2018. Initially, 560 articles were found, of which only the 50 papers fit the inclusion criteria and were selected for further analysis. The Monte Carlo Simulation was applied to generate missing data (mean, standard deviation, data distribution and sample size) of toxic metal concentration in some papers. Then, statistical analysis, health risk assessment, and uncertainty and sensitivity analysis were performed. The results indicated that approximately 88% of rice consumed in Iran (including Iranian, Pakistani and Indian rice) do not meet the national standard and WHO/FAO guideline requirements and their related health risks are unacceptable. The risks of arsenic and lead in Indian rice and cadmium in Iranian rice were considerably higher than others. In conclusion, according to our findings, In conclusion, it is necessary to prevent toxic metals contamination of rice by modifying cultivation patterns and, also, prevent low-quality rice brands to be imported. © 2019},
+   notes = {Cited By :7
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063342940&doi=10.1016%2fj.ecoenv.2019.03.072&partnerID=40&md5=d3cd0fc983d325fc6577b8817d3778be},
+   address = {Department of Environmental Health, School of Public Health, Tehran University of Medical Sciences, Tehran, Iran
+Center for Research Methodology and Data Analysis (CRMDA), Institute for Environmental Research (IER), Tehran University of Medical Sciences, Tehran, Iran
+Center for Air Pollution Research (CAPR), Institute for Environmental Research (IER), Tehran University of Medical Sciences, Tehran, Iran
+Center for Solid Waste Research (CSWR), Institute for Environmental Research (IER), Tehran University of Medical Sciences, Tehran, Iran
+Research Center for Environmental Determinants of Health (RCEDH), Kermanshah University of Medical Sciences, Kermanshah, Iran},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Shephard, G. S. and Burger, H. M. and Rheeder, J. P. and Alberts, J. F. and Gelderblom, W. C. A.},
+   year = {2019},
+   title = {The effectiveness of regulatory maximum levels for fumonisin mycotoxins in commercial and subsistence maize crops in South Africa},
+   journal = {Food Control},
+   volume = {97},
+   pages = {77-80},
+   DOI = {10.1016/j.foodcont.2018.10.004},
+   keywords = {Fumonisin
+Maize
+Maximum level
+Mycotoxin
+Subsistence farmers
+Transkei},
+   abstract = {The fumonisins are carcinogenic mycotoxins that have been implicated in various adverse human health effects. Recently, the Codex Alimentarius Commission set maximum levels (MLs) for fumonisin mycotoxins at 4000 μg/kg for raw maize and 2000 μg/kg for maize flour and maize meal and these have been incorporated into South African health regulations. The MLs are intended to be health protective such that fumonisin exposures will be below the provisional maximum tolerable daily intake (PMTDI) of fumonisin of 2 μg/kg body weight/day set by the Joint FAO/WHO Expert Committee on Food Additives (JECFA). South Africa has an extensive commercial maize farming industry as well as a large subsistence farming population reliant on home-grown maize. The available data on fumonisin contamination levels indicates that these MLs are readily met by the commercial crop. However, the situation in subsistence farming areas such as in the Eastern Cape Province region is of concern. The daily consumption of large amounts of highly fumonisin-contaminated home-grown maize is of relevance mainly due to rudimentary milling, which is not subject to the reduction in mycotoxin contamination associated with commercial milling. Analysis of historical fumonisin data from the Eastern Cape region indicates that approximately 12.8% of raw maize and 25% of the rural locally produced flour would not meet the respective MLs of 4000 μg/kg ML and 2000 μg/kg. Further analysis shows that given the high maize intake levels of this population, only prohibitively low MLs for raw maize of around 100–300 μg/kg would be health protective for different age groups in this area. Based on this analysis, the lowering of fumonisin exposure in subsistence farmers requires an integrated approach and cannot be achieved purely by regulatory means. © 2018 Elsevier Ltd},
+   notes = {Cited By :5
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055995680&doi=10.1016%2fj.foodcont.2018.10.004&partnerID=40&md5=86b698057011fd470feddcad2014bcc5},
+   address = {Mycotoxicology and Chemoprevention Research Group, Institute of Biomedical and Microbial Biotechnology, Cape Peninsula University of Technology, PO Box 1906, Bellville, 7535, South Africa
+Department of Biochemistry, University of Stellenbosch, Private Bag X1, Matieland7602, South Africa},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Shi, H. and Schwab, W. and Yu, P.},
+   year = {2019},
+   title = {Natural occurrence and co-contamination of twelve mycotoxins in industry-submitted cool-season cereal grains grown under a low heat unit climate condition},
+   journal = {Toxins},
+   volume = {11},
+   issue = {3},
+   DOI = {10.3390/toxins11030160},
+   article_number = {160},
+   keywords = {Cereals
+Deoxynivalenol
+Feed and food co-occurrence
+Mycotoxin contamination},
+   abstract = {This study aims to evaluate the prevalence of mycotoxins in industry-submitted cool-season barley and wheat grown under low heat unit climate conditions. Seventy-two barley samples and 83 wheat samples were submitted by producers and industry from May 2016 to May 2017. The concentrations of twelve common mycotoxins, including nivalenol (NIV), deoxynivalenol (DON), 3-acetyldeoxynivalenol (3-ADON), 15-acetyldeoxynivalenol (15-ADON), ochratoxin A (OTA), zearalenone (ZEN), α-zearalenol (α-ZAL), β-zearalenol (β-ZAL), diacetoxyscirpenol (DAS), T-2 toxin (T-2), HT-2 toxin (HT-2), and aflatoxin B1 (AFB1), were determined using the liquid chromatography/tandem mass spectrometry method. Mycotoxins were detected in 40 barley (56%) and 35 wheat (42%) samples submitted by producers and industry. DON showed the highest incidence in barley (44%) and wheat (33%). None of the barley samples contained detectable DAS and no wheat samples tested positive for α-ZAL, DAS, T-2, or AFB1. Co-occurrence of DON and other mycotoxins was frequently observed. Among the mycotoxin-positive samples, 70% of barley samples and 54% of wheat samples were co-contaminated with at least two mycotoxins. Four barley (6%) and five wheat (6%) samples contained levels of DON above 1000 µg/kg (regulatory level in diets for lactating dairy animals) and HT-2 content in five barley (7%) and four wheat (5%) samples exceeded 100 µg/kg (regulatory level in diets for cattle and poultry). Overall, contamination of these mycotoxins was more frequent and more severe in barley in comparison with wheat that was submitted by producers and industry. Comprehensive strategies, including the prevention of Fusarium toxins contamination, the routine monitoring of their prevalence, the detoxification of them in feed and food, as well as the inhibition of their absorption in the gastrointestinal tract, are highly required. A rapid detection method needs to be developed to screen mycotoxins in industry-submitted cool-season cereal grains. © 2019 by the authors. Licensee MDPI, Basel, Switzerland.},
+   notes = {Cited By :2
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062986201&doi=10.3390%2ftoxins11030160&partnerID=40&md5=38369fc3fae64bfea9a4fc4740276aa6},
+   address = {Department of Animal and Poultry Science, College of Agriculture and Bioresources, University of Saskatchewan, 6D10 Agriculture Building, 51 Campus Drive, Saskatoon, SK S7N 5A8, Canada
+Ministry of Education Key Laboratory of Conservation & Utilization of Qinghai-Tibetan Plateau Animal Genetic Resources, Southwest Minzu University, Chengdu, 610041, China
+College of Life Science and Engineering, Foshan University, Guangdong, 528000, China
+Prairie Diagnostic Services, University of Saskatchewan, Saskatoon, SK S7N 5B4, Canada},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Shi, H. T. and Schwab, W. and Liu, N. and Yu, P. Q.},
+   year = {2019},
+   title = {Major ergot alkaloids in naturally contaminated cool-season barley grain grown under a cold climate condition in western Canada, explored with near-infrared (NIR) and fourier transform mid-infrared (ATR-FT/MIR) spectroscopy},
+   journal = {Food Control},
+   volume = {102},
+   pages = {221-230},
+   date = {Aug},
+   ISSN = {0956-7135},
+   DOI = {10.1016/j.foodcont.2019.03.025},
+   accession_number = {WOS:000467511700028},
+   abstract = {Globally, mycotoxins in food and feed are serious threats to the health of human and animals. Ergot alkaloids (EAs) are frequently detected in barley as well as other cereals. The purpose of this study was to examine the potential of applying NIR and ATR-FT/MIR spectroscopy for the determination of major EAs in cool-season barley samples grown under cold climate condition in western Canada. Sixty-seven cool-season barley samples were collected from Western Canada and analyzed for six major EAs by LC-MS/MS technique. Forty-nine barley samples were positive for EAs. The mean concentrations of ergocornine, ergocristine, ergocryptine, ergometrine, ergosine, ergotamine, and the sum-total EAs in positive barley samples were 120.9, 554.8, 235.6, 411.0, 127.4, 351.2, and 1150.5 mu g/kg, respectively. The NIR (680-2500 nm) and MIR (4000-700 cm(-1)) spectra of cool season barley samples were collected and calibrated with EAs reference values using PLS regression technique based on different spectral preprocessing methods and selected wavelengths. Results showed that most of the constructed models obtained weak calibration and cross-validation parameters and none of the models was able to accurately predict external samples. The relatively low levels of EAs in the contaminated barley samples might be lower than the detection limit of the conventional MR and ATR-FT/MIR spectroscopy. More efforts are needed to study the determination limit of molecular spectroscopic techniques in detecting EAs in cereal grain grown under the cold climate condition.},
+   notes = {Shi, Haitao Schwab, Warren Liu, Na Yu, Peiqiang
+1873-7129},
+   url = {<Go to ISI>://WOS:000467511700028},
+
+}
+
+@article{Journal Article,
+   author = {Sinphithakkul, P. and Poapolathep, A. and Klangkaew, N. and Imsilp, K. and Logrieco, A. F. and Zhang, Z. and Poapolathep, S.},
+   year = {2019},
+   title = {Occurrence of multiple mycotoxins in various types of rice and barley samples in Thailand},
+   journal = {Journal of Food Protection},
+   volume = {82},
+   issue = {6},
+   pages = {1007-1015},
+   DOI = {10.4315/0362-028X.JFP-18-456},
+   keywords = {Barley
+Liquid chromatography-tandem mass spectrometry
+Mycotoxins
+QuEChERS
+Rice},
+   abstract = {The prevalence of mycotoxins is often increased by climatic conditions prevailing in tropical regions. Therefore, consumers in tropical countries such as Thailand have a higher risk of mycotoxin exposure. Existing reports have revealed mycotoxin contamination in rice. This study was conducted to determine the occurrence of multiple mycotoxins in barley and nine types of rice sold in Thailand and to assess consumer health risk. A total of 300 samples collected from various markets in Thailand were analyzed for the presence of 16 mycotoxins using a QuEChERS (quick, easy, cheap, effective, rugged, and safe) procedure and a triple quadrupole mass spectrometer equipped with an electrospray ionization source. Of the 300 samples, 124 (41.33%) were contaminated with at least one mycotoxin, and 38.71% of the mycotoxin-positive samples were simultaneously contaminated with more than one toxin. The incidence of mycotoxin contamination differed among the rice and barley samples. Beauvericin, diacetoxyscirpenol, zearalenone, and aflatoxins were the most frequently found mycotoxins. However, the concentrations of regulated mycotoxins were below the regulatory limits. The assessed mycotoxin exposure does not represent a health risk for Thai consumers because the estimated exposure concentrations were lower than the tolerable daily intake values established by the Joint FAO/WHO Expert Committee on Food Additives. However, our findings suggest that continued monitoring of mycotoxin contamination in rice and barley and concomitant risk assessments are warranted. HIGHLIGHTS • Contamination with multiple mycotoxins was found in rice and barley. • BEA, DAS, ZEA, and aflatoxins were the mycotoxins most frequently found in samples. • The assessed mycotoxin exposure does not represent a health risk for consumers. © International Association for Food Protection.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066965224&doi=10.4315%2f0362-028X.JFP-18-456&partnerID=40&md5=352689de2800f7355aef06260a24707c},
+   address = {Department of Pharmacology, Faculty of Veterinary Medicine, Kasetsart University, Bangkok, 10900, Thailand
+Center for Advanced Studies for Agriculture and Food, Institute for Advanced Studies, Kasetsart University, Bangkok, 10900, Thailand
+Institute of Sciences of Food Production, National Research Council, Bari, Italy
+Oil Crops Research Institute, Chinese Academy of Agricultural Sciences, Wuhan, 430062, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Skendi, A. and Papageorgiou, M. and Irakli, M. and Katsantonis, D.},
+   year = {2019},
+   title = {Presence of mycotoxins, heavy metals and nitrate residues in organic commercial cereal-based foods sold in the Greek market},
+   journal = {Journal fur Verbraucherschutz und Lebensmittelsicherheit},
+   DOI = {10.1007/s00003-019-01231-7},
+   keywords = {Heavy metals
+HPLC
+ICP-OES
+Mycotoxins
+Organic cereal products},
+   abstract = {The aim of the present work was to report on the occurrence of contaminants and trace elements in organically grown commercial cereal products, available in the Greek market. Moreover, the level of contamination of domestic organic cereals was compared with that of imported ones. To this end, the level of contamination by heavy metals (Pb, Cd), nitrates, trace elements (Cu, Fe, Mn, Zn, Cr, Ni, Co) and mycotoxins (aflatoxins, deoxynivalenol, zearalenone, ochratoxin, and T-2) were reported. Seventy-six organic cereals and derived products of domestic and imported origin were tested including rice, barley, oat, wheat, maize and two samples made of a mixture of grains. The levels of contamination were calculated and compared to the recommended or regulated maximum levels. The maximum levels were exceeded for lead (2), cadmium (1), aflatoxins (4), and ochratoxin (1). Contamination of samples by nitrate was below the allowed level. The level of contamination in domestic organic samples was similar to that of imported ones, except for cadmium with imported samples being more contaminated. The findings of this study are important in terms of risk to human health, but they do not support nor reject the hypothesis that organic cereals are less contaminated than the conventional ones. © 2019, Bundesamt für Verbraucherschutz und Lebensmittelsicherheit (BVL).},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067306509&doi=10.1007%2fs00003-019-01231-7&partnerID=40&md5=33a9ff576d7f8693800d67fa61c6f284},
+   address = {Department of Food Technology, Alexander Technological Educational Institute of Thessaloniki (ATEITh), P.O. Box 141, Thessaloníki, GR-57400, Greece
+Hellenic Agricultural Organization, Demeter, Institute of Plant Breeding and Genetic Resources, P.O Box 60458, Thermi, Thessaloníki, 57001, Greece},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Suwatvitayakorn, P. and Ko, M. S. and Kim, K. W. and Chanpiwat, P.},
+   year = {2019},
+   title = {Human health risk assessment of cadmium exposure through rice consumption in cadmium-contaminated areas of the Mae Tao sub-district, Tak, Thailand},
+   journal = {Environmental Geochemistry and Health},
+   DOI = {10.1007/s10653-019-00410-7},
+   keywords = {Consumption pattern
+Eating behavior
+Ingestion rate
+Sticky rice
+Thailand
+White rice},
+   abstract = {The Mae Tao sub-district is located in the Mae Tao watershed, an important cadmium (Cd)-contaminated area in Thailand. This study was conducted to (i) determine Cd concentrations in rice collected from households in the area, (ii) assess the Cd exposure and potential health risk (HQ) from rice consumption in local adults and (iii) investigate how the factors of individual characteristics and consumption behavior affect the level of HQ. A total of 159 rice samples were collected from households in all 6 villages of the Mae Tao sub-district for analysis of Cd by inductively coupled plasma mass spectrometry. Biodata information and rice consumption behavior were surveyed from local residents at the same time as rice sample collection. Approximately 19.8% and 19.1% of white rice and sticky rice, respectively, contained total Cd higher than the Codex maximum standard of Cd in rice (0.4 mg kg−1). Locally grown rice contained an average of 1.5 times more Cd than retail rice. Cd exposure from consuming only sticky rice was the highest (2.26 × 10−3 mg kg−1 day−1), followed by the consumption of both types of rice (1.39 × 10−3 mg kg−1 day−1) and the consumption of only white jasmine rice (6.30 × 10−4 mg kg−1 day−1). The highest and lowest average HQ values were found in the only sticky rice consumption pattern (2.263) and the only white rice consumption pattern (0.630), respectively. The potential health risk from Cd in each rice consumption pattern was mainly influenced by the total Cd concentration in rice and the rice ingestion rate. © 2019, Springer Nature B.V.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073953485&doi=10.1007%2fs10653-019-00410-7&partnerID=40&md5=9cb6b43421a82a952829073cfdb15535},
+   address = {Hazardous Substance and Environmental Management (Interdisciplinary Program), Graduate School, Chulalongkorn University, Bangkok, 10330, Thailand
+Department of Energy and Resources Engineering, Kangwon National University, Chuncheon, Gangwondo 24341, South Korea
+School of Earth Sciences and Environmental Engineering, Gwangju Institute of Science and Technology, 123 Cheomdan-gwagiro, Buk-gu, Gwangju, 61005, South Korea
+Environmental Research Institute, Chulalongkorn University, Phayathai Road, Pathumwan, Bangkok, 10330, Thailand
+Research Program of Toxic Substance Management in the Mining Industry, Center of Excellence on Hazardous Substance Management, Bangkok, 10330, Thailand
+Research Unit of Green Mining Management, Chulalongkorn University, Bangkok, 10330, Thailand},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Taghizadeh, S. F. and Rezaee, R. and Badiebostan, H. and Giesy, J. P. and Karimi, G.},
+   year = {2019},
+   title = {Occurrence of mycotoxins in rice consumed by Iranians: a probabilistic assessment of risk to health},
+   journal = {Food Additives and Contaminants - Part A Chemistry, Analysis, Control, Exposure and Risk Assessment},
+   DOI = {10.1080/19440049.2019.1684572},
+   keywords = {Carcinogenicity
+Monte Carlo simulation
+Mycotoxin
+rice
+risk assessment},
+   abstract = {Risks based on cancer and non-cancer endpoints, to Iranians from exposure to several mycotoxins (aflatoxin B1, ochratoxin, deoxynivalenol and T-2 toxin) following consumption of rice were evaluated. Point estimates of hazard were made for each mycotoxin and a hazard index (HI) and probabilistic estimates were based on results of Monte Carlo Simulations (MCS). All known 17 peer-reviewed studies, published in databases included in Science Direct, PubMed, Scopus and Web of Science, as well as grey literature published in Google Scholar from 2008 to 2017 were considered. The 95th and 50th centiles of Hazard Index (HI) in Iranians due to ingestion of rice were estimated to be 2.5 and 0.5, respectively. The 95th and 50th centiles of people with positive surface antigens for hepatitis B (HBsAg+) risk characterisation for AFB1 in Iranian consumers of rice were 81 and 79.1, respectively. The 95th and 50th centiles for risks of Iranians negative for the surface antigen of hepatitis B HBsAg (HBsAg-) were 4.4 and 2.6, respectively. Based on results of the MCS for risks to cancer effects, the 95th and 50th centiles of margins of exposure (MOE) were 233 and 231, respectively. Therefore, it is recommended to update agricultural approaches and storage methods and implement monitoring and regulations based on risks to health posed by consumption of rice by the Iranian population. © 2019, © 2019 Taylor & Francis Group, LLC.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076533554&doi=10.1080%2f19440049.2019.1684572&partnerID=40&md5=d322d71f96d38761b24cfde8492423b0},
+   address = {Pharmaceutical Research Center, Pharmaceutical Technology Institute, Mashhad University of Medical Sciences, Mashhad, Iran
+Clinical Research Unit, Faculty of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran
+Neurogenic Inflammation Research Center, Mashhad University of Medical Sciences, Mashhad, Iran
+Department of Chemical Engineering, Environmental Engineering Laboratory, Aristotle University of Thessaloniki, Thessaloniki, Greece
+HERACLES Research Center on the Exposome and Health, Center for Interdisciplinary Research and Innovation, Balkan Center, Thessaloniki, Greece
+Department of Pharmacodynamics and Toxicology School of Pharmacy, Mashhad University of Medical Sciences, Mashhad, Iran
+Department of Veterinary Biomedical Sciences and Toxicology Centre, University of Saskatchewan, Saskatoon, SK, Canada
+Department of Zoology and Center for Integrative Toxicology, Michigan State University, East Lansing, MI, United States
+School of Biological Sciences, University of Hong Kong, Hong Kong},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Tang, E. N. and Ndindeng, S. A. and Bigoga, J. and Traore, K. and Silue, D. and Futakuchi, K.},
+   year = {2019},
+   title = {Mycotoxin concentrations in rice from three climatic locations in Africa as affected by grain quality, production site, and storage duration},
+   journal = {Food Science and Nutrition},
+   volume = {7},
+   issue = {4},
+   pages = {1274-1287},
+   DOI = {10.1002/fsn3.959},
+   keywords = {Africa
+community interventions
+food safety
+healthy food systems
+mycotoxin
+rice},
+   abstract = {Information on the mycotoxin contamination of rice in Africa is limited although the risk of contamination is high. In this study, domestic milled rice processed by actors using suboptimal methods was purchased and total fumonisin (FUM), zearalenone, and aflatoxin concentrations determined at 0, 90, and 180 days after storage. Three different climatic locations, Cotonou (Benin) in the Guinea savanna, Yaoundé (Cameroon) in the Tropical forest, and N'diaye (Senegal) in the Sahel, were selected as storage sites. Subsets of the samples collected from Glazoue (Benin), Ndop (Cameroon), and Dagana (Senegal) were stored in plastic woven bags under room conditions in the respective sites with or without calcium oxide (burnt scallop shell—BSS, 0.1% w/w) treatment. Multivariance analysis showed that FUM concentration was positively influenced by the duration of storage only while zearalenone concentration was negatively influenced by relative humidity and head rice but positively by impurities. Zearalenone concentration was also influenced by sample collection/storage location, processing type, and duration of storage. Aflatoxin concentration was influenced negatively by storage room temperature and head rice but positively by impurities and chalky grains. In addition, aflatoxin concentration was influenced by collection/storage location and processing type. BSS treatment followed by storage for 6 months had no effect on the concentration of the three assessed mycotoxins. Strategies to reduce the risk of mycotoxin contamination in study sites will include the improvement of physical rice quality through better pre- and postharvest practices and proper packaging of both treated rice and untreated rice in hermetic systems before marketing and storage. © 2019 The Authors. Food Science & Nutrition published by Wiley Periodicals, Inc.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064837277&doi=10.1002%2ffsn3.959&partnerID=40&md5=37df33eda46b2a8f9d46c1b500099285},
+   address = {Faculty of Science, Department of Biochemistry, University of Yaoundé-I, Yaoundé, Cameroon
+Africa Rice Center, Bouake, Cote d'Ivoire
+Africa Rice Center, Saint-Louis, Senegal},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Torres, A. M. and Palacios, S. A. and Yerkovich, N. and Palazzini, J. M. and Battilani, P. and Leslie, J. F. and Logrieco, A. F. and Chulze, S. N.},
+   year = {2019},
+   title = {Fusarium head blight and mycotoxins in wheat: Prevention and control strategies across the food chain},
+   journal = {World Mycotoxin Journal},
+   volume = {12},
+   issue = {4},
+   pages = {333-355},
+   DOI = {10.3920/WMJ2019.2438},
+   keywords = {Deoxynivalenol
+Disease management strategy
+Fusarium graminearum
+Integrated pest management
+Post-harvest
+Preharvest
+Zearalenone},
+   abstract = {With 744 million metric tons produced in 2017/2018, bread wheat (Triticum aestivum) and durum wheat (Triticum durum) are the second most widely produced cereal on a global basis. Prevention or control of wheat diseases may have an enormous impact on global food security and safety. Fusarium head blight is an economically debilitating disease of wheat that reduces the quantity and quality of grain harvested, and may lead to contamination with the mycotoxin deoxynivalenol, which affects the health of humans and domesticated animals. Current climate change scenarios predict an increase in the number of epidemics caused by this disease. Multiple strategies are available for managing the disease including cultural practices, planting less-susceptible cultivars, crop rotation, and chemical and biological controls. None of these strategies, however, is completely effective by itself, and an integrated approach incorporating multiple controls simultaneously is the only effective strategy to limit the disease and reduce deoxynivalenol contamination in human food and animal feed chains. This review identifies the available tools and strategies for mitigating the damage that can result from Fusarium head blight. © 2019 Wageningen Academic Publishers},
+   notes = {Cited By :2
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076014520&doi=10.3920%2fWMJ2019.2438&partnerID=40&md5=1b57fb95752400158b44d023c457c22f},
+   address = {Research Institute on Mycology and Mycotoxicology (IMICO), UNRC-CONICET, Km 601, Río Cuarto, Córdoba, 5800, Argentina
+Institute of Entomology and Plant Pathology, Faculty of Agriculture, Università Cattolica del Sacro Cuore, via Emilia Parmense 84, Piacenza, 29122, Italy
+Department of Plant Pathology, 4024 Throckmorton Plant Sciences Center, Kansas State University, Manhattan, KS 66506-5502, United States
+National Council of Research (CNR), Institute of the Science of Food Production (ISPA), via Amendola 122/O, Bari, 70126, Italy},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Wang, X. and Sun, W. and Ma, X.},
+   year = {2019},
+   title = {Differential impacts of copper oxide nanoparticles and Copper(II) ions on the uptake and accumulation of arsenic in rice (Oryza sativa)},
+   journal = {Environmental Pollution},
+   volume = {252},
+   pages = {967-973},
+   DOI = {10.1016/j.envpol.2019.06.052},
+   keywords = {Arsenic
+Arsenic speciation
+Copper ions
+Copper oxide nanoparticles
+Rice},
+   abstract = {Arsenic (As) in rice grains is a serious food safety concern. Some coexisting engineered nanoparticles (ENPs) were shown to alter the accumulation and speciation of As in rice grains. However, investigation on the effects of copper oxide nanoparticles (CuO NPs), a popular ingredient in pesticides, on the uptake and accumulation of As is rare. We explored the potentially different impact of CuO NPs and corresponding Cu(II) ions on the accumulation of two As species in rice seedlings in a hydroponic system. Rice seedlings were treated with a combinations of 1 mg/L of arsenite (As(III)) or arsenate (As(V)) and 100 mg/L of CuO NPs or Cu(II) for 6 days. Both forms of Cu significantly reduced the accumulation of total As in rice tissues, with Cu(II) exhibiting significantly greater effect than CuO NPs. As speciation in rice roots was markedly affected by both forms of Cu, and the impacts were Cu-form dependent. For example, the co-existence of As(V) with CuO NPs led to a 45% decrease of As(V) in rice roots, while the co-existence of As(V) with Cu(II) caused a 47% increase in As(V) in rice roots. As speciation in rice shoots was less affected by co-present Cu than in rice roots. Co-occurring As(III) or As(V) lowered Cu concentration in rice roots by 40% and 50% in treatments with CuO NPs, but did not affect Cu content in rice roots co-exposed to Cu(II). The study confirmed the reciprocal effect of co-occurring CuO NPs or Cu(II) and As in rice paddies and highlighted the unique “nano-effect” of CuO NPs. The results alsos showed that the initial oxidation state of As plays an important role in the interactions between As and Cu. The results shed light on the current debate on the safe applications of nano-enabled agrichemicals vs. conventional metal salts in agriculture. CuO NPs and Cu(II) ions displayed significant but form-dependent impacts on As accumulation in rice tissues. © 2019 Elsevier Ltd},
+   notes = {Cited By :1
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067687714&doi=10.1016%2fj.envpol.2019.06.052&partnerID=40&md5=57dd4557e7bc6deafc41fff7061c5bb1},
+   address = {Zachry Department of Civil Engineering, Texas A&M University, TAMU 3136, College Station, TX 77843-3136, United States
+Department of Civil and Environmental Engineering, Southern Methodist University, 3101 Dyer Street, Dallas, TX 75205, United States},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Wijewickrama, M. M. and Manage, P. M.},
+   year = {2019},
+   title = {Accumulation of microcystin-LR in grains of two rice varieties (Oryza sativa L.) and a leafy vegetable, ipomoea aquatica},
+   journal = {Toxins},
+   volume = {11},
+   issue = {8},
+   DOI = {10.3390/toxins11080432},
+   article_number = {432},
+   keywords = {Human health risk
+Ipomoea aquatica
+Microcystins
+Oryza sativa
+Tolerable daily intake},
+   abstract = {The potential transfer of microcystin-LR (MC-LR) to humans via crop plants irrigated with MC-contaminated water is causing serious concern. In this study, two Oryza sativa variants, a hybrid (BG358), a traditional (Suwandel) variety, and a leafy green vegetable crop, Ipomoea aquatica, were exposed under laboratory conditions to natural blooms of Microcystis aeruginosa sampled from a hypereutrophic lake contaminated with MC-LR (3,197.37 ± 1.04 µg/L). Field samples of O. sativa and I. aquatica were collected from farmlands that had been irrigated from a reservoir, containing MC-LR (180 µg/L). MC-LR was quantified by high performance liquid chromatography followed by photodiode-array detection (HPLC-PDA). From the laboratory study, we calculated the potential human health exposure from BG358, Suwandel and I. aquatica as 2.84 ± 0.01, 0.22 ± 0.01, and 0.06 ± 0.01 µg/kg of body weight/day, respectively, whereas the potential health exposures from BG358, Suwandel and I. aquatica collected from the field were 0.10 ± 0.01, 0.009 ± 0.005, and 0.03 ± 0.01 µg/kg of body weight/day, respectively. In certain instances, the results exceeded the World Health Organization’s (WHO) tolerable daily intake of MC-LR, posing a potential health risk to humans. Thus, our results emphasize the importance of continuous screening programs for cyanotoxins in edible plants in the future to prevent the consumption of contaminated crops. © 2019 by the authors. Licensee MDPI, Basel, Switzerland.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070380699&doi=10.3390%2ftoxins11080432&partnerID=40&md5=9527804e89c80089bfdf1e0668e3121e},
+   address = {Center for Water Quality and Algae Research, Department of Zoology, University of Sri Jayewardenepura, Gangodawila, Nugegoda10250, Sri Lanka},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Xu, X. H. and Han, J. L. and Abeysinghe, K. S. and Atapattu, A. J. and De Silva, Pmcs and Xu, Z. D. and Long, S. T. and Qiu, G. L.},
+   year = {2020},
+   title = {Dietary exposure assessment of total mercury and methylmercury in commercial rice in Sri Lanka},
+   journal = {Chemosphere},
+   volume = {239},
+   date = {Jan},
+   ISSN = {0045-6535},
+   DOI = {10.1016/j.chemosphere.2019.124749},
+   article_number = {Unsp 124749},
+   accession_number = {WOS:000498305500063},
+   abstract = {Methylmercury (MeHg) in rice has attracted growing health concern over the past decade, due to the accumulation of high MeHg levels, which may pose potential health risk to humans. Rice is the staple food in Sri Lanka; nevertheless, the presence of micro pollutants, such as MeHg has been not investigated. Therefore, commercial rice samples from the Sri Lankan market (n = 163) were measured to reveal the total mercury (THg) and MeHg levels. THg (mean: 1.73 +/- 0.89 ng/g, range: 0.21-6.13 ng/g) and MeHg concentrations (mean: 0.51 +/- 0.37 ng/g; range: 0.03-3.81 ng/g) were low. Compared to the fish MeHg exposure, the rice MeHg exposure was generally lower in different consumption groups, suggesting that rice plays a less role than fish in MeHg exposure in Sri Lanka. Babies (infants and toddlers) at one year old may face fish MeHg exposure (0.17 mu g/kg bw/day) higher than the reference dose for MeHg (RfD)-0.1 mu g/kg bw/day, which was more than 5 times that of rice MeHg exposure (0.031 mu g/kg bw/day). Future studies in Sri Lanka should focus on health impacts under long-term overexposure of MeHg, especially in vulnerable populations. Some diet changes should be made to mitigate MeHg exposure levels in Sri Lankans. (C) 2019 Elsevier Ltd. All rights reserved.},
+   notes = {Xu, Xiaohang Han, Jialiang Abeysinghe, Kasun S. Atapattu, Anjana J. De Silva, P. Mangala C. S. Xu, Zhidong Long, Shuiting Qiu, Guangle
+De Silva, P. Mangala C.S./0000-0002-1927-6512; Atapattu, Anjana Jayasanka/0000-0003-4806-4647
+1879-1298},
+   url = {<Go to ISI>://WOS:000498305500063},
+
+}
+
+@article{Journal Article,
+   author = {Yang, X. and Gao, J. and Liu, Q. and Yang, D.},
+   year = {2019},
+   title = {Co-occurrence of mycotoxins in maize and maize-derived food in China and estimation of dietary intake},
+   journal = {Food Additives and Contaminants: Part B Surveillance},
+   volume = {12},
+   issue = {2},
+   pages = {124-134},
+   DOI = {10.1080/19393210.2019.1570976},
+   keywords = {co-occurrence
+dietary intake
+maize
+maize-derived food
+Mycotoxin
+risk assessment},
+   abstract = {A total of 576 samples marketed in China, including maize, maize flour, maize grits and maize meal, was determined for the simultaneous presence of 12 mycotoxins (FB1, FB2, FB3, DON, 3-DON, 15-DON, ZEN, AFB1, AFB2, AFG1, AFG2 and OTA) using a validated UPLC-MS/MS for multi-mycotoxin method. DON were the most widespread mycotoxins (63%), followed by FB1 (57%) and ZEN (46%). 78% of the samples was contaminated with at least one of these mycotoxins. Risk assessment indicated that maize and maize-derived food intake does not pose a potential risk for general adult population with respect to individual mycotoxin. However, two or more mycotoxins were detected in 60% of all samples, and a combination of up to seven different mycotoxins was found. A particular attention should be paid to the combined exposure of mycotoxins, in this cases the estimated daily intake might increase greatly due to the high frequency of co-occurrence. © 2019, © 2019 Informa UK Limited, trading as Taylor & Francis Group.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060972634&doi=10.1080%2f19393210.2019.1570976&partnerID=40&md5=6edf1fb84c061a018f7e3670e5ac131c},
+   address = {NHC Key Laboratory of Food Safety Risk Assessment, China National Center for Food Safety Risk Assessment, Beijing, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Yang, X. L. and Zhao, Z. Y. and Tan, Y. L. and Chen, B. and Zhou, C. Y. and Wu, A. B.},
+   year = {2020},
+   title = {Risk profiling of exposures to multiclass contaminants through cereals and cereal-based products consumption: A case study for the inhabitants in Shanghai, China},
+   journal = {Food Control},
+   volume = {109},
+   date = {Mar},
+   ISSN = {0956-7135},
+   DOI = {10.1016/j.foodcont.2019.106964},
+   article_number = {Unsp 106964},
+   accession_number = {WOS:000500052400064},
+   abstract = {The co-occurrence of food contaminants has caught the public concern worldwide owing to their extensive distribution and the potential risk on human health. In this study, a total of 6471 samples of cereals and cereal-based products was collected from Shanghai between 2008 and 2011. The food contaminants co-occurred, including mycotoxins (aflatoxin B1, deoxynivalenol and ochratoxin A), pesticides (organic phosphorus pesticides and methyl bromide), heavy metals (cadmium, lead, and inorganic arsenic), and food additives (aluminum and food pigments), were analyzed for their contents. The point evaluation and probabilistic evaluation based on the Monte Carlo model were performed to assess the risks of the contaminants. The results showed the mean levels of all the tested contaminants were lower than the maximum residue levels (MRLs) set by China, except aluminum, exceeding China MRLs of 100 mg/kg in 2010 and 2011. The point evaluation showed the mean daily exposures (40.7-63.9 ng/kg bw/day) of ochratoxin A in 2010 for different consumer groups were higher than the provisional tolerable daily intake (PTDI) of 17 ng/kg bw/day recommended by the European Food Safety Authority (EFSA). Meanwhile, the mean daily exposures of the tested contaminants in each year for 7-to-10-year old children were higher than those for adults. The probabilistic evaluation indicated that the margin of safety (MOS) values of the tested contaminants at percentile 95th (P95) were lower than 1, except aluminum, suggesting the potential health risk of aluminum intake to the consumer groups in Shanghai. Additionally, the risk ranking of these contaminants in cereals and cereal-based products was obtained as follows: aluminum > deoxynivalenol > ochratoxin A > inorganic arsenic > cadmium > lead > chlorpyrifos-methyl > malathion.},
+   notes = {Yang, Xianli Zhao, Zhiyong Tan, Yanglan Chen, Bo Zhou, Changyan Wu, Aibo
+1873-7129},
+   url = {<Go to ISI>://WOS:000500052400064},
+
+}
+
+@article{Journal Article,
+   author = {Yu, J. M. and Mikiashvili, N. and Lian, C. L.},
+   year = {2019},
+   title = {Deoxynivalenol and ochratoxin A in North Carolina grown organic wheat grains},
+   journal = {Journal of Food Safety},
+   volume = {39},
+   issue = {6},
+   date = {Dec},
+   ISSN = {0149-6085},
+   DOI = {10.1111/jfs.12687},
+   article_number = {e12687},
+   accession_number = {WOS:000479538500001},
+   abstract = {The main safety issue of cereal grains is mycotoxin contamination. There is no published information about mycotoxin contamination of organic wheat in the United States. This study quantified the contents of deoxynivalenol (DON) and ochratoxin A (OTA), two frequently occurring mycotoxins, in organic wheat samples collected from six counties in North Carolina by enzyme-linked immunosorbent assay (ELISA) and high-performance liquid chromatography (HPLC). By ELISA, all samples were DON and OTA positive, and the DON contents in the flour and bran samples were 0.7-2.35 ppm and 5-8 ppm, respectively, while OTA in the flour and bran samples were 9.54-25.55 ppb and 21.67-32.55 ppb, respectively. By HPLC, the DON detected in flour and bran were 0.24-0.47 ppm and 0.35-0.83 ppm, respectively; all flour samples were OTA negative, but 5 out of 6 bran samples were OTA positive (0.48-1.28 ppb). More studies with larger sample number are needed to obtain representative results. Practical applications This study provides preliminary results about the DON and OTA in organic wheat grains. The results indicate that the organic wheat produced in North Carolina during 2018 season were contaminated by DON and OTA to various degrees. However, the concentrations of these two mycotoxins determined by ELISA were significantly higher than those determined by HPLC. Therefore, to avoid overestimation or underestimation, it is important for researchers and regulatory agencies to conduct multi-lab studies to develop and standardize analytical methods and detailed procedures for accurate DON and OTA quantification. Regardless of analytical methods, all bran samples showed higher DON and OTA concentrations than flour samples. Thus, when using organic wheat bran or whole wheat as food or feed ingredients, the level of bran inclusion should be controlled to protect consumers and animals from mycotoxicosis.},
+   notes = {Yu, Jianmei Mikiashvili, Nona Lian, Chyi-Lyi
+1745-4565},
+   url = {<Go to ISI>://WOS:000479538500001},
+
+}
+
+@article{Journal Article,
+   author = {Yu, L. L. and Wang, L. N. and Zhao, Y. and Wang, B. J.},
+   year = {2019},
+   title = {Identification and Dissipation of Omethoate and Its Main Metabolite DMP in Wheat Determined by UPLC-QTOF/MS},
+   journal = {Journal of Agricultural and Food Chemistry},
+   volume = {67},
+   issue = {20},
+   pages = {5891-5898},
+   date = {May},
+   ISSN = {0021-8561},
+   DOI = {10.1021/acs.jafc.8b06799},
+   accession_number = {WOS:000469292500020},
+   abstract = {A study was carried out to evaluate the dissipation kinetics of field-applied omethoate during wheat storage. Both the identification and metabolic dynamics of omethoate metabolites were analyzed using UPLC-QTOF/MS. The presence of the metabolite dimethyl phosphate (DMP) was confirmed in wheat samples with applied omethoate. This might be because the group attached to the P atom of omethoate is replaced by a hydroxyl group through hydrolysis, thus leading to the formation of the specific metabolite DMP during wheat storage. Although the initial concentrations of DMP in different doses were considerably lower than those of omethoate, the half-life values of DMP were 11.87-31.50 days, which were close to the half-life of the parent omethoate (11.85-30.94 days). This indicates that potential health risks might be caused by dietary exposure to DMP and omethoate. Therefore, more importance should be given to the risk assessment for omethoate and its metabolite DMP in wheat.},
+   notes = {Yu, Lili Wang, Lina Zhao, Yang Wang, Bujun
+1520-5118},
+   url = {<Go to ISI>://WOS:000469292500020},
+
+}
+
+@article{Journal Article,
+   author = {Zebiri, S. and Mokrane, S. and Verheecke-Vaessen, C. and Choque, E. and Reghioui, H. and Sabaou, N. and Mathieu, F. and Riba, A.},
+   year = {2019},
+   title = {Occurrence of ochratoxin A in Algerian wheat and its milling derivatives},
+   journal = {Toxin Reviews},
+   volume = {38},
+   issue = {3},
+   pages = {206-211},
+   DOI = {10.1080/15569543.2018.1438472},
+   keywords = {Algeria
+flour
+HPLC-FD
+Mycotoxins
+semolina
+wheat products},
+   abstract = {To determine the concentrations of ochratoxin A in wheat, and its derivatives, 81 samples, including durum wheat (n = 27), common wheat (n = 12), semolina (n = 29) and flour (n = 13) were collected from regions of Algeria. The results showed that 62 of the 81 samples (76.54%), were contaminated with quantities of ochratoxin A ranging from 0.84 to 34.75 µg/kg. The results showed that 69.23% of wheat grains were contaminated with ochratoxin A (0.21–27.31 µg/kg). Ochratoxin A were detected both in semolina and flour manufacturing process (0.16–34.75 µg/kg). Ochratoxin A level seem to be a serious public health problem in Algeria. © 2018, © 2018 Informa UK Limited, trading as Taylor & Francis Group.},
+   notes = {Cited By :2
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042928373&doi=10.1080%2f15569543.2018.1438472&partnerID=40&md5=55d8f8b22dccb9184cc1894d756bc480},
+   address = {Laboratoire de Biologie des Systèmes Microbiens, Ecole Normale Supérieure de Kouba, Chikh Mohamed El Bachir El Ibrahimi, Alger, Algeria
+Université de Toulouse, Laboratoire de Génie Chimique UMR 5503 (CNRS/INPT/UPS), INP de Toulouse/ENSAT, Castanet-Tolosan Cedex, France
+Applied Mycology Group, AgriFood Theme, Cranfield University, Cranfield, Bedford, United Kingdom
+Département de Biologie, Faculté des Sciences, Université M'Hamed Bougara, Boumerdes, Algeria},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Zentai, A. and Szeitzné-Szabó, M. and Mihucz, G. and Szeli, N. and Szabó, A. and Kovács, M.},
+   year = {2019},
+   title = {Occurrence and risk assessment of fumonisin b1 and b2 mycotoxins in maize-based food products in Hungary},
+   journal = {Toxins},
+   volume = {11},
+   issue = {12},
+   DOI = {10.3390/toxins11120709},
+   article_number = {709},
+   keywords = {Fumonisin
+Human exposure
+Maize products},
+   abstract = {Fumonisins are toxic secondary metabolites produced mainly by Fusarium verticillioides and Fusarium proliferatum. Their toxicity was evaluated, and health-based guidance values established on the basis of both Joint FAO/WHO Expert Committee on Food Additives (JECFA) and European Food Safety Authority (EFSA) recommendations. This study presents the results of fumonisin analyses in different maize- and rice-based food products in Hungary and the potential health risk arising from their dietary intake. In total, 326 samples were measured in 2017 and 2018 to determine fumonisins B1 and B2 levels. Three-day dietary record data were collected from 4992 consumers, in 2009. For each food category, the average concentration values were multiplied by the relevant individual consumption data, and the results were compared to the reference values. With respect to the maximum limits, one maize flour, two maize grits, and two samples of other maize-based, snack-like products had total fumonisin content minimally exceeding the EU regulatory limit. The mean daily intake for all maize-product consumers was 0.045-0.120 μg/kg bw/day. The high intake (95 percentile) ranged between 0.182 and 0.396 μg/kg bw/day, well below the 1 μg/kg bw/day tolerable daily intake (TDI) established by EFSA. While the intake calculations resulted in comforting results, maize-based products may indeed be contaminated by fumonisins. Therefore, frequent monitoring of fumonisins' levels and evaluation of their intakes using the best available data are recommended. © 2019 by the authors.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076265449&doi=10.3390%2ftoxins11120709&partnerID=40&md5=32ff3c0e06b02f937b1dca59ee3a0fbd},
+   address = {System Management and Supervision Directorate, National Food Chain Safety Office, Budapest, 1024, Hungary
+Faculty of Agricultural and Environmental Sciences, University of Kaposvár, Guba S. u. 40., Kaposvár, 7400, Hungary
+MTA-KE-SZIE Mycotoxins in the Food Chain Research Group, Kaposvár University, Guba S. u. 40., Kaposvár, 7400, Hungary},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Zhang, Y. Y. and Pei, F. and Fang, Y. and Li, P. and Zhao, Y. and Shen, F. and Zou, Y. Y. and Hu, Q. H.},
+   year = {2019},
+   title = {Comparison of concentration and health risks of 9 Fusarium mycotoxins in commercial whole wheat flour and refined wheat flour by multi-IAC-HPLC},
+   journal = {Food Chemistry},
+   volume = {275},
+   pages = {763-769},
+   date = {Mar},
+   ISSN = {0308-8146},
+   DOI = {10.1016/j.foodchem.2018.09.127},
+   accession_number = {WOS:000448386000090},
+   abstract = {Multiple mycotoxins can contaminate foods simultaneously leading to increased risks for human health. To assess exposure and health risks of 9 mycotoxins, we employed a multiple immunoaffinity column - high performance liquid chromatography method to determine their concentrations of 35 whole wheat flour and 50 refined wheat flour samples from China. The recoveries of the validated method were 75.78-118.24%, and the limits of detection and quantification were 1.5-20 and 5.0-60 mu g kg(-1), respectively. Multiple mycotoxins were detected in 37.1% of whole wheat flour and 8% of refined wheat flour. In the worst-case scenario, the hazard index was 222.69% for male and 253.97% for female with a cumulative exposure to Fusarium mycotoxins through consuming whole wheat flour, and deoxynivalenol was the main mycotoxin detected. In conclusion, whole wheat flour should be regarded with more health concern because of cumulative effects of co-occurred mycotoxins.},
+   notes = {Zhang, Yingyue Pei, Fei Fang, Yong Li, Peng Zhao, Yan Shen, Fei Zou, Yanyu Hu, Qiuhui
+1873-7072},
+   url = {<Go to ISI>://WOS:000448386000090},
+
+}
+

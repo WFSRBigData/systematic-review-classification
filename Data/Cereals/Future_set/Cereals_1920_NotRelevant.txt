@@ -1,0 +1,1631 @@
+﻿@article{Journal Article,
+   author = {Abdourahime, H. and Anastassiadou, M. and Brancato, A. and Brocca, D. and Cabrera, L. C. and De Lentdecker, C. and Ferreira, L. and Greco, L. and Jarrah, S. and Kardassi, D. and Leuschner, R. and Lostia, A. and Lythgo, C. and Medina, P. and Miron, I. and Molnar, T. and Nave, S. and Pedersen, R. and Raczyk, M. and Reich, H. and Ruocco, S. and Sacchi, A. and Santos, M. and Stanek, A. and Sturma, J. and Tarazona, J. and Theobald, A. and Vagenende, B. and Verani, A. and Villamar-Bouza, L. and Efsa},
+   year = {2019},
+   title = {Modification of the existing maximum residue levels for aminopyralid in certain cereals},
+   journal = {Efsa Journal},
+   volume = {17},
+   issue = {1},
+   date = {Jan},
+   DOI = {10.2903/j.efsa.2019.5534},
+   article_number = {5534},
+   accession_number = {WOS:000457525300017},
+   abstract = {In accordance with Article 6 of Regulation (EC) No396/2005, the applicant Dow AgroSciences Denmark submitted a request to the competent national authority in the United Kingdom to modify the existing maximum residue levels (MRLs) for the active substance aminopyralid in cereals. The data submitted in support of the request were found to be sufficient to derive MRL proposals for barley, rye, sorghum, millet and oats. A modification of the existing MRL of aminopyralid in wheat has been considered unnecessary. Adequate analytical methods for enforcement are available to control the residues of aminopyralid and its conjugates in plant matrices and on the commodities under assessment at the validated limit of quantification (LOQ) of 0.01mg/kg. Based on the risk assessment results, EFSA concluded that the short-term and long-term intake of residues resulting from the use of aminopyralid according to the intended agricultural practices is unlikely to present a risk to consumer health.},
+   notes = {Abdourahime, Himdata Anastassiadou, Maria Brancato, Alba Brocca, Daniela Cabrera, Luis Carrasco De Lentdecker, Chloe Ferreira, Lucien Greco, Luna Jarrah, Samira Kardassi, Dimitra Leuschner, Renata Lostia, Alfonso Lythgo, Christopher Medina, Paula Miron, Ileana Molnar, Tunde Nave, Stefanie Pedersen, Ragnor Raczyk, Marianna Reich, Hermine Ruocco, Silvia Sacchi, Angela Santos, Miguel Stanek, Alois Sturma, Juergen Tarazona, Jose Theobald, Anne Vagenende, Benedicte Verani, Alessia Villamar-Bouza, Laura
+1831-4732},
+   url = {<Go to ISI>://WOS:000457525300017},
+
+}
+
+@article{Journal Article,
+   author = {Abdourahime, H. and Anastassiadou, M. and Brancato, A. and Brocca, D. and Cabrera, L. C. and De Lentdecker, C. and Ferreira, L. and Greco, L. and Jarrah, S. and Kardassi, D. and Leuschner, R. and Lostia, A. and Lythgo, C. and Medina, P. and Miron, I. and Molnar, T. and Nave, S. and Pedersen, R. and Raczyk, M. and Reich, H. and Ruocco, S. and Sacchi, A. and Santos, M. and Stanek, A. and Sturma, J. and Tarazona, J. and Theobald, A. and Vagenende, B. and Verani, A. and Villamar-Bouza, L. and Efsa},
+   year = {2019},
+   title = {Modification of the existing maximum residue levels for lambda-cyhalothrin in celeries, fennel and rice},
+   journal = {Efsa Journal},
+   volume = {17},
+   issue = {1},
+   date = {Jan},
+   DOI = {10.2903/j.efsa.2019.5546},
+   article_number = {5546},
+   accession_number = {WOS:000457525300029},
+   abstract = {In accordance with Article 6 of Regulation (EC) No396/2005, the applicant Syngenta Crop Protection AG submitted a request to the competent national authority in Greece to modify the existing maximum residue levels (MRLs) for lambda-cyhalothrin in celeries, fennel and rice. The data submitted in support of the request were found to be sufficient to derive tentative MRL proposals for the concerned crops. They are tentative as formally the general data gap identified in the MRL review for further investigations of the toxicological properties of the compounds formed under sterilisation conditions has not yet been addressed. Adequate analytical enforcement methods are available to control the residues of lambda-cyhalothrin in the commodities under consideration. Based on the risk assessment results, EFSA concluded that the short-term and long-term intake of residues resulting from the uses of lambda-cyhalothrin according to the reported agricultural practices is unlikely to present a risk to consumer health. The consumer risk assessment presented might need to be reconsidered in the light of the confirmatory data requested following the renewal of the approval and the review of the existing MRLs.},
+   notes = {Abdourahime, Himdata Anastassiadou, Maria Brancato, Alba Brocca, Daniela Cabrera, Luis Carrasco De Lentdecker, Chloe Ferreira, Lucien Greco, Luna Jarrah, Samira Kardassi, Dimitra Leuschner, Renata Lostia, Alfonso Lythgo, Christopher Medina, Paula Miron, Ileana Molnar, Tunde Nave, Stefanie Pedersen, Ragnor Raczyk, Marianna Reich, Hermine Ruocco, Silvia Sacchi, Angela Santos, Miguel Stanek, Alois Sturma, Juergen Tarazona, Jose Theobald, Anne Vagenende, Benedicte Verani, Alessia Villamar-Bouza, Laura
+1831-4732},
+   url = {<Go to ISI>://WOS:000457525300029},
+
+}
+
+@article{Journal Article,
+   author = {Aikore, M. O. S. and Ortega-Beltran, A. and Eruvbetine, D. and Atehnkeng, J. and Falade, T. D. O. and Cotty, P. J. and Bandyopadhyay, R.},
+   year = {2019},
+   title = {Performance of broilers fed with maize colonized by either toxigenic or atoxigenic strains of aspergillus flavus with and without an aflatoxin-sequestering agent},
+   journal = {Toxins},
+   volume = {11},
+   issue = {10},
+   DOI = {10.3390/toxins11100565},
+   article_number = {565},
+   keywords = {Aflatoxin
+Biocontrol
+Maize
+Poultry
+Toxin binders},
+   abstract = {In warm agricultural areas across the globe, maize, groundnut, and other crops become frequently contaminated with aflatoxins produced primarily by the fungus Aspergillus flavus. Crop contamination with those highly toxic and carcinogenic compounds impacts both human and animal health, as well as the income of farmers and trade. In Nigeria, poultry productivity is hindered by high prevalence of aflatoxins in feeds. A practical solution to decrease crop aflatoxin content is to use aflatoxin biocontrol products based on non-toxin-producing strains of A. flavus. The biocontrol product Aflasafe® was registered in 2014 for use in maize and groundnut grown in Nigeria. Its use allows the production of aflatoxin-safe maize and groundnut. A portion of the maize treated with Aflasafe in Nigeria is being used to manufacture feeds used by the poultry industry, and productivity is improving. One of the conditions to register Aflasafe with the national regulator was to demonstrate both the safety of Aflasafe-treated maize to avian species and the impact of Aflasafe as a public good. Results presented here demonstrate that the use of maize colonized by an atoxigenic strain of Aflasafe resulted in superior (p &lt; 0.05) broiler performance in all evaluated parameters in comparison to broilers fed with toxigenic maize. Use of an aflatoxin-sequestering agent (ASA) was not sufficient to counteract the harmful effects of aflatoxins. Both the safety and public good value of Aflasafe were demonstrated during our study. In Nigeria, the availability of aflatoxin-safe crops as a result of using Aflasafe allows poultry producers to improve their productivity, their income, and the health of consumers of poultry products. © 2019 by the authors.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85072698687&doi=10.3390%2ftoxins11100565&partnerID=40&md5=c2c051b737a53b74c37a7c12ad1c4419},
+   address = {Pathology and Mycotoxin Unit, International Institute of Tropical Agriculture (IITA), Ibadan, 200001, Nigeria
+Department of Animal Nutrition, Federal University of Agriculture, Abeokuta, PMB 2240, Alabata Road, Ogun State, 110124, Nigeria
+USDA-ARS, Tucson, AZ 85701, United States},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Al Husnan, L. and Al Kahtani, M. and Farag, R. M.},
+   year = {2019},
+   title = {Bioinformatics analysis of aflatoxins produced by Aspregillus Sp. in basic consumer grain (corn and rice) in Saudi Arabia},
+   journal = {Potravinarstvo Slovak Journal of Food Sciences},
+   volume = {13},
+   issue = {1},
+   pages = {65-75},
+   DOI = {10.5219/1020},
+   keywords = {Antigenic determinants
+PCR
+Phylogenetic tree
+Protein toxic gene
+Sequences},
+   abstract = {The food contaminants by aflatoxins are inevitable even when all precautions and good agricultural practices are applied. Samples of white rice and corn (yellow, red) grains were collected from different local markets and houses. Three Aspergillus flavus strain isolated were identified using molecular characterization of AFLR (aflR) toxin gene. DNA genome of the three A. flavus isolates (namely A. flavus _ YC; A. flavus _ RC; A. flavus _ Rice) which corresponds to isolates from, yellow corn, red corn and white rice respectively were used as a template for PCR to amplify Aspergillus flavus AFLR (aflR) toxin gene. Partially sequenced was amplified using a specific primer set to confirm its identity, phylogenetic relationships between the three isolates as well as determination of the corresponding antigenic determinants. The epitope prediction analysis demonstrated that there were 1, 2, 3 and 4 epitopes whose score were equal 1 in A. flavus _ YC; A. flavus _ RC; A. flavus _ Rice, respectively. Interestingly, there were great dissimilarity in the epitope sequences among the three isolates except in RLQEGGDDAAGIPA, SPPPPVETQGLGGD, RPSESLPSARSEQG and PAHNTYSTPHAHTQ were found to be similar between all isolates. This work articulates that the molecular identification and characterization of three A. flavus using Aspergillus flavus AFLR (aflR) toxin gene and the unique antigenic determinants that could be used for design of a broadspectrum antibody for rapid detection of A. flavus in foods and support quality system of food safety. © 2019 Potravinarstvo Slovak Journal of Food Sciences.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063988956&doi=10.5219%2f1020&partnerID=40&md5=0b146365a66896f4077eded9b6a6d0d1},
+   address = {Princess Noruah bint Abdulrahman University (PNU), Faculty of Science, Biology Department, Riyadh, Saudi Arabia
+Princess Nourah bint Abdulrahman University (PNU), Health Sciences Research Center (HSCR), Riyadh, Saudi Arabia},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Allevato, E. and Stazi, S. R. and Marabottini, R. and D'Annibale, A.},
+   year = {2019},
+   title = {Mechanisms of arsenic assimilation by plants and countermeasures to attenuate its accumulation in crops other than rice},
+   journal = {Ecotoxicology and Environmental Safety},
+   volume = {185},
+   DOI = {10.1016/j.ecoenv.2019.109701},
+   article_number = {109701},
+   keywords = {Arsenic
+Bioaccessibility
+Bioavailability
+Food contamination
+Mitigation strategies
+Plant uptake},
+   abstract = {Arsenic is a ubiquitous metalloid in the biosphere, and its origin can be either geogenic or anthropic. Four oxidation states (−3, 0, +3 and + 5) characterize organic and inorganic As- compounds. Although arsenic is reportedly a toxicant, its harmful effects are closely related to its chemical form: inorganic compounds are most toxic, followed by organic ones and finally by arsine gas. Although drinking water is the primary source of arsenic exposure to humans, the metalloid enters the food chain through its uptake by crops, the extent of which is tightly dependent on its phytoavailability. Arsenate is taken up by roots via phosphate carriers, while arsenite is taken up by a subclass of aquaporins (NIP), some of which involved in silicon (Si) transport. NIP and Si transporters are also involved in the uptake of methylated forms of As. Once taken up, its distribution is regulated by the same type of transporters albeit with mobility efficiencies depending on As forms and its accumulation generally occurs in the following decreasing order: roots > stems > leaves > fruits (seeds). Besides providing a survey on the uptake and transport mechanisms in higher plants, this review reports on measures able to reducing plant uptake and the ensuing transfer into edible parts. On the one hand, these measures include a variety of plant-based approaches including breeding, genetic engineering of transport systems, graft/rootstock combinations, and mycorrhization. On the other hand, they include agronomic practices with a particular focus on the use of inorganic and organic amendments, treatment of irrigation water, and fertilization. © 2019 Elsevier Inc.},
+   notes = {Cited By :1
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85072524008&doi=10.1016%2fj.ecoenv.2019.109701&partnerID=40&md5=71c42d2af9b705796fdf17b5c235284e},
+   address = {Dipartimento per la Innovazione nei Sistemi Biologici, Agroalimentari e Forestali (DIBAF) Università Degli Studi Della Tuscia, Via San Camillo de Lellis Snc I, Viterbo, 1100, Italy},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Alonso dos Santos, P. and Caliari, M. and Soares Soares Júnior, M. and Soares Silva, K. and Fleury Viana, L. and Gonçalves Caixeta Garcia, L. and Siqueira de Lima, M.},
+   year = {2019},
+   title = {Use of agricultural by-products in extruded gluten-free breakfast cereals},
+   journal = {Food Chemistry},
+   volume = {297},
+   DOI = {10.1016/j.foodchem.2019.124956},
+   article_number = {124956},
+   keywords = {By-products
+Centesimal composition
+Extrusion
+Microbiology
+Sensory analysis},
+   abstract = {The objective of this study was to evaluate the effect of the extrusion moisture and temperature on the physical characteristics of breakfast cereals. The chemical composition, microbiological risk and acceptance of the selected breakfast cereal with the best physical quality were assessed to determine the technological viability of the use of these by-products by the food industry. The response surface method and a rotatable central composite design were used, and a desirability test was performed based on adjusted regression models. The breakfast cereal produced under these conditions had protein, lipid and dietary fiber contents of 7.55, 0.97 and 6.12 g 100 g−1, respectively. In regards to the sensory analysis, the evaluated breakfast cereal received average acceptance scores ranging from “neither like or dislike” to “like moderately”. The use of rice, passion fruit and milk by-products was shown to be an alternative for the production of extruded breakfast cereal. © 2019 Elsevier Ltd},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066987115&doi=10.1016%2fj.foodchem.2019.124956&partnerID=40&md5=c2d3868cb4a54eb55b2cdc47d1e55c2b},
+   address = {Institute Federal Goiano, Department of Food Engineering, Campus Rio Verde, Rod. Sul Goiana, Rio Verde, Goiás 75901-970, Brazil
+Federal University of Goiás, Department of Food Technology, Campus Samambaia, Rod. Goiânia/Nova Veneza, Goiânia, Goiás 74690-900, Brazil
+São Paulo State University “Júlio de Mesquita Filho”, Department of Engineering and Food Science, São José do Rio Preto Campus, São Paulo, 15054-000, Brazil},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Anastassiadou, M. and Brancato, A. and Cabrera, L. C. and Ferreira, L. and Greco, L. and Jarrah, S. and Kazocina, A. and Leuschner, R. and Magrans, J. O. and Miron, I. and Pedersen, R. and Raczyk, M. and Reich, H. and Ruocco, S. and Sacchi, A. and Santos, M. and Stanek, A. and Tarazona, J. and Theobald, A. and Verani, A. and European Food Safety Authority, E. F. S.},
+   year = {2019},
+   title = {Modification of the existing maximum residue level for fosetyl/phosphonic acid for potatoes and wheat},
+   journal = {Efsa Journal},
+   volume = {17},
+   issue = {5},
+   date = {May},
+   DOI = {10.2903/j.efsa.2019.5703},
+   article_number = {5703},
+   accession_number = {WOS:000470056200027},
+   abstract = {In accordance with Article 6 of Regulation (EC) No 396/2005, the applicants Luxembourg Industries (Pamol) Ltd and De Sangosse SAS submitted a request to the competent national authority in France to modify the existing maximum residue level (MRL) for fosetyl/phosphonic acid related to the use of potassium phosphonates on potatoes, wheat and some animal commodities. The data submitted in support of the request were found to be sufficient to derive MRL proposals for the crops under assessments and for animal commodities. Adequate analytical methods for enforcement are available to control the residues of phosphonic acid on the commodities under consideration at the validated limit of quantification (LOQ) of 0.01 mg/kg for high water- and dry matrices and at LOQ of 0.1 mg/kg in high acid matrices and in animal matrices and eggs at the validated LOQ of 0.05 mg/kg and in milk at the validated LOQ of 0.01 mg/kg. Based on the risk assessment results, EFSA concluded that the intake of residues resulting from the use of potassium phosphonates according to the reported agricultural practices is unlikely to present a risk to consumers. (C) 2019 European Food Safety Authority. EFSA Journal published by John Wiley and Sons Ltd on behalf of European Food Safety Authority.},
+   notes = {Anastassiadou, Maria Brancato, Alba Cabrera, Luis Carrasco Ferreira, Lucien Greco, Luna Jarrah, Samira Kazocina, Aija Leuschner, Renata Magrans, Jose Oriol Miron, Ileana Pedersen, Ragnor Raczyk, Marianna Reich, Hermine Ruocco, Silvia Sacchi, Angela Santos, Miguel Stanek, Alois Tarazona, Jose Theobald, Anne Verani, Alessia
+Raczyk, Marianna/0000-0002-2758-3408
+1831-4732},
+   url = {<Go to ISI>://WOS:000470056200027},
+
+}
+
+@article{Journal Article,
+   author = {Anastassiadou, M. and Brancato, A. and Cabrera, L. C. and Greco, L. and Jarrah, S. and Leuschner, R. and Miron, I. and Nave, S. and Pedersen, R. and Reich, H. and Sacchi, A. and Santos, M. and Stanek, A. and Theobald, A. and Vagenende, B. and Verani, A. and European Food Safety, Authority},
+   year = {2019},
+   title = {Modification of the existing maximum residue level for pyraclostrobin in sweet corn},
+   journal = {Efsa Journal},
+   volume = {17},
+   issue = {10},
+   date = {Oct},
+   DOI = {10.2903/j.efsa.2019.5841},
+   article_number = {5841},
+   accession_number = {WOS:000495118700021},
+   abstract = {In accordance with Article 6 of Regulation (EC) No 396/2005, the applicant H.L Hutchinson Ltd submitted a request to the competent national authority in the United Kingdom to modify the existing maximum residue level (MRL) for the active substance pyraclostrobin in sweet corn. The data submitted in support of the request were found to be sufficient to derive an MRL proposal for sweet corn. An analytical method for MRL enforcement and its independent laboratory validation, using liquid chromatography with tandem mass spectrometry (LC-MS/MS) was sufficiently validated at a limit of quantification (LOQ) of 0.02 mg/kg. Based on the risk assessment results, EFSA concluded that the short-term and long-term intake of residues resulting from the use of pyraclostrobin according to the reported agricultural practice is unlikely to present a risk to consumer health. (C) 2019 European Food Safety Authority. EFSA Journal published by John Wiley and Sons Ltd on behalf of European Food Safety Authority.},
+   notes = {Anastassiadou, Maria Brancato, Alba Cabrera, Luis Carrasco Greco, Luna Jarrah, Samira Leuschner, Renata Miron, Ileana Nave, Stefanie Pedersen, Ragnor Reich, Hermine Sacchi, Angela Santos, Miguel Stanek, Alois Theobald, Anne Vagenende, Benedicte Verani, Alessia
+1831-4732},
+   url = {<Go to ISI>://WOS:000495118700021},
+
+}
+
+@article{Journal Article,
+   author = {Arif, N. and Sharma, N. C. and Yadav, V. and Ramawat, N. and Dubey, N. K. and Tripathi, D. K. and Chauhan, D. K. and Sahi, S.},
+   year = {2019},
+   title = {Understanding Heavy Metal Stress in a Rice Crop: Toxicity, Tolerance Mechanisms, and Amelioration Strategies},
+   journal = {Journal of Plant Biology},
+   volume = {62},
+   issue = {4},
+   pages = {239-253},
+   DOI = {10.1007/s12374-019-0112-4},
+   keywords = {Heavy metals
+Ionomics
+Metabolomics
+metallophytes
+Proteomics
+Rice
+Transcriptomics},
+   abstract = {Heavy metal (HMs) pollution is regarded as one of the major concerns for soil and water, causing varieties of toxic and stress effects on plants and ecosystems. It has become one of the important limiting factors to crop productivity and quality. Due to an ever-increasing population growth and food demands, this situation has further worsened. Rice, a leading staple food crop that feeds more than 50% populations of the world, is constantly affected by abiotic stressors including HMs. In most of the countries, a major source of HM intake by humans is the rice grain produced through the paddy soils contaminated with HMs such as As, Al, Cu, Cr, Cd, Pb, Hg, Mn, Se, and Zn. Thus, gradual agglomeration of HMs in rice grains and their subsequent transfer to the food chain is a major menace to agriculture and human health. In recent years, several studies examined the impact of HMs toxicity on rice at multiple levels: molecular, biochemical, physiological, cellular and tissue, and demonstrated a correlation between HMs toxicity and the decreasing trend in rice productivity. Therefore, it is necessary to understand the interaction of HMs with rice crop spanning from the cell to whole plant level and devise appropriate effective means to alleviate these stress responses. This review focuses on tracing the pathways involved in stress responses and stress tolerance mechanisms displayed by different varieties of rice. However, it is essential to uncover the mechanisms related to stress responses in rice for designing improved investigations to develop novel varieties with high attributes. Therefore, this communication summarizes various defense strategies induced against HM stress and includes the function of metabolites (metabolomics), trace elements (ionomics), transcription factors (transcriptomics), and various stress-inducible proteins (proteomics) including the role of plant hormones. © 2019, Korean Society of Plant Biologists.},
+   notes = {Cited By :1
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073648530&doi=10.1007%2fs12374-019-0112-4&partnerID=40&md5=1ca25d6950c95e7cdf9b270e55dc887f},
+   address = {D D Pant Interdisciplinary Research Laboratory, Department of Botany, University of Allahabad, Allahabad, India
+Department of Biology, Western Kentucky University, Bowling Green, KY 42101, United States
+Amity Institute of Organic Agriculture, Amity University Uttar Pradesh, I 2 Block, 5th Floor, AUUP Campus Sector-125, Noida, 201313, India
+Centre of Advanced Study in Botany, Banaras Hindu University, Varanasi, India
+Department of Biological Sciences, University of the Sciences in Philadelphia (USP), Philadelphia, PA, United States},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Aristil, J. and Pilu, R. and Spada, A.},
+   year = {2019},
+   title = {Morphological diversity among local and introduced maize (zea mays L.) varieties in Haiti for yield improvement},
+   journal = {Maydica},
+   volume = {64},
+   issue = {1},
+   pages = {1-7},
+   keywords = {Developing countries
+Haiti
+Maize
+Yield},
+   abstract = {Maize, the cereal with the largest production in the world, is a staple crop in many developing countries including Haiti. Even if Haiti is the second maize consumer in the Caribbean region, its national yield is low and alleged of aflatoxin contamination. In order to increase grain yield, three introduced and two local maize varieties (these used as comparative control) were evaluated. Three field trials were carried out at Torbeck and Morne Briller (Port-Salut) during different growing seasons. Experiments were designed in a three-replicate randomized block. Each experimental plot was 3.50 m per 10.5 m with a gross area of 36.75 m2 and 40 000 plants/ha densities. The trials were carried out according to local agricultural practices. The results revealed that the introduced varieties had a smaller yield than the local ones. Moreover, all varieties showed some aflatoxin content below the European Union limit (5µg/Kg). Statistical analyses showed a strong and direct correlation between yield and ear weight and an inverse correlation between yield and male and female flowering day after sowing. The broad phenotypic diversity suggested a rich reserve of alleles to exploit in a breeding program focused to improve food security in Haiti. © 2019, Consiglio per la Ricercame la sperimentazione in Agrcoltura. All rights reserved.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073272338&partnerID=40&md5=c7c5bc2202c45f729f47feb2441a9728},
+   address = {Centre de Recherche Interdisciplinaire pour la Vulgarisation Agricole et le Développement Local (CREIVADEL), Université Notre Dame d’Haiti, BP: HT 8110, Redon, Torbeck, Haiti
+Dipartimento di Scienze Agrarie e Ambientali, Produzione, Territorio, Agroenergia, Universita’ degli Studi di Milano, Via G. Celoria 2, Milano, 20133, Italy},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Aulicky, R. and Vendl, T. and Stejskal, V.},
+   year = {2019},
+   title = {Evaluation of contamination of packages containing cereal-fruit bars by eggs of the pest Indian meal moth (Plodia interpunctella, Lepidoptera) due to perforations in their polypropylene foil packaging},
+   journal = {Journal of Food Science and Technology},
+   DOI = {10.1007/s13197-019-03799-2},
+   keywords = {Food
+Infestation
+Moths
+Oviposition
+Risk assessment
+Stored products},
+   abstract = {The quality and type of food packaging affect the level of food protection against pests. This work first evaluated the effect of package perforations on the infestation of cereal-fruit bars by the eggs of the Indian meal moth (Plodia interpunctella). We measured the differential oviposition of moths on the unpackaged bars, empty packages, bars in packages and bars in perforated packages in choice and no-choice experiments. Almost 100% of the laid eggs were laid directly on the bars when they were placed in the enclosure without packaging. A low proportion of the eggs (0.4–3%) were laid on either the empty or non-perforated polypropylene foil packages. Plodia interpunctella efficiently located and infested the bars with eggs when 5 mm package perforations were present in no-choice test. In choice test P. interpunctella preferred to oviposit on open bars than on the packaged or perforated bars. After deposition on the bars the egg hatchability ranged between 40 and 74%. For the food industry, the most significant practical conclusions of this study are that non-perforated packages provide protection against oviposition of P. interpunctella, but small perforations enable the moth to infest the resource with eggs. © 2019, Association of Food Scientists & Technologists (India).},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067365106&doi=10.1007%2fs13197-019-03799-2&partnerID=40&md5=4d8da09e13bbae16b14b38232dcc160d},
+   address = {Crop Research Institute, Drnovska 507/73, Prague 6-Ruzyne, 16106, Czech Republic},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Avsar, B. and Sadeghi, S. and Turkec, A. and Lucas, S. J.},
+   year = {2019},
+   title = {Identification and quantitation of genetically modified (GM) ingredients in maize, rice, soybean and wheat-containing retail foods and feeds in Turkey},
+   journal = {Journal of Food Science and Technology},
+   DOI = {10.1007/s13197-019-04080-2},
+   keywords = {Feed
+Food
+Food safety
+Genetically modified organisms
+GMO screening
+Real-time PCR},
+   abstract = {The cultivation area and diversity of genetically modified (GM) crop varieties worldwide is increasing rapidly. Taking Turkey as an example of a country with tight restrictions on the import and use of GM crops but limited resources for product monitoring, we developed a cost-effective 3-tier screening protocol, and tested 110 retail food products and 13 animal feeds available in 2016–2017 for GM ingredients. No evidence was found for the presence of GM wheat or rice in the foodstuffs tested; however, 6 feeds and 3 food products containing soybean and/or maize were positive for one or more GM elements. GM events present in positive samples were identified by event-specific PCR and quantified by real-time PCR. We also compared the results with previous surveys in Turkey. Overall, we observed consistent use of GM animal feeds; however, these were not labelled as GM at the point of sale. Occasional food products also tested positive for GM ingredients, usually at low concentrations that could be attributed to accidental contamination. © 2019, Association of Food Scientists & Technologists (India).},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073982588&doi=10.1007%2fs13197-019-04080-2&partnerID=40&md5=c0b39f6b804cb7c94fa47d2543f5e052},
+   address = {Sabanci University SUNUM Nanotechnology Research and Application Centre, Orhanlı, Tuzla, Istanbul 34956, Turkey
+Department of Molecular Biology and Genetics, Faculty of Arts and Science, Uludag University, Bursa, 16059, Turkey
+Department of Physics, Chemistry and Biology, Linköping University, Linköping, 58183, Sweden},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Awua, Y. and Inabo, H. I. and Asuke, U. A. and Okubanjo, O. O.},
+   year = {2019},
+   title = {Evaluation of polymerase chain reaction technique in confirming urinary schistosomiasis among rice farmers in parts of Kaduna State, Nigeria},
+   journal = {Nigerian Journal of Parasitology},
+   volume = {40},
+   issue = {1},
+   pages = {82-86},
+   DOI = {10.4314/njpar.v40i1.13},
+   keywords = {PCR technique
+Rice farmers
+Schistomosiasis},
+   abstract = {Schistosomiasis is a prevalent water-based parasitic disease, ranking second to malaria and killing an estimated 280,000 people each year in the African region alone. The application of polymerase chain reaction (PCR) as a technique was evaluated on filtered urine residues of 12 randomly selected rice farmers from some parts of Kaduna State, Nigeria. The urine samples were screened for ova of Schistosoma haematobium by microscopy after filtration using polycarbonate membrane filters (Sterlitech, Kent, WA, USA) of pore size 12μm and 13 mm in diameter. Microscopy revealed a prevalence of 33.3% (4/12). All samples were further subjected to polymerase chain reaction (PCR) for amplification of the schistosome Dra1 repeat. PCR recorded an overall infectivity rate of 66.7% (8/12) among the rice farmers. Four out of the ova negative samples were confirmed to have the Dra1 repeat hence, making them positive for Schistosoma haematobium. Based on these findings, it can therefore be concluded that PCR can be especially useful in diagnosis of infections in nanograms. This will help in assessing the transmission potential of rice farmers living in low endemic areas and improve the effectiveness of surveillance of mass drug administration (MDA) control programmes as recommended by the World Health Organization. © Parasitology and Public Health Society of Nigeria, 2019.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070269094&doi=10.4314%2fnjpar.v40i1.13&partnerID=40&md5=ded87f7648376087eef99ba2f60a5289},
+   address = {Department of Microbiology, Faculty of Life Sciences, Ahmadu Bello University, Zaria, Nigeria
+Department of Protozoology and Entomology, Veterinary Medicine, Ahmadu Bello University, Zaria, Nigeria},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Bean, T. G. and Gross, M. S. and Karouna-Renier, N. K. and Henry, P. F. P. and Schultz, S. L. and Hladik, M. L. and Kuivila, K. M. and Rattner, B. A.},
+   year = {2019},
+   title = {Toxicokinetics of Imidacloprid-Coated Wheat Seeds in Japanese Quail (Coturnix japonica) and an Evaluation of Hazard},
+   journal = {Environmental Science & Technology},
+   volume = {53},
+   issue = {7},
+   pages = {3888-3897},
+   date = {Apr},
+   ISSN = {0013-936X},
+   DOI = {10.1021/acs.est.8b07062},
+   accession_number = {WOS:000463679600057},
+   abstract = {Birds are potentially exposed to neonicotinoid insecticides by ingestion of coated seeds during crop planting. Adult male Japanese quail were orally dosed with wheat seeds coated with an imidacloprid (IMI) formulation at either 0.9 or 2.7 mg/kg body weight (BW) (similar to 3 and 9% of IMI LDSO for Japanese quail, respectively) for 1 or 10 days. Quail were euthanized between 1 and 24 h postexposure to assess toxicokinetics. Analysis revealed rapid absorption (1 h) into blood and distribution to the brain, muscle, kidney, and liver. Clearance to below detection limits occurred at both dose levels and exposure durations in all tissues within 24 h. Metabolism was extensive, with 5-OH-IMI and IMI-olefin detected at greater concentrations than IMI in tissues and fecal samples. There was no lethality or overt signs of toxicity at either dose level. Furthermore, no evidence of enhanced expression of mRNA genes associated with hepatic xenobiotic metabolism, oxidative DNA damage, or alterations in concentrations of corticosterone and thyroid hormones was observed. Application of the toxicokinetic data was used to predict IMI residue levels in the liver with reasonable results for some field exposure and avian mortality events. It would appear that some affected species of birds are either consuming larger quantities of seeds or exhibit differences in ADME or sensitivity than predicted by read-across from these data.},
+   notes = {Bean, Thomas G. Gross, Michael S. Karouna-Renier, Natalie K. Henry, Paula F. P. Schultz, Sandra L. Hladik, Michelle L. Kuivila, Kathryn M. Rattner, Barnett A.
+Hladik, Michelle/0000-0002-0891-2712; Rattner, Barnett/0000-0003-3676-2843
+1520-5851},
+   url = {<Go to ISI>://WOS:000463679600057},
+
+}
+
+@article{Journal Article,
+   author = {Bernardo, C. O. and Ascheri, J. L. R. and Carvalho, C. W. P. and Chavez, D. W. H. and Martins, I. B. A. and Deliza, R. and Freitas, D. D. C. and Queiroz, V. A. V.},
+   year = {2019},
+   title = {Impact of extruded sorghum genotypes on the rehydration and sensory properties of soluble beverages and the Brazilian consumers' perception of sorghum and cereal beverage using word association},
+   journal = {Journal of Cereal Science},
+   volume = {89},
+   date = {Sep},
+   ISSN = {0733-5210},
+   DOI = {10.1016/j.jcs.2019.102793},
+   article_number = {Unsp 102793},
+   accession_number = {WOS:000488320600003},
+   abstract = {Sorghum is a cereal containing many bioactive compounds; however, its use for the human diet requires the development of products that attend the consumer's needs and preferences. Six sorghum genotypes of different colors were analyzed to develop a new beverage. The whole grains were analyzed for their chemical composition, condensed tannins (CT), total phenolic compounds (TPC), antioxidant capacity (AC) and resistant starch (RS). After grinding they were and processed by thermoplastic extrusion to develop a soluble beverage and their wettability, dispersibility, bulk and absolute density were evaluated. Sorghum is poorly used directly in the human diet; therefore, consumer perception of sorghum was investigated, as well as the sensory characterization of the beverages. Brown sorghum presented the highest CT, TPC, AC and RS. Powder from red sorghum presented the highest wettability and sensory acceptance, whereas, powder from white sorghum had the lowest absolute density, wettability, dispersibility and sensory acceptance. Additionally, sensory acceptance presented positive Pearson's correlation with good rehydration characteristics, and the residual bitter taste was directly correlated with AC. Finally, people with food restrictions (i.e. intolerances, allergies, veganism among others) considered sorghum as an alternative food, although they do not know this cereal. The unfamiliarity, the chemical properties and solubility properties all affected the sensory acceptance.},
+   notes = {Bernardo, Cristiany Oliveira Ramirez Ascheri, Jose Luis Piler Carvalho, Carlos Wanderlei Hidalgo Chavez, Davy William Aradjo Martins, Inayara Beatriz Deliza, Rosires Castro Freitas, Daniela de Grandi Vieira Queiroz, Valeria Aparecida
+1095-9963},
+   url = {<Go to ISI>://WOS:000488320600003},
+
+}
+
+@article{Journal Article,
+   author = {Biancolillo, A. and Firmani, P. and Bucci, R. and Magrì, A. and Marini, F.},
+   year = {2019},
+   title = {Determination of insect infestation on stored rice by near infrared (NIR) spectroscopy},
+   journal = {Microchemical Journal},
+   volume = {145},
+   pages = {252-258},
+   DOI = {10.1016/j.microc.2018.10.049},
+   keywords = {Chemometrics
+Classification
+Infested rice
+Near infrared (NIR) spectroscopy
+Partial least squares discriminant analysis (PLS-DA)
+Soft independent modeling of class analogies (SIMCA)},
+   abstract = {Among grains, rice is one of the most widely consumed cereals in the world; it represents a staple food in great part of Asia and Africa, and it is also broadly diffused in America and Europe. One of the main issues of storing rice is to protect it from animal attacks; in particular, it is prone to insect infestation. Despite all the attempts made to avoid it (developing new physical barriers, traps and repellants), often food pests manage to break into granary and parcels, contaminating stored commodities. As a consequence, possible infestations must be continuously checked by producers and/or retailers. Different methods have been developed to detect insects in stored commodities, and, despite some of them demonstrated to perform well, they present the substantial limitation of being destructive. This latter characteristic undoubtedly leads to an obvious loss of product (and consequently, of profit), affecting farmers, retailers, and, finally, consumers. For this reason, the aim of the present work is to develop a methodology for the identification of insect infestation in stored rice by NIR spectroscopy coupled with discriminant and modeling classification methods. In particular, among all the different pests possibly present in granaries, the focus has been on detection of the Indian-meal moth (Plodia interpunctella), because it is considered one of the most common infesting insects. Different samples of rice, both infested and edible, coming from different farmers located in six different Countries (Cambodia, India, Italy, Pakistan, Suriname and Thailand) have been analyzed by NIR spectroscopy. Consequently, two different classification methods, Partial Least Squares Discriminant Analysis (PLS-DA) and Soft Independent Modeling of Class Analogy (SIMCA) have been applied in order to distinguish among infested and edible samples. In particular, PLS-DA allows correctly classifying 95.6% of the edible 97.5% of the contaminated samples (on the external validation set), whereas the SIMCA model, built only for the category of non-contaminated individuals, resulted highly specific (about 97%) but poorly sensitive on the test specimens. This latter approach (SIMCA) provided better predictions (in particular, in terms of sensitivity) when separate individual models were built subdividing samples in agreement with their country of origin. © 2018 Elsevier B.V.},
+   notes = {Cited By :14
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055470835&doi=10.1016%2fj.microc.2018.10.049&partnerID=40&md5=c37df5332a366bd998dcbb781bf4d7d0},
+   address = {Department of Chemistry, University of Rome “La Sapienza”, Rome, Italy},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Cabral, L. D. and Delgado, J. and Patriarca, A. and Rodriguez, A.},
+   year = {2019},
+   title = {Differential response to synthetic and natural antifungals by Alternaria tenuissima in wheat simulating media: Growth, mycotoxin production and expression of a gene related to cell wall integrity},
+   journal = {International Journal of Food Microbiology},
+   volume = {292},
+   pages = {48-55},
+   date = {Mar},
+   ISSN = {0168-1605},
+   DOI = {10.1016/j.ijfoodmicro.2018.12.005},
+   accession_number = {WOS:000458470900007},
+   abstract = {Alternaria spp. are major contaminants of wheat crops, causing both economic losses for producers and health risk for consumers due to the accumulation of toxic metabolites. The application of synthetic fungicides in the field may trigger mycotoxin accumulation, since fungistatic levels of those compounds might cause fungal responses to stress. Hence, new alternatives are needed for its control. The aim of this work was to compare the effects of a natural antifungal compound, the antifungal protein PgAFP, and a synthetic commercial one, on Alternaria tenuissima sp.-grp. growth, mycotoxin biosynthesis (tenuazonic acid and alternariols) and the expression of a stress-related gene associated with cell wall integrity (CWI) pathway, in a wheat-based medium at two water activities (a(w); 0.95 and 0.98 a(w)) conditions associated with the ripening of this grain. The application of both antifungals produced comparable fungistatic effects on Alternaria spp. growth. However, the presence of PgAFP produced a significant reduction in mycotoxins accumulation, whereas this effect was not observed with the commercial antifungal. To our knowledge, this is the first study on the influence of fungicides on the expression of a key gene involved in CWI stress-related pathway in relation to Alternaria mycotoxins accumulation. This information is useful when developing new antifungal methods for foods. The application of PgAFP would be a promising natural strategy for its application in wheat for the control of Alternaria spp.},
+   notes = {da Cruz Cabral, Lucia Delgado, Josue Patriarca, Andrea Rodriguez, Alicia
+; Delgado, Josue/F-8941-2016
+Rodriguez, Alicia/0000-0003-0683-7488; Delgado, Josue/0000-0003-4074-981X
+1879-3460},
+   url = {<Go to ISI>://WOS:000458470900007},
+
+}
+
+@article{Journal Article,
+   author = {Capei, R. and Pettini, L. and Tacconi, F. M.},
+   year = {2019},
+   title = {Occurrence of Ochratoxin A in breakfast cereals and sweet snacks in Italy: Dietary exposure assessment},
+   journal = {Annali di Igiene},
+   volume = {31},
+   issue = {2},
+   pages = {130-139},
+   DOI = {10.7416/ai.2019.2265},
+   keywords = {Cereal-based food
+Dietary exposure
+Ochratoxin A},
+   abstract = {Introduction. Ochratoxin A, a toxic fungal secondary metabolite, is well known as a nephrotoxic, hepatotoxic, embryotoxic, teratogenic and immunotoxic agent, classified by the International Agency for Research on Cancer as "possibly carcinogenic to humans". Objective. The aim of the study was to determine the occurrence of ochratoxin A in breakfast cereals and sweet snacks in order to estimate the dietary exposure of the Italian population, considering the widespread use of these products for all ages, and in particular for children and teenagers. Method. Ochratoxin A was detected by ELISA technique. The calculation of the estimated exposure was performed by a deterministic approach. Results and discussion. The percentages of contaminated samples tested were 8% for breakfast cereals and 51% for sweet snacks with a range of contamination from 0.5 to 2.1 ng/g. The mean estimated daily intake, depending on age categories, ranged from 2.9% to 8.6% of the latest provisional tolerable daily intake recommended by the European Food Safety Authority (17 ng/kg bw/d) calculated on the total diet. Children and teenagers result to be higher in exposure per kg body weight compared to adults. Conclusions. The estimate of ochratoxin A exposure levels calculated in the study does not represent a great concern for public health because they are not associated with a significant cancer risk. © 2019, Societa Editrice Universo.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061031161&doi=10.7416%2fai.2019.2265&partnerID=40&md5=fc44762709f93711dbfd74dc89a48bdd},
+   address = {Department of Health Sciences, University of Florence, Italy},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Cardoso, D. B. and Véras, R. M. L. and de Carvalho, F. F. R. and Magalhães, A. L. R. and de Vasconcelos, G. A. and Maciel, M. I. S. and Madruga, M. S. and Urbano, S. A. and de Lima Silva, J.},
+   year = {2019},
+   title = {Physicochemical parameters, fatty acid profile, and sensory attributes of meat from lambs fed with cassava dregs in replacement of corn},
+   journal = {Tropical Animal Health and Production},
+   volume = {51},
+   issue = {6},
+   pages = {1515-1521},
+   DOI = {10.1007/s11250-019-01840-2},
+   keywords = {Agroindustry residue
+Fatty acid
+Flavor
+Sheep},
+   abstract = {The objective of this study was to evaluate the effect of the replacement of corn by cassava dregs (0, 33, 66, and 100%) in the diet of lamb on physicochemical parameters, fatty acid profile, and sensory attributes of meat. Forty male non-castrated Santa Inês crossbred lambs with an initial average weight of 20 ± 1.87 kg were slaughtered after 70 days. The physicochemical parameters and chemical composition of meat were not affected by the diets. Eicosenoic (C20:1n-9) and linolenic (C18:3n-3) acids increased linearly and there was a linear decreasing effect for the flavor score with increasing cassava dregs in the diets. The replacement of corn by cassava dregs did not influence omega-6:omega-3 ration or the total desirable fatty acids, as well as the color, aroma, tenderness, juiciness, or overall evaluation scores. Cassava dregs may be added in the diets of lambs, without negative effects on physicochemical characteristics, chemical composition, and fatty acid indexes, with positive effects on unsaturated fatty acid content. However, the total replacement of corn altered the sensory attributes and decreased purchase intent of the meat. © 2019, Springer Nature B.V.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062024704&doi=10.1007%2fs11250-019-01840-2&partnerID=40&md5=06e169be504622919096f2eafe47812b},
+   address = {Department of Animal Science, Universidade Federal Rural de Pernambuco, Recife, PE, Brazil
+Academic Unit of Garanhuns, Universidade Federal Rural de Pernambuco, Garanhuns, PE, Brazil
+Department of Home Economic, Universidade Federal Rural de Pernambuco, Recife, PE, Brazil
+Department of Chemical and Food Technology, Universidade Federal da Paraíba, João Pessoa, PB, Brazil
+Department of Agriculture, Technology Centre, Universidade Federal do Rio grande do Norte, Natal, RN, Brazil
+Multidisciplinary Center of Barra, Universidade Federal do Oeste da Bahia, Barra, Bahia, Brazil},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Chang, K. H. and Lou, K. R. and Ko, C. H.},
+   year = {2019},
+   title = {Potential of bioenergy production from biomass wastes of rice paddies and forest sectors in Taiwan},
+   journal = {Journal of Cleaner Production},
+   volume = {206},
+   pages = {460-476},
+   DOI = {10.1016/j.jclepro.2018.09.048},
+   keywords = {Bioenergy
+Bioethanol
+Biomass
+Harvested wood product
+Rice paddy},
+   abstract = {Promoting biofuel to replace fossil fuels and alternative utilization schemes to replace conventional measures of biomass waste disposal have been considered a priority to mitigate CO2 emissions. Despite fewer land resources and higher reliance on imported energy and raw material resources, the potential for bioenergy supply in a place like Taiwan should be fully investigated. This paper presents a case study regarding the utilization of waste biomass derived from an enhanced production of rice paddy and from the forest sector in Taiwan for biofuel production. In this study, the carbon balance for the two aforementioned bioenergy production scenarios was calculated. The amount of biomass waste expected to be derived from rice husk and rice straw produced from currently planted paddy and from reactivated fallow rice paddy was estimated. Forest sector wastes consist of biomass derived from processing domestically harvested and post-consumer harvested wood products. The projection was made up to 2065. The overall annual bioenergy providing potential of the biomass, estimated by this study, to replace gasoline through bioethanol production and residual combustion and to substitute coal for power generation via combustion were approximately 222.37 PJ and 206.77 PJ, respectively. These values represent 332.56% and 323.24% of the current level of bioenergy supplies, compared to the 76.4 PJ from biomass and waste incineration in 2016. This is the first time the bioenergy potential of post-consumer harvested wood products is being identified. © 2018},
+   notes = {Cited By :9
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85054850104&doi=10.1016%2fj.jclepro.2018.09.048&partnerID=40&md5=5c2fc77366c9d1587acfe1417b43f428},
+   address = {Department of Management Sciences, Tamkang University, Taipei, 25137, Taiwan
+School of Forest and Resources Conservation, National Taiwan University, Taipei, 10617, Taiwan},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Chen, J. G. and Zou, W. L. and Meng, L. J. and Fan, X. R. and Xu, G. H. and Ye, G. Y.},
+   year = {2019},
+   title = {Advances in the Uptake and Transport Mechanisms and QTLs Mapping of Cadmium in Rice},
+   journal = {International Journal of Molecular Sciences},
+   volume = {20},
+   issue = {14},
+   date = {Jul},
+   ISSN = {1661-6596},
+   DOI = {10.3390/ijms20143417},
+   article_number = {3417},
+   accession_number = {WOS:000480449300041},
+   abstract = {Cadmium (Cd), as a heavy metal, presents substantial biological toxicity and has harmful effects on human health. To lower the ingress levels of human Cd, it is necessary for Cd content in food crops to be reduced, which is of considerable significance for ensuring food safety. This review will summarize the genetic traits of Cd accumulation in rice and examine the mechanism of Cd uptake and translocation in rice. The status of genes related to Cd stress and Cd accumulation in rice in recent years will be summarized, and the genes related to Cd accumulation in rice will be classified according to their functions. In addition, an overview of quantitative trait loci (QTLs) mapping populations in rice will be introduced, aiming to provide a theoretical reference for the breeding of rice varieties with low Cd accumulation. Finally, existing problems and prospects will be put forward.},
+   notes = {Chen, Jingguang Zou, Wenli Meng, Lijun Fan, Xiaorong Xu, Guohua Ye, Guoyou
+Xu, Guohua/J-1840-2012
+Xu, Guohua/0000-0002-3283-2392
+1422-0067},
+   url = {<Go to ISI>://WOS:000480449300041},
+
+}
+
+@article{Journal Article,
+   author = {Cheng, X. B. and Vella, A. and Stasiewicz, M. J.},
+   year = {2019},
+   title = {Classification of aflatoxin contaminated single corn kernels by ultraviolet to near infrared spectroscopy},
+   journal = {Food Control},
+   volume = {98},
+   pages = {253-261},
+   date = {Apr},
+   ISSN = {0956-7135},
+   DOI = {10.1016/j.foodcont.2018.11.037},
+   accession_number = {WOS:000456754500033},
+   abstract = {Aflatoxin contamination in corn poses threats to consumer food safety and grower economic stability. Current industrial methods for aflatoxin management in corn focus on the bulk aflatoxin level, which can lead to either acceptance of lots with contaminated corn kernels (consumer food safety risk) or rejection of lots with mostly harmless corn kernels (grower economic loss). This dilemma may be resolved by utilizing spectroscopy to classify single corn kernels. Hence, our research aims to investigate the potential of using a custom-built UltraViolet-Visible-Near InfraRed spectroscopy system (UV-Vis-NIR) to classify single corn kernels by aflatoxin level. Single kernels from cobs inoculated with aflatoxin-producing Asperaus flavus (240 kernels) and uninoculated cobs (240 kernels) were i) scanned individually for reflectance from 304 nm to 1086 nm by an increment of 0.5 nm; ii) ground; iii) measured for aflatoxin by ELISA. Using the spectra and the aflatoxin concentration, a random forest model was trained on 80% of the kernels to classify single corn kernels above or below 20 ppb of aflatoxin and was tested on the remaining 20% of the kernels. Among 480 kernels, 374 kernels had <20 ppb of aflatoxin and 106 kernels had >= 20 ppb of aflatoxin. The random forest model had a sensitivity of 87.1% and specificity of 97.7% in the training set and a sensitivity of 85.7% and specificity of 97.3% in the test set, which is higher than previous models where kernels were in motion and comparable to models where kernels were stationary. Spectral regions around 390, 540, and 1050 nm are found to be important for classification. This study demonstrated the custom-built UV-Vis-NIR spectroscopy system showed considerable potential in classifying single corn kernels by aflatoxin level while the kernels are in motion.},
+   notes = {Cheng, Xianbin Vella, Andrea Stasiewicz, Matthew J.
+Stasiewicz, Matthew/A-9083-2012
+Stasiewicz, Matthew/0000-0003-2712-0793
+1873-7129},
+   url = {<Go to ISI>://WOS:000456754500033},
+
+}
+
+@article{Journal Article,
+   author = {Ciasca, B. and Pecorelli, I. and Lepore, L. and Paoloni, A. and Catucci, L. and Pascale, M. and Lattanzio, V. M. T.},
+   year = {2020},
+   title = {Rapid and reliable detection of glyphosate in pome fruits, berries, pulses and cereals by flow injection – Mass spectrometry},
+   journal = {Food Chemistry},
+   volume = {310},
+   DOI = {10.1016/j.foodchem.2019.125813},
+   article_number = {125813},
+   keywords = {Food safety
+Glyphosate
+Mass spectrometry
+Polar pesticides
+Rapid detection},
+   abstract = {A flow injection – mass spectrometry method for rapid glyphosate detection in food commodities was developed and validated. The sample preparation protocol included a simple and rapid extract purification step through polymeric solid phase extraction cartridges followed by addition of isotopically labeled glyphosate to the final test sample. The optimized method was subjected to intra-laboratory validation (spiking range 0.5–100 mg/kg) in chickpeas, grapes and apples, as representatives of three different commodity groups as defined in SANTE/11813/2017 guidelines. Recoveries were in the range 60–111%, repeatability and within laboratory reproducibility were ≤17%.The trueness of the results generated with the developed method was evaluated by analysis of a set of incurred chickpea and wheat samples (glyphosate range 0.5–36 mg/kg) and comparison with the reference method (Quick Polar Pesticides Method), confirming the method fitness-for-purpose of rapid compliance testing. © 2019 Elsevier Ltd},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075852584&doi=10.1016%2fj.foodchem.2019.125813&partnerID=40&md5=67f7cd533b5896e4e46f69e22d6aa1e7},
+   address = {Institute of Sciences of Food Production, National Research Council of Italy, Via Amendola 122/O, Bari, 70126, Italy
+Istituto Zooprofilattico Sperimentale dell'Umbria e delle Marche “Togo Rosati”, Via Salvemini 1, Perugia, 06126, Italy
+Department of Chemistry, University “Aldo Moro” of Bari, Via Orabona 4, Bari, 70125, Italy},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Colombo, E. M. and Kunova, A. and Cortesi, P. and Saracchi, M. and Pasquali, M.},
+   year = {2019},
+   title = {Critical Assessment of Streptomyces spp. Able to Control Toxigenic Fusaria in Cereals: A Literature and Patent Review},
+   journal = {International journal of molecular sciences},
+   volume = {20},
+   issue = {24},
+   DOI = {10.3390/ijms20246119},
+   keywords = {antagonism
+bioactive compounds
+biocontrol
+deoxynivalenol
+fumonisin
+mycotoxin
+wheat},
+   abstract = {Mycotoxins produced by Fusarium species on cereals represent a major concern for food safety worldwide. Fusarium toxins that are currently under regulation for their content in food include trichothecenes, fumonisins, and zearalenone. Biological control of Fusarium spp. has been widely explored with the aim of limiting disease occurrence, but few efforts have focused so far on limiting toxin accumulation in grains. The bacterial genus Streptomyces is responsible for the production of numerous drug molecules and represents a huge resource for the discovery of new molecules. Streptomyces spp. are also efficient plant colonizers and able to employ different mechanisms of control against toxigenic fungi on cereals. This review describes the outcomes of research using Streptomyces strains and/or their derived molecules to limit toxin production and/or contamination of Fusarium species in cereals. Both the scientific and patent literature were analyzed, starting from the year 2000, and we highlight promising results as well as the current pitfalls and limitations of this approach.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076284149&doi=10.3390%2fijms20246119&partnerID=40&md5=39e0d4c845ae6617440d37c1a65fae58},
+   address = {Department of Food, Environmental and Nutritional Sciences, University of Milan, Milan, 20133, Italy},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Coppa, Cfsc and Khaneghah, A. M. and Alvito, P. and Assuncao, R. and Martins, C. and Es, I. and Goncalves, B. L. and de Neeff, D. V. and Sant'Ana, A. S. and Corassin, C. H. and Oliveira, C. A. F.},
+   year = {2019},
+   title = {The occurrence of mycotoxins in breast milk, fruit products and cereal-based infant formula: A review},
+   journal = {Trends in Food Science & Technology},
+   volume = {92},
+   pages = {81-93},
+   date = {Oct},
+   ISSN = {0924-2244},
+   DOI = {10.1016/j.tifs.2019.08.014},
+   accession_number = {WOS:000488305500008},
+   abstract = {Background: Breast milk is considered an essential food segment for children up to 6 months; however, it can be contaminated with some mycotoxins, such as aflatoxin M-1 (AFM(1)) and ochratoxin A (OTA) as a consequence of ingestion of dietary mycotoxins by lactating mothers. Moreover, the health of infants can be threatened due to simultaneous exposure to a mixture of mycotoxins mainly due to their potential synergistic effects. Scope and approach: An overview of the prevalence of mycotoxins in breast milk and infant formula, fruit- and cereal-based products as routine diets of infants during the last 10 years, besides the associated health risks, were presented. In this regard, the relevant citations published in international databases such as PubMed, Science direct from 2008 to 2019 were screened by the aid of a systematic review approach. Key findings and conclusions: The high prevalence of AFM(1) and OTA in breast milk reported in several countries highlighted the extent of mycotoxin occurrence in the diet of lactating mothers. Furthermore, the exposure rates of infants to mycotoxins in breast milk and infant formula while generated a margin of exposure values lower than 10,000, indicating a huge public health concern. Thus, reducing the dietary exposure of mycotoxins for lactating mothers and approaching the required controlling steps during the processing and distribution of infant formulas are crucial. Further studies are recommended to evaluate the health risks to infants due to dietary exposure to multiple mycotoxins in infant foods.},
+   notes = {Cebin Coppa, Carolina Fernanda Sengling Khaneghah, Amin Mousavi Alvito, Paula Assuncao, Ricardo Martins, Carla Es, Ismail Goncalves, Bruna Leonel de Neeff, Diane Valganon Sant'Ana, Anderson S. Corassin, Carlos Humberto Fernandes Oliveira, Carlos Augusto
+de Oliveira, Carlos Augusto Fernandes/H-3957-2012; Es, Ismail/J-6927-2019; Khaneghah, Amin Mousavi/A-5925-2012; Sant'Ana, Anderson S./D-2470-2013; Martins, Carla/U-5071-2018; Assuncao, Ricardo/E-2738-2014
+de Oliveira, Carlos Augusto Fernandes/0000-0001-5779-5287; Es, Ismail/0000-0002-7369-1039; Khaneghah, Amin Mousavi/0000-0001-5769-0004; Sant'Ana, Anderson S./0000-0001-5052-2315; Martins, Carla/0000-0001-7930-2914; Assuncao, Ricardo/0000-0002-4375-0456},
+   url = {<Go to ISI>://WOS:000488305500008},
+
+}
+
+@article{Journal Article,
+   author = {de Melo Nazareth, T. and Luz, C. and Torrijos, R. and Quiles, J. M. and Luciano, F. B. and Mañes, J. and Meca, G.},
+   year = {2019},
+   title = {Potential application of lactic acid bacteria to reduce aflatoxin B1 and fumonisin B1 occurrence on corn kernels and corn ears},
+   journal = {Toxins},
+   volume = {12},
+   issue = {1},
+   DOI = {10.3390/toxins12010021},
+   article_number = {21},
+   keywords = {Aflatoxin B1
+Biopreservation
+Fumonisin B1
+Lactobacillus plantarum},
+   abstract = {Fungal spoilage is an important issue for the food industry, leading to food sensory defects, food waste, economic losses and public health concern through the production of mycotoxins. Concomitantly, the search for safer natural products has gained importance since consumers began to look for less processed and chemically treated foods. In this context, the aim of this study was to evaluate the antifungal and antimycotoxigenic effect of seven strains of Lactobacillus plantarum. Lactic acid bacteria (LAB) were grown on Man Rogosa Sharpe (MRS) broth at 37 ºC in anaerobic conditions. After that, the cell-free supernatant (CFS) were recovered to determine its antifungal activity by halo diffusion agar test. In addition, minimum inhibitory concentration (MIC) and minimum fungicidal concentration (MFC) was determined for each L. plantarum CFS by 96-well microplates method. Additionally, CFS was used as a natural biocontrol agent on corn kernels and corn ears contaminated with Aspergillus flavus and Fusarium verticillioides, respectively. The L. plantarum CECT 749 CFS showed the highest antifungal effect against all essayed strains. Moreover, the employment of this CFS in food reduced the mycotoxin production at a percentage ranging from 73.7 to 99.7%. These results suggest that the L. plantarum CECT 749 CFS could be promising for the biocontrol of corn. © 2019 by the authors.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077583397&doi=10.3390%2ftoxins12010021&partnerID=40&md5=567fd86ce59f3c0a6df76a04213cc8fb},
+   address = {Laboratory of Food Chemistry and Toxicology, Faculty of Pharmacy, University of Valencia, Av. Vicent Andrés Estellés s/n, Burjassot, 46100, Spain
+School of Life Sciences, Pontifícia Universidade Católica do Paraná, st. Imaculada Conceição 1155, Curitiba, PR 80215-901, Brazil},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Deng, F. and Yu, M. and Martinoia, E. and Song, W. Y.},
+   year = {2019},
+   title = {Ideal cereals with lower arsenic and cadmium by accurately enhancing vacuolar sequestration capacity},
+   journal = {Frontiers in Genetics},
+   volume = {10},
+   issue = {APR},
+   DOI = {10.3389/fgene.2019.00322},
+   article_number = {322},
+   keywords = {Arsenic
+Cadmium
+Cell specificity
+Crop engineering
+Food safety
+Vacuolar sequestration},
+   abstract = {Cereals are a staple food for many people around the world; however, they are also a major dietary source of toxic metal(loid)s. Many agricultural regions throughout the world are contaminated with toxic metal(loid)s, which can accumulate to high levels in the grains of cereals cultivated in these regions, posing serious health risks to consumers. Arsenic (As) and cadmium (Cd) are efficiently accumulated in cereals through metal transport pathways. Therefore, there is an urgent need to develop crops that contain greatly reduced levels of toxic metal(loid)s. Vacuolar sequestration of toxic metal(loid)s is a primary strategy for reducing toxic metal(loid)s in grains. However, until recently, detailed strategies and mechanisms for reducing toxic metal(loid)s in grain were limited by the lack of experimental data. New strategies to reduce As and Cd in grain by enhancing vacuolar sequestration in specific tissues are critical to develop crops that lower the daily intake of As and Cd, potentially improving human health. This review provides insights and strategies for developing crops with strongly reduced amounts of toxic metal(loid)s without jeopardizing agronomic traits. Copyright © 2019 Deng, Yu, Martinoia and Song. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.},
+   notes = {Cited By :1
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067846787&doi=10.3389%2ffgene.2019.00322&partnerID=40&md5=cd04a25eaa092e793757a3593d35fa46},
+   address = {Department of Horticulture, Foshan University, Foshan, China
+Department of Integrative Biosciences and Biotechnology, Pohang University of Science and Technology, Pohang, South Korea
+Institute of Plant Biology, University of Zurich, Zurich, Switzerland},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Diarra, M. and Amoah, R. S.},
+   year = {2019},
+   title = {Physical factors in the hermetic SuperGrainBag® and effect on the larger grain borer [Prostephanus truncatus (Horn) (Coleoptera: Bostrichidae)] and aflatoxin production by Aspergillus flavus during the storage of ‘Obatanpa’ maize (Zea mays L.) variety},
+   journal = {Journal of Stored Products Research},
+   volume = {83},
+   pages = {84-91},
+   DOI = {10.1016/j.jspr.2019.05.016},
+   keywords = {Hermetic SuperGrainBag®
+Physical factors
+Prostephanus truncatus, aflatoxin
+‘Obatanpa’ maize},
+   abstract = {Controlling invasive pests and aflatoxin production by moulds in stored grains is a global challenge to food security and public health, particularly in Africa. Food storage systems are designed to provide constraints to spoilage organisms by presenting mechanical barrier or unfavourable atmospheric conditions to their growth and productivity. This study examined the physical factors generated in hermetic SuperGrainBags® during the storage of ‘Obatanpa’ variety of maize (Zea mays L.) and the effect on growth of the larger grain borer Prostephanus truncatus (Horn) and aflatoxin contamination by Aspergillus flavus. Cultured P. truncatus or A. flavus was introduced into 1.5 kg of the dried maize and stored in either hermetic SuperGrainBags® or non-hermetic polypropylene bags. The hermetic conditions elicited an increase in the interstitial temperature (ca. 27 °C) but a decrease in the relative humidity (&lt;70%), oxygen concentration (&lt;6.4%) and the grain moisture content (&lt;13.7%), the combined effects of which inhibited growth of the insects and aflatoxin production by the moulds. Total mortality of P. truncatus occurred after 52 d of storage in the SuperGrainBags® while aflatoxins concentration remained within safe limits for human consumption. In contrast, there was proliferous growth of P. truncatus and significant increase in aflatoxin concentration to lethargic levels within the polypropylene bags where temperature, relative humidity and grain moisture increased significantly. Accordingly, grain damage and weight loss percentages were significantly high in the polypropylene bags while that in the SuperGrainBags® were negligible. Altogether, the SuperGrainBags® better preserved the maize grain quality and safeguarded it against health risks than the polypropylene bags. © 2019 Elsevier Ltd},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067059665&doi=10.1016%2fj.jspr.2019.05.016&partnerID=40&md5=8d3e0ffac1b8e4172137954013fff1b5},
+   address = {Department of Agricultural Engineering, University of Cape Coast, Cape Coast, Ghana},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Dubey, S. and Saxena, S. and Chauhan, A. S. and Mathur, P. and Rani, V. and Chakrabaroty, D.},
+   year = {2019},
+   title = {Identification and expression analysis of conserved microRNAs during short and prolonged chromium stress in rice (Oryza sativa)},
+   journal = {Environmental Science and Pollution Research},
+   DOI = {10.1007/s11356-019-06760-0},
+   keywords = {Cr stress
+Heavy metal toxicity
+MicroRNA
+NGS
+Oryza sativa
+Transcriptome},
+   abstract = {MicroRNAs (miRNAs) are one of the most critical epigenetic regulators of gene expression which modulate a spectrum of development and defence response processes in plants. Chromium (Cr) contamination in rice imposes a serious concern to human health as rice is used as staple food throughout the world. Although several studies have established the differential response of miRNAs in rice during heavy metal (arsenic, cadmium) and heat or cold stress, no report is available about the response of miRNAs during Cr stress. In the present study, we identified 512 and 568 known miRNAs from Cr treated and untreated samples, respectively. Expression analysis revealed that 13 conserved miRNAs (miR156, miR159, miR160, miR166, miR169, miR171, miR396, miR397, miR408, miR444, miR1883, miR2877, miR5072) depicted preferential up- or down-regulation (> 4-fold change; P value < 0.05). Target gene prediction of differentially expressed miRNAs and their functional annotation suggested the important role of miRNAs in defence and detoxification of Cr though ATP-binding cassette transporters (ABC transporters), transcription factors, heat shock proteins, auxin response, and metal ion transport. Real-time PCR analysis validated the differential expression of selected miRNAs and their putative target genes. In conclusion, our study identifies and predicts miRNA-mediated regulation of signalling pathway in rice during Cr stress. © 2019, Springer-Verlag GmbH Germany, part of Springer Nature.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075932151&doi=10.1007%2fs11356-019-06760-0&partnerID=40&md5=3e0a367a886bc8e8f0a1cae07abcf5a7},
+   address = {Amity Institute of Biotechnology, Amity University, Sector-125, Noida, U.P 201313, India
+Transcriptome Laboratory, Centre for Emerging Diseases, Department of Biotechnology, Jaypee Institute of Information Technology, A-10, Sector-62, Noida, U.P 201307, India
+Council of Scientific and Industrial Research—National Botanical Research Institute (CSIR-NBRI), Rana Pratap Marg, Lucknow, 226001, India},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Fischer, T.},
+   year = {2019},
+   title = {Wheat yield losses in India due to ozone and aerosol pollution and their alleviation: A critical review},
+   journal = {Outlook on Agriculture},
+   volume = {48},
+   issue = {3},
+   pages = {181-189},
+   DOI = {10.1177/0030727019868484},
+   keywords = {diffuse radiation
+ozone tolerance
+Solar radiation
+stomatal conductance},
+   abstract = {This review examines estimations made over the last two decades of the wheat yield losses in India due to elevated tropospheric ozone (O3) and to aerosol pollution. Notwithstanding the poor record of O3 and solar radiation measurement in wheat regions, a reasonable estimate can be made yield losses around 2010. From an average of the more credible studies, this is around 30% compared to the yield which would have been achieved with 1970 solar radiation and O3 assumed to be &lt;40 ppb (parts per billion by volume). The results suggest that O3 causes two-thirds of the loss and reduced total solar radiation due to aerosols (but corrected for increased diffuse radiation) one-third. Ozone, in particular, appears to be still increasing. It is likely that increased stomatal conductance (e.g. due to more irrigation (97% of production now irrigated) and the unwitting consequence of breeding for increased potential yield) has added to current O3 losses. Much is known about the physiology of O3 damage in the wheat leaf and plant. What is lacking is a thorough search for genetic tolerance independent of stomatal conductance and potential yield penalties, and this requires, at least initially, many chamber and/or FACE (free-air CO2 enhancement) experiments under typical Indian field conditions. Genetic engineering could offer a solution for O3 but only in the long term. Other solutions to pollution damage are very limited, but earlier planting should help wheat escape the rising O3 level in the spring. The 40 million tonnes of wheat currently foregone annually by India due to these two pollutants, even if an overestimate, far exceeds estimates of wheat yield loss to date due to climate change and demands concerted action to reduce the sources of this pollution, bringing added direct advantages for other crops and for human health. © The Author(s) 2019.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85071472067&doi=10.1177%2f0030727019868484&partnerID=40&md5=d2af3ec1c4f5a3aa106b9b20411ca1a5},
+   address = {CSIRO Agriculture and Food, Canberra, ACT, Australia},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Focker, M. and van der Fels-Klerx, H. J. and Oude Lansink, A. G. J. M.},
+   year = {2019},
+   title = {Optimization of the Aflatoxin Monitoring Costs along the Maize Supply Chain},
+   journal = {Risk Analysis},
+   volume = {39},
+   issue = {10},
+   pages = {2227-2236},
+   DOI = {10.1111/risa.13364},
+   keywords = {Monitoring
+mycotoxins
+optimization},
+   abstract = {An optimization model was used to gain insight into cost-effective monitoring plans for aflatoxins along the maize supply chain. The model was based on a typical Dutch maize chain, with maize grown in the Black Sea region, and transported by ship to the Netherlands for use as an ingredient in compound feed for dairy cattle. Six different scenarios, with different aflatoxin concentrations at harvest and possible aflatoxin production during transport, were used. By minimizing the costs and using parameters such as the concentration, the variance of the sampling plan, and the monitoring and replacement costs, the model optimized the control points (CPs; e.g., after harvest, before or after transport by sea ship), the number of batches sampled at the CP, and the number of samples per batch. This optimization approach led to an end-of-chain aflatoxin concentration below the predetermined limit. The model showed that, when postharvest aflatoxin production was not possible, it was most cost-effective to collect samples from all batches and replace contaminated batches directly after the harvest, since the replacement costs were the lowest at the origin of the chain. When there was aflatoxin production during storage, it was most cost-effective to collect samples and replace contaminated batches after storage and transport to avoid the duplicate before and after monitoring and replacement costs. Further along the chain a contaminated batch is detected, the more stakeholders are involved, the more expensive the replacement costs and possible recall costs become. © 2019 The Authors Risk Analysis published by Wiley Periodicals, Inc. on behalf of Society for Risk Analysis.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068119695&doi=10.1111%2frisa.13364&partnerID=40&md5=e697329291afecb75695434dfa54632c},
+   address = {Wageningen Food Safety Research (previously RIKILT), Part of Wageningen University and Research, Akkermaalsbos, Wageningen, Netherlands
+Business Economics, Wageningen University, Hollandseweg, Wageningen, Netherlands},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {García-Díaz, M. and Patiño, B. and Vázquez, C. and Gil-Serna, J.},
+   year = {2019},
+   title = {A novel niosome-encapsulated essential oil formulation to prevent aspergillus flavus growth and aflatoxin contamination of maize grains during storage},
+   journal = {Toxins},
+   volume = {11},
+   issue = {11},
+   DOI = {10.3390/toxins11110646},
+   article_number = {646},
+   keywords = {Aflatoxin
+Aspergillus flavus
+Corn
+Essential oils
+Nanoparticles
+Origanumvirens
+Saturejamontana},
+   abstract = {Aflatoxin (AF) contamination of maize is a major concern for food safety. The use of chemical fungicides is controversial, and it is necessary to develop new effective methods to control Aspergillus flavus growth and, therefore, to avoid the presence of AFs in grains. In this work, we tested in vitro the effect of six essential oils (EOs) extracted from aromatic plants. We selected those from Satureja montana and Origanum virens because they show high levels of antifungal and antitoxigenic activity at low concentrations against A. flavus. EOs are highly volatile compounds and we have developed a new niosome-based encapsulation method to extend their shelf life and activity. These new formulations have been successfully applied to reduce fungal growth and AF accumulation in maize grains in a small-scale test, as well as placing the maize into polypropylene woven bags to simulate common storage conditions. In this latter case, the antifungal properties lasted up to 75 days after the first application. © 2019 by the authors.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074732057&doi=10.3390%2ftoxins11110646&partnerID=40&md5=7664f37eeaef26b15f6d3ff923af08cc},
+   address = {Department of Genetics Physiology and Microbiology, Faculty of Biology, University Complutense of Madrid, Gil-SernaJose Antonio Novais 12, Madrid, 28040, Spain},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Guo, L. B. and Yu, Y. X. and Yu, H. Y. and Tang, Y. and Li, J. and Du, Y. and Chu, Y. W. and Ma, S. X. and Ma, Y. Y. and Zeng, X. Y.},
+   year = {2019},
+   title = {Rapid quantitative analysis of adulterated rice with partial least squares regression using hyperspectral imaging system},
+   journal = {Journal of the Science of Food and Agriculture},
+   volume = {99},
+   issue = {12},
+   pages = {5558-5564},
+   date = {Sep},
+   ISSN = {0022-5142},
+   DOI = {10.1002/jsfa.9824},
+   accession_number = {WOS:000481458700033},
+   abstract = {BACKGROUND Rice adulteration in the food industry that infringes on the interests of consumers is considered very serious. To realize the rapid and precise quantitation of adulterated rice, a visible near infrared (VNIR) hyperspectral imaging system (380-1000 nm) was developed in the present study. A Savitsky-Golay first derivative (SG1) transform was utilized to eliminate the constant spectral baseline offset. Then, the adulterated levels of rice samples were quantified by partial least squares regression (PLSR). RESULTS A SG1-PLSR model based on full-wavelength was attained with a coefficient of determination of prediction set (R-P) of 0.9909, root-mean-square error of prediction set (RMSEP) of 0.0447 g kg(-1) and residual predictive deviation (RPDP) of 11.28. Furthermore, fifteen important wavelengths were selected based on the weighted regression coefficients (B-W) and a simplified model (PLSR-15) was established with R-P of 0.9769, RMSEP of 0.0708 g kg(-1) and RPDP of 3.49. Finally, two visualization maps produced by applying the optimal models (SG1-PLSR and PLSR-15) were used to visualize the adulterated levels of rice. CONCLUSION These results demonstrate that VNIR hyperspectral imaging system is an effective tool for rapidly quantifying and visualizing the adulterated levels of rice. (c) 2019 Society of Chemical Industry},
+   notes = {Guo, Lianbo Yu, Yunxin Yu, Hanyue Tang, Yun Li, Jun Du, Yu Chu, Yanwu Ma, Shixiang Ma, Yuyang Zeng, Xiaoyan
+1097-0010},
+   url = {<Go to ISI>://WOS:000481458700033},
+
+}
+
+@article{Journal Article,
+   author = {Hama-Ba, F. and Mouquet-Rivier, C. and Diawara, B. and Weltzien, E. and Icard-Vernière, C.},
+   year = {2019},
+   title = {Traditional African Dishes Prepared From Local Biofortified Varieties of Pearl Millet: Acceptability and Potential Contribution to Iron and Zinc Intakes of Burkinabe Young Children},
+   journal = {Frontiers in Nutrition},
+   volume = {6},
+   DOI = {10.3389/fnut.2019.00115},
+   article_number = {115},
+   keywords = {biofortification
+cereal
+micronutrient
+phytate
+traditional dishes},
+   abstract = {Biofortification is among the food-based strategies, recently implemented and still in development, to fight micronutrient deficiencies. Three cereal-based traditional dishes of Sub-Saharan Africa (tô paste, pancakes, and gruel) prepared from one local (Gampela), or two biofortified (GB 8735 and Tabi) varieties of millet were assessed for their (i) acceptability by local consumers, (ii) iron and zinc absorption predicted by phytate-to-mineral molar ratios and (iii) contribution to the iron and zinc requirements of young children. Tasters preferred the color, texture, and taste of dishes prepared with the local variety, whether or not the grains were decorticated. Hedonic and preference tests showed no significant difference between the two biofortified varieties, but the cooks reported different behaviors during processing. Biofortified millet contained up to two times more iron than the local variety, reaching 6.5 mg iron/100 g dry matter. Iron and zinc contents remained higher in biofortified varieties even after decortication. Iron content in the dishes was highly variable, depending on iron loss and potential contamination during processing. The phytate-to-mineral molar ratios of all dishes indicated low iron absorption, independent of the millet variety, but improved zinc absorption in dishes prepared with biofortified varieties. The contribution of a dish prepared with one of the two biofortified millet varieties to the recommended iron and zinc intakes for 6–11-month-old children was estimated to be about 5 and 7%, respectively, compared to 2 and 4% for the same dish prepared with local millet. For 12–23-month-old children, the contribution to the recommended intakes was estimated to be about 14 and 12% with biofortified millet, respectively, and about 6 and 7% with local millet. The use of biofortified millet varieties could be complementary to food diversification strategies to increase iron and zinc intakes. As in Ouagadougou, cereals are eaten in different forms by young children several times per day, iron and zinc intakes could be improved in the long term by using the biofortified varieties of pearl millet. © Copyright © 2019 Hama-Ba, Mouquet-Rivier, Diawara, Weltzien and Icard-Vernière.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85072737953&doi=10.3389%2ffnut.2019.00115&partnerID=40&md5=93d915a4ced6b0257dbb0d0d2dcbcb67},
+   address = {Département de Technologie Alimentaire, IRSAT, Ouagadougou, Burkina Faso
+Nutripass, IRD, University Montpellier, Montpellier, France
+Agronomy Department, University of Wisconsin-Madison, Madison, AL, United States},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Hernandez-Reyes, K. E. and Montemayor-Mora, G. and Perez-Carrillo, E. and De la Rosa-Millan, J. and Garcia-Villanueva, C. and Serna-Saldivar, S. O.},
+   year = {2019},
+   title = {Effect of soybean bagasse addition on texture, sensory properties, and protein quality of maize tortillas},
+   journal = {Cereal Chemistry},
+   volume = {96},
+   issue = {2},
+   pages = {283-291},
+   date = {Mar-Apr},
+   ISSN = {0009-0352},
+   DOI = {10.1002/cche.10120},
+   accession_number = {WOS:000460957600011},
+   abstract = {Background and objectives Nixtamalized dry masa flour was supplemented with 5% or 10% dry soybean bagasse (SB) and then processed into table tortillas. Proximate chemical composition, dietary fiber content, affective sensory analyses of corn tortillas prepared from dry masa flour enriched with 5% or 10% dried SB were determined. Also, the in vitro protein digestibility and protein digestibility-corrected amino acid score (PDCAAS) of the tortillas were evaluated. Findings Ten per cent SB addition reduced masa hardness by about 32% and chewiness 47% without affecting adhesiveness. In terms of rapid viscosity analysis, the addition of incremental levels of SB decreased peak and final viscosities 42% and 49%, respectively. The tortilla insoluble and soluble dietary fiber contents increased 50% and fourfold, respectively, while the lysine daily requirement for preschool infants improved from 45.6% to 67.0% when 10% SB was used. Enriched tortillas showed a similar overall acceptance and had improved texture over storage time at room temperature (25% less force to rupture compared with the control tortilla stored for the same time). Conclusions The addition of 5% soybean bagasse to nixtamalized corn flour produced masa with good machinability and tortillas with better overall acceptance and textural shelf life and a product with four times more soluble dietary fiber, 10% less starch and with higher amounts of limiting amino acids lysine and tryptophan. The upgraded amino acid balance significantly improved PDCAAS from 41% to 59% in the tortilla containing 10% SB. Significance and novelty: Soybean bagasse is a viable option to increased fiber and protein quality in nixtamalized corn flour tortillas, with a positive impact on texture during shelf life and consumer acceptance.},
+   notes = {Elizabeth Hernandez-Reyes, Karina Montemayor-Mora, Gabriela Perez-Carrillo, Esther De la Rosa-Millan, Julian Garcia-Villanueva, Cristina Serna-Saldivar, Sergio O.
+; Serna-Saldivar, Sergio/I-8276-2014
+de la Rosa Millan, Julian/0000-0002-9487-5267; Serna-Saldivar, Sergio/0000-0002-9713-2928; Perez Carrillo, Esther/0000-0003-2636-6281
+1943-3638},
+   url = {<Go to ISI>://WOS:000460957600011},
+
+}
+
+@article{Journal Article,
+   author = {Huang, L. and Liu, L. L. and Zhang, T. and Zhao, D. and Li, H. B. and Sun, H. and Kinney, P. L. and Pitiranggon, M. and Chillrud, S. and Ma, L. Q. and Navas-Acien, A. and Bi, J. and Yan, B. Z.},
+   year = {2019},
+   title = {An interventional study of rice for reducing cadmium exposure in a Chinese industrial town},
+   journal = {Environment International},
+   volume = {122},
+   pages = {301-309},
+   date = {Jan},
+   ISSN = {0160-4120},
+   DOI = {10.1016/j.envint.2018.11.019},
+   accession_number = {WOS:000454356400029},
+   abstract = {Background: Reducing cadmium (Cd) exposure in Cd-polluted areas in Asia is urgently needed given the toxic effects of Cd. The short-term and long-term benefits of lowering Cd exposure are unknown because of its long half-life in the body. Objectives: We aimed to investigate whether an intervention with low-Cd rice in a contaminated area of China reduced urinary Cd (UCd) levels and improved blood pressure and kidney function outcomes compared to no-intervention in consumers of high-Cd rice in the same region. Methods: 106 non-smoking subjects were divided into three treatment groups: the intervention group (replacing homegrown high-Cd rice with market low-Cd rice, n = 34), the non-intervention group (continue eating high-Cd rice, n = 36) and the control group (continued eating low-Cd rice they have been eating for years, n = 36). The intervention period lasted for almost 8 months, during which participants were visited on up to 4 occasions and UCd, systolic and diastolic blood pressure (SBP, DBP), kidney function biomarkers (beta(2)-microglobulin and N-acetyl-beta-D-glucosaminidase) were measured. Results: After 3 months, the geometric mean UCd in the intervention (Int) group decreased significantly by 0.32 mu g/g (p = 0.007), while changes were not significant in the non-intervention (non-Int) group (0.13 mu g/g, p = 0.95) or the control group (-0.01 mu g/g, p = 0.52). UCd in the Int group remained lower than in the non-Int group but higher than in the Control group through the end of follow up. DBP in the Int group decreased significantly from 80 mm Hg at month three (p = 0.03) and stayed around 74 mm Hg for the remainder of the study. SBP also decreased in the Int group but with variations similar to those observed in the other two groups. The two kidney biomarkers showed variations without a clear pattern. Conclusion: This study suggested that UCd reflected both short-term (<3 months) and long-term Cd exposure. In addition, the low-Cd rice intervention showed initial benefits in lowering blood pressure levels, especially DBP, but not kidney biomarkers.},
+   notes = {Huang, Lei Liu, Linli Zhang, Ting Zhao, Di Li, Hongbo Sun, Hong Kinney, Patrick L. Pitiranggon, Masha Chillrud, Steven Ma, Lena Qiying Navas-Acien, Ana Bi, Jun Yan, Beizhan
+Q, Lena/E-5854-2010
+Q, Lena/0000-0002-8463-9957; Zhao, Di/0000-0002-9900-257X
+1873-6750},
+   url = {<Go to ISI>://WOS:000454356400029},
+
+}
+
+@article{Journal Article,
+   author = {Hussain, N. and Sun, D. W. and Pu, H.},
+   year = {2019},
+   title = {Classical and emerging non-destructive technologies for safety and quality evaluation of cereals: A review of recent applications},
+   journal = {Trends in Food Science and Technology},
+   volume = {91},
+   pages = {598-608},
+   DOI = {10.1016/j.tifs.2019.07.018},
+   keywords = {Adulteration
+Cereals
+Food safety
+Mycotoxin
+Non-destructive techniques},
+   abstract = {Background: Cereals are globally consumed as staple food, providing essential nutrients to the consumers. The emerging problems associated with cereals are mycotoxin outbreaks and adulteration in both the cereals and their products. Both classical and emerging techniques are extensively exploited to tackle such problems. However classical methods still face more limitations as compared to emerging nondestructive methods. Scope and methods: High-performance liquid chromatography, gas chromatography and enzyme-linked immunosorbent assays, are classical methods employed for assessing the quality and safety parameters of cereal foods, with limitations of offline, time consuming and destructiveness. On the other hand, emerging nondestructive methodologies like hyperspectral imaging, fluorescence spectroscopy, near infrared spectroscopy and Fourier transform infrared spectroscopy have been introduced as promising techniques for the assessment of fungal contamination, quality discrimination and adulteration detection in cereals and cereal products. This review highlights the most recent applications of enlisted classical and emerging approaches, their working principles and advances in determining various safety and quality attributes of cereals and their products. Besides, challenges and future trends, their advantages and limitations are also elucidated. Key findings and conclusions: Classical methods have been exploited for safety and quality measurement of cereal foods with relatively low efficiency, as compared to emerging nondestructive techniques. Classical methods suffer from disadvantages of destructiveness, thus they cannot be used for on-line monitoring, detection and evaluation. Emerging approaches are reliable with accurate, fast and non-invasive nature of investigations for the authentication of safety and quality attributes of cereal grains and their products during storage and processing. These innovative technologies can overcome the complexity, troubles, destructibility and slowness associated with classical analytical tools. © 2019 Elsevier Ltd},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070200643&doi=10.1016%2fj.tifs.2019.07.018&partnerID=40&md5=9bc4edd72f3528edd145150a7f66ba09},
+   address = {School of Food Science and Engineering, South China University of Technology, Guangzhou, 510641, China
+Academy of Contemporary Food Engineering, South China University of Technology, Guangzhou Higher Education Mega Centre, Guangzhou, 510006, China
+Engineering and Technological Research Centre of Guangdong Province on Intelligent Sensing and Process Control of Cold Chain Foods, Guangzhou Higher Education Mega Centre, Guangzhou, 510006, China
+Food Refrigeration and Computerized Food Technology (FRCFT), Agriculture and Food Science Centre, University College Dublin, National University of Ireland, Belfield, Dublin 4, Ireland},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Jayaraman, R. and Uluvar, H. and Khanum, F. and Singh, V.},
+   year = {2019},
+   title = {Influence of parboiling of red paddy varieties by simple hot soaking on physical, nutrient, phytochemical, antioxidant properties of their dehusked rice and their mineral, starch, and antioxidant’s bioaccessibility studies},
+   journal = {Journal of Food Biochemistry},
+   volume = {43},
+   issue = {7},
+   DOI = {10.1111/jfbc.12839},
+   article_number = {e12839},
+   keywords = {antioxidant
+antioxidant property
+bioaccessibility
+parboiling
+red rice},
+   abstract = {The objective of this study was to know about the effect of simple parboiling on physical properties, proximate composition, phenolic compounds, and antioxidant activity. These were studied in raw and parboiled paddy varieties as well as bioaccessibility of specific nutrients (minerals, starch, and antioxidants). The pigmented rice paddy varieties such as Jyothi, Meter & Athikaraya were parboiled by hot soaking treatment after soaking for 2, 2½, and 3 hr. Athikaraya rice showed high protein, low ash in raw and parboiled than other varieties. Amylose equivalents of all three varieties exhibited in the range of 24%–27% (d.b). Whereas, the soluble amylose content showed 12.7, 8.7, and 7.7% (d.b) in Athikaraya, Meter and Jyothi rice varieties, respectively. Jyothi rice showed less cooking time and more cooking volume. Athikaraya showed high phenolic content and antioxidant properties compared to other two varieties. The dialysability of minerals, starch, and antioxidants were increased due to simple hot soaking parboiling. Practical applications: The present study has the significance in assessing the variation among different pigmented rice varieties after parboiling by simple hot soaking with various soaking periods. The industrial advantage of this method is, there is no usage of boiler for cooking the paddy by steam, which was economically better. The information gained by this study might be beneficial for consumers and suppliers regarding the quality of the selected pigmented rice varieties with respect to nutrient composition, antioxidant activities, and bioaccessibility of minerals, starch, and antioxidants. Ultimately, the present study can lead to better appreciation of pigmented rice and assist food processors in selecting rice variety with unique characteristics for specialty food preparations. © 2019 Wiley Periodicals, Inc.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064052262&doi=10.1111%2fjfbc.12839&partnerID=40&md5=8c44cc99fb1ebf762044e15d4cfb05d3},
+   address = {Nutrition, Biochemistry and Toxicology, DRDO-Defence Food Research Laboratory, Mysore, India
+Department of Studies in Food Science & Nutrition, University of Mysore, Mysore, India},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Johnson, A. M. and Abdoulaye, T. and Ayedun, B. and Fulton, J. R. and Widmar, N. J. O. and Adebowale, A. and Bandyopadhyay, R. and Manyong, V.},
+   title = {Willingness to pay of Nigerian poultry producers and feed millers for aflatoxin-safe maize},
+   journal = {Agribusiness},
+   ISSN = {0742-4477},
+   DOI = {10.1002/agr.21621},
+   accession_number = {WOS:000477538000001},
+   abstract = {Dietary aflatoxin exposure is a widespread problem in the developing world and causes severe negative health consequences to humans and livestock animals. A new biological control product, called Aflasafe, has been introduced in Nigeria to mitigate aflatoxin contamination of maize in the field and in storage. No known prior work has estimated how much African agribusinesses using maize for animal feed will pay for aflatoxin-safe maize. This study measured the levels of Aflasafe awareness, surveyed current aflatoxin management practices, and estimated, using choice experiments, willingness to pay (WTP) for aflatoxin-safe maize by Nigerian poultry producers and feed millers. Data was gathered from 272 orally administered surveys, which included discrete choice experiments examining maize purchasing decisions. Results suggest that the proportion of enterprises that were aware of aflatoxin was found to vary across states. Two latent classes of Nigerian poultry producers and feed millers were identified that were willing to pay average premiums of 4.9% and 30.9%, respectively for maize with 10 parts per billion (ppb) aflatoxin concentration relative to maize with 20 ppb aflatoxin concentration. Both latent classes were, on average, willing to pay larger premiums for maize with 4 ppb aflatoxin concentration. There was evidence that latent class membership, and hence WTP, varied based on awareness of aflatoxin and across geographies.},
+   notes = {Johnson, Andrew M. Abdoulaye, Tahirou Ayedun, Bamikole Fulton, Joan R. Widmar, Nicole J. Olynk Adebowale, Akande Bandyopadhyay, Ranajit Manyong, Victor
+1520-6297},
+   url = {<Go to ISI>://WOS:000477538000001},
+
+}
+
+@article{Journal Article,
+   author = {Karimi Alavijeh, M. and Karimi, K.},
+   year = {2019},
+   title = {Biobutanol production from corn stover in the US},
+   journal = {Industrial Crops and Products},
+   volume = {129},
+   pages = {641-653},
+   DOI = {10.1016/j.indcrop.2018.12.054},
+   keywords = {Butanol
+Corn stover
+Lignocellulose
+Techno-economic assessment
+United States},
+   abstract = {On account of complexities associated with commercial production of second-generation biofuels, comprehensive examinations are required to enhance the economic feasibility of biobutanol production from cellulosic compounds. As the most abundant crop residue in the US, corn stover is a readily available feedstock for biorefineries. However, there are few studies to evaluate the corn stover application in the large-scale biobutanol production. In this regard, in order to estimate the amount of collectible corn stover special to biobutanol production, a quantitate model was presented. In this model, the residue potential quantity, job creation, butanol blends potential quantity, greenhouse gases (GHG) emissions and social costs, forecasting future trends, economic evaluation, and risk analysis are considered. It was estimated that a total quantity of 84 million tonnes (Mt) of stover for the production of about 10.48 gigaliters (Gl) of biobutanol can potentially be collected. Around 87.4% of the total collectible residues is produced in the Midwest. A total of 81,000 jobs can be generated and Iowa can potentially create the most jobs. Furthermore, around 9.5 Gl of gasoline can be saved and about 64.6 Gl of butanol-gasoline blend (Bu16) can potentially be produced from corn residues in the US, which is equivalent to 11.8% of total domestic gasoline consumption. The average minimum selling price (MSP) in the Midwest was $5.76 and $4.05 per gallon depending on the feedstock price, and Illinois, Indiana, Iowa, Minnesota, Nebraska, and South Dakota were predicted to be very attractive in terms of lower selling prices. © 2018 Elsevier B.V.},
+   notes = {Cited By :4
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058822857&doi=10.1016%2fj.indcrop.2018.12.054&partnerID=40&md5=5a13dbca30a39382e3de90337943a4e4},
+   address = {Industrial Biotechnology Group, Research Center of Biotechnology and Bioengineering, Isfahan University of Technology, Isfahan, 84156-83111, Iran
+Department of Chemical Engineering, Isfahan University of Technology, Isfahan, 84156-83111, Iran
+Department of Chemical Engineering, The University of Melbourne3010, Australia},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Khoshnamvand, Z. and Nazari, F. and Mehrasebi, M. R. and Hosseini, M. J.},
+   year = {2019},
+   title = {Occurrence and Safety Evaluation of Ochratoxin A in Cereal-based Baby Foods Collected from Iranian Retail Market},
+   journal = {Journal of Food Science},
+   volume = {84},
+   issue = {3},
+   pages = {695-700},
+   DOI = {10.1111/1750-3841.14451},
+   keywords = {baby foods
+contamination
+HPLC
+Iran
+ochratoxin A (OTA)},
+   abstract = {Contamination of agricultural commodities with ochratoxin A (OTA) is a worldwide concern in recent decades. Consumption of OTA-contaminated baby foods exerts health implications especially in children as the most vulnerable subpopulations. In the current study, for the first time in Iran, 64 baby foods (rice, wheat, and multigrain) samples from five different brands available in the Iranian market were analyzed to determine OTA level, using a HPLC with fluorescence detector. Overall, OTA was observed in 41% of analyzed samples with a mean and maximum level of 0.42 ± 0.27 and 1.1 μg/kg, respectively. OTA levels in five of 64 samples (7.8 %) were higher than the permissible limit recommended by European Commission (permissible limit: 0.5 μg/kg) and OTA levels in two of 64 samples (3.1%) were higher than the standard set by Iranian standard organization (1 μg/kg). The highest OTA contamination was observed in rice-based baby food cereals (1.1 μg/kg; 57% of the samples), followed by wheat-based (23%) and multigrain (20%) samples. OTA intake in infants (≥9 months old) was more than established provisional tolerable weekly intake by the Joint FAO/WHO Expert Committee on Food Additives (JECFA) and the European Food Safety Authority (EFSA) (100 and 120 ng OTA per kg of body weight, respectively). OTA content in baby food and cereals, as well as other raw foodstuff should be investigated comprehensively to reduce the exposure rate of young children to OTA. © 2019 Institute of Food Technologists®},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061330588&doi=10.1111%2f1750-3841.14451&partnerID=40&md5=00ba7fa811801a852b7b0c1e7ae8ff6d},
+   address = {Social Determinants of Health Research Center, Zanjan Univ. of Medical Sciences, Zanjan, Iran
+Dept. of Food Safety and Hygiene, School of Public Health, Zanjan Univ. of Medical Sciences, Zanjan, Iran
+Food and Drug Administration-Iran Univ. of Medical Sciences, Tehran, Iran
+Zanjan Applied Pharmacology Research Center, Zanjan Univ. of Medical sciences, Zanjan, Iran
+Dept. of Pharmacology and Toxicology, School of Pharmacy, Zanjan Univ. of Medical Sciences, Zanjan, Iran},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Klerks, M. and Bernal, M. J. and Roman, S. and Bodenstab, S. and Gil, A. and Sanchez-Siles, L. M.},
+   year = {2019},
+   title = {Infant cereals: Current status, challenges, and future opportunities for whole grains},
+   journal = {Nutrients},
+   volume = {11},
+   issue = {2},
+   DOI = {10.3390/nu11020473},
+   article_number = {473},
+   keywords = {Complementary feeding
+Health
+Infant cereals
+Infant food
+Whole grains},
+   abstract = {Infant cereals play an important role in the complementary feeding period. The aim of this study was to review existing research about the quantity, type, and degree of infant cereal processing, with a special focus on whole grain infant cereals. Accumulating evidence shows many benefits of whole grain consumption for human health. Likewise, consumers are frequently linking the term whole grains to healthiness and naturality, and sustainable food production becomes a more important aspect when choosing an infant cereal brand. Whole grain cereals should be consumed as early as possible, i.e., during infancy. However, there are several challenges that food manufacturers are facing that need to be addressed. Recommendations are needed for the intake of whole grain cereals for infants and young children, including product-labeling guidelines for whole grain foods targeting these age stages. Another challenge is minimizing the higher contaminant content in whole grains, as well as those formed during processing. Yet, the greatest challenge may be to drive consumers’ acceptance, including taste. The complementary feeding period is absolutely key in shaping the infant’s food preferences and habits; therefore, it is the appropriate stage in life at which to introduce whole grain cereals for the acceptance of whole grains across the entire lifespan. © 2019 by the authors. Licensee MDPI, Basel, Switzerland.},
+   notes = {Cited By :2
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066138526&doi=10.3390%2fnu11020473&partnerID=40&md5=9a70297b21eaae3df5bcdcd3ec083d28},
+   address = {Department of Research and Development, Hero Group, Alcantarilla, Murcia, 30820, Spain
+Marketing Department, Facultad de Economía y Empresa, University of Murcia, Murcia, 30100, Spain
+Department of Innovation, Hero Group, Lenzburg, 5600, Switzerland
+Department of Biochemistry and Molecular Biology II, School of Pharmacy, University of Granada, Granada, 18071, Spain
+Institute of Nutrition and Food Technology “José Mataix”, Center of Biomedical Research, University of Granada, Avda. del Conocimiento s/n. 18016 Armilla, Granada, Spain
+Instituto de Investigación Biosanitaria IBS. GRANADA, Complejo Hospitalario Universitario de Granada, Granada, 18014, Spain
+CIBEROBN (CIBER Physiopathology of Obesity and Nutrition), Instituto de Salud Carlos III, Madrid, 28029, Spain},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Lang, A. and Lee, M. and Dolek, M. and Berchtold, J. and Otto, M.},
+   year = {2019},
+   title = {Laboratory tests with Lepidoptera to assess non-target effects of Bt maize pollen: analysis of current studies and recommendations for a standardised design},
+   journal = {Environmental Sciences Europe},
+   volume = {31},
+   issue = {1},
+   DOI = {10.1186/s12302-019-0220-2},
+   article_number = {39},
+   keywords = {Bt-maize
+Environmental risk assessment
+Guidelines
+Laboratory tests
+Lepidoptera
+Non-target effects
+Study design
+Transgenic crops},
+   abstract = {Background and approach: Common standards for laboratory studies of non-target organisms are recognised as prerequisite to assist the risk assessments regarding the evaluation of environmental effects of transgenic crops. Here, we provide specific recommendations significant for experimental procedures of laboratory studies to test potential adverse effects of Bt maize on larvae of non-target Lepidoptera. We searched and analysed both ecotoxicological test protocols for pesticides in the EU as well as the non-target tests with Lepidoptera applied in unpublished industry studies submitted officially by agro-companies for the GMO authorisation in Europe. Results: The classical ecotoxicology protocols applied for testing pesticides could serve as general guidelines, but do not completely fit the specific and differing requirements for assessing non-target effects of transgenic crops. The analysis of the non-target studies submitted for the application of the cultivation of Bt maize in Europe revealed critical limitations, thus corroborating the urgent need for common quality criteria. Based on our evaluations, we identified several issues requiring harmonisation or standardisation of the experimental conditions and approach, e.g., the application of Bt maize pollen, synthetic toxins, the provided diet for larvae, experimental controls, magnitude and duration of exposure to Bt, relevant variables to be recorded, and sufficient statistical power. Conclusions: Our recommendations should stimulate the development of precise guidance for the authorities, and support the operationalisation of the required laboratory tests for the evaluation of non-target effects of Bt maize pollen on non-target Lepidoptera, also contributing to standards of other ecotoxicity tests with Lepidoptera larvae, e.g., for pesticides. © 2019, The Author(s).},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067644166&doi=10.1186%2fs12302-019-0220-2&partnerID=40&md5=7ec9970504d4af2c6546dc8f3771c0c2},
+   address = {Environmental Geosciences, University of Basel, Basel, Switzerland
+Büro Lang, Zell im Wiesental, Germany
+Department of Plant Production and Forestry Science, Agrotecnio Center, University of Lleida, Lleida, Spain
+Geyer & Dolek, Wörthsee, Germany
+Institute for Plant Protection Products, AGES-Austrian Agency for Health and Food Safety, Vienna, Austria
+FG II 3.3 GMO Regulation/Biosafety, Federal Agency for Nature Conservation (BfN), Bonn, Germany},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Lee, S. B. and Kim, G. J. and Kim, K. W. and Chu, S. H. and Shin, J. D. and Lee, Y. J. and Park, Y. J. and Park, S. W.},
+   year = {2019},
+   title = {Functional Haplotype and eQTL Analyses of Genes Affecting Cadmium Content in Cultivated Rice},
+   journal = {Rice},
+   volume = {12},
+   issue = {1},
+   DOI = {10.1186/s12284-019-0340-8},
+   article_number = {84},
+   keywords = {Candidate gene
+Cd-related genes
+Gene expression level
+Genome-wide association study
+Inorganic components},
+   abstract = {Background: Rice is a major food resource for Asian countries including Korea. However, most Asian countries are facing food safety problems due to cropland contamination by heavy metals. Thus, this study was conducted to investigate genetic factors affecting the expression of cadmium (Cd) gene, and to confirm differences in Cd translocation among cultivars because the current molecular understanding of Cd uptake-transport mechanisms remains insufficient. Associations between genotypes and gene expression level of Cd-related genes such as NRAMP, MTP, and HMA gene families in the rice core collection were analyzed at the genomic level. Results: Os01g0956700, Os05g0128400 and Os11g0485200 showed strong associations between expression level and genotype in the rice core collection, the regulatory factors that associated with these genes in cis and trans were founded. The association between the expression level and genotype of the candidate gene (Os01g0611300: metal tolerance protein) predicted to affect Cd content in rice by a previous genome-wide association study (GWAS) was also analyzed. Furthermore, as a result of the phylogeny and haplotype analyses of the candidate gene, high-Cd tolerance cultivars were selected. The correlations between Cd and other inorganic components (Mg, Mn, Fe, Cu and Zn) in the roots, stems, leaves and unpolished grain of selected rice cultivars were analyzed. Conclusion: Therefore, these results may be useful for understanding the uptake-transport mechanisms of Cd and other inorganic components via molecular genetics and may help rice breeders develop new low-Cd cultivars in the near future. © 2019, The Author(s).},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075458072&doi=10.1186%2fs12284-019-0340-8&partnerID=40&md5=b01eeed5822b620bef90d42382a3e843},
+   address = {Chemical Safety Division, National Institute of Agriculture Science (NIAS), Wanju, 55365, South Korea
+Department of Plant Resources, College of Industrial Sciences, Kongju National University, Yesan, 32439, South Korea
+Center of Crop Breeding on Omics Artificial Intelligence, Kongju National University, Yesan, 32439, South Korea
+Department of Climate Change and Agro-Ecology, National Institute of Agriculture Science (NIAS), Wanju, 55365, South Korea},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Li, J. and Li, Q. and Qian, C. and Wang, X. and Lan, Y. and Wang, B. and Yin, W.},
+   year = {2019},
+   title = {Volatile organic compounds analysis and characterization on activated biochar prepared from rice husk},
+   journal = {International Journal of Environmental Science and Technology},
+   volume = {16},
+   issue = {12},
+   pages = {7653-7662},
+   DOI = {10.1007/s13762-019-02219-4},
+   keywords = {Activation
+Adsorption
+Pyrolysis
+Rice husk
+Volatile organic compounds},
+   abstract = {Activated biochar has been used in various areas, i.e., wastewater treatment. However, biochar contains volatile organic compounds, some of which are toxic organic pollutants that pose health risks to human. In this study, activated biochar was prepared by pyrolysis method using rice husks as raw materials and H2O as the activator. The volatile organic compound concentration of biochar before and after activation, as well as the adsorption characteristics of activated biochar, was investigated. The structure of the biochar was characterized by FTIR, SEM, and specific surface area analyzer. The results showed that activated biochar surface was mainly composed of carboxyl groups, and no phenolic hydroxyl or lactone groups formed during the process. In total, 54 volatile organic compounds were analyzed by a gas chromatography–mass spectrometer. The detection frequency of 45 volatile organic compounds reached 100%. The concentration of sum of these compounds was 93.26 and 110.62 μg/g in the biochar before and after activation, respectively. Results of adsorption experiments showed that the adsorption and resolution of activated biochar to n-hexane were 29.33 and 5.4 mg/g, respectively. Compared to the biochar sample without activation, the activated biochar with the ratio of charcoal to water of 3:1 showed the best adsorption to n-hexane, whose surface area reached 351.23 m2/g. © 2019, Islamic Azad University (IAU).},
+   notes = {Cited By :2
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060350524&doi=10.1007%2fs13762-019-02219-4&partnerID=40&md5=da85cd1f2e0227491aace247a90a937a},
+   address = {College of Environmental Science and Engineering, Dalian Maritime University, Dalian, 116026, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Li, Y. and Liu, L. Q. and Kuang, H. and Xu, C. L.},
+   title = {Visible and eco-friendly immunoassays for the detection of cyclopiazonic acid in maize and rice},
+   journal = {Journal of Food Science},
+   ISSN = {0022-1147},
+   DOI = {10.1111/1750-3841.14976},
+   accession_number = {WOS:000504512000001},
+   abstract = {Cyclopiazonic acid (CPA) is an indole-tetramine mycotoxin commonly produced by Penicillium and Aspergillus and is widely found in agricultural products, fermented food, and feed. Food contaminated with CPA poses a substantial health risk to consumers. Therefore, eco-friendly immunoassays, including an indirect competitive enzyme-linked immunosorbent assay (ic-ELISA) and a lateral flow immunochromatographic strip (LFICS), were developed to monitor CPA in maize and rice samples. For this purpose, a monoclonal antibody (3H12) posed highly resistant to pH (5.6 to 9.6) and ethanol (<= 50%) was generated by mouse immunization. Negative maize and rice samples or samples spiked with CPA were extracted with ethanol/0.01 M sodium borate buffer (4/1, v/v, pH 8.4). For ic-ELISA analysis, the limits of detection (LODs) were 0.48 and 0.28 ng/g for maize and rice samples, respectively. The recovery for spiked maize was 76.9% to 83.5% with the highest variable coefficient (CVmax) being 9.32%. For spiked rice, the recovery was 85.3% to 105.1% with a CVmax of 8.56%. For LFICS analysis, the visible LODs were 2.5 and 1 ng/g and cutoff values were 5 and 2.5 ng/g for maize and rice samples, respectively. The LFICS method gave results within 5 to 10 min, providing an auxiliary analytical tool for the rapid, sensitive, and portable screening of the massive samples onsite.},
+   notes = {Li, Yue Liu, Liqiang Kuang, Hua Xu, Chuanlai
+1750-3841},
+   url = {<Go to ISI>://WOS:000504512000001},
+
+}
+
+@article{Journal Article,
+   author = {Liu, W. Q. and Pan, X. W. and Li, Y. C. and Duan, Y. H. and Min, J. and Liu, S. X. and Liu, L. C. and Sheng, X. N. and Li, X. X.},
+   year = {2019},
+   title = {Identification of QTLs and Validation of qCd-2 Associated with Grain Cadmium Concentrations in Rice},
+   journal = {Rice Science},
+   volume = {26},
+   issue = {1},
+   pages = {42-49},
+   date = {Jan},
+   ISSN = {1672-6308},
+   DOI = {10.1016/j.rsci.2018.12.003},
+   accession_number = {WOS:000454447700005},
+   abstract = {Cadmium (Cd) is one of heavy metals harmful to human health. As rice is the main staple food in Asia and Cd is easily contaminated in rice, the molecular regulation of Cd accumulation should be explored. In this study, a recombinant inbred population derived from Xiang 743/Katy was grown in Cd-polluted fields and used to map the quantitative trait loci (QTLs) for Cd accumulation in rice grains. We identified seven QTLs distributed on chromosomes 2, 3, 6, 7, 8 and 10. These QTLs displayed phenotypic variances of 58.50% and 40.59% in 2014 and 2015, respectively. Two QTLs, qCd-2 and qCd-7, were identified in both the two years. qCd-2 was detected on the interval of RM250-RM207 on chromosome 2, with an LOD of 2.51 and a phenotypic contribution of 13.75% in 2014, and an LOD of 3.35 and a phenotypic contribution of 14.16% in 2015. qCd-7 co-localized with the cloned qCdT7 on chromosome 7 and may represent the correct candidate. The other five QTLs were detected only in one year. To further confirm the effects of qCd-2, a residual heterozygous line designated as RHL945, with a heterozygous interval of RM263-RM207 on chromosome 2, was selected from the recombinant inbred population and used to develop an F-2 population consisting of 155 individual plants. By incorporating further simple sequence repeat markers into the segmental linkage map of the target region, qCd-2 was delimited in the interval of RM5404-RM3774, with an LOD value of 4.38 and a phenotypic contribution of 15.52%. These results reflected the genetic regulation of grain Cd in rice and paved the way for the future cloning of qCd-2.},
+   notes = {Liu Wenqiang Pan Xiaowu Li Yongchao Duan Yonghong Min Jun Liu Sanxiong Liu Licheng Sheng Xinnian Li Xiaoxiang
+1876-4762},
+   url = {<Go to ISI>://WOS:000454447700005},
+
+}
+
+@article{Journal Article,
+   author = {Liu, X. Y. and Chen, S. L. and Chen, M. X. and Zheng, G. Y. and Peng, Y. and Shi, X. L. and Qin, P. and Xu, X. Y. and Teng, S.},
+   year = {2019},
+   title = {Association Study Reveals Genetic Loci Responsible for Arsenic, Cadmium and Lead Accumulation in Rice Grain in Contaminated Farmlands},
+   journal = {Frontiers in Plant Science},
+   volume = {10},
+   date = {Feb},
+   ISSN = {1664-462X},
+   DOI = {10.3389/fpls.2019.00061},
+   article_number = {61},
+   accession_number = {WOS:000457759000003},
+   abstract = {Accumulation of toxic heavy metals and metalloids (THMMs) in crop grain remarkably affects food safety and human health. Reducing the content of THMMs in grain requires the identification and manipulation of the genes regulating their accumulation. This study aimed to determine the genetic variations affecting grain THMM accumulation in rice by using association mapping. We used 276 accessions with 416 K single nucleotide polymorphisms (SNPs) and performed genome-wide association analysis of grain THMM concentrations in rice grown in heavily multi-contaminated farmlands. We detected 22, 17, and 21 quantitative trait loci (QTLs) for grain arsenic, cadmium, and lead concentrations, respectively. Both inter-and intra-subpopulation variants accounted for these QTLs. Most QTLs contained no known THMM-related genes and represented unidentified novel genes. We examined the candidate genes in qGAS1, a QTL for grain arsenic concentration with the best P-value detected for the entire population. We speculated that a transport protein of the multidrug and toxin extrusion family could be the candidate gene for this QTL. Our study suggested that the genetic regulation of grain THMM accumulation is very complex and largely unknown. The QTLs and SNPs identified in this study might help in the identification of new genes regulating THMM accumulation and aid in marker-assisted breeding of rice with low grain THMM content.},
+   notes = {Liu, Xiuyan Chen, Sunlu Chen, Mingxue Zheng, Guangyong Peng, Yu Shi, Xiaoliang Qin, Ping Xu, Xiangyang Teng, Sheng},
+   url = {<Go to ISI>://WOS:000457759000003},
+
+}
+
+@article{Journal Article,
+   author = {Liu, Z. P. and Wang, K. and Wu, S. and Wang, Z. H. and Ding, G. C. and Hao, X. J. and Li, Q. X. and Li, J. and Gee, S. J. and Hammock, B. D. and Xu, T.},
+   year = {2019},
+   title = {Development of an immunoassay for the detection of carbaryl in cereals based on a camelid variable heavy-chain antibody domain},
+   journal = {Journal of the Science of Food and Agriculture},
+   volume = {99},
+   issue = {9},
+   pages = {4383-4390},
+   date = {Jul},
+   ISSN = {0022-5142},
+   DOI = {10.1002/jsfa.9672},
+   accession_number = {WOS:000479004900023},
+   abstract = {BACKGROUNDThe variable domain of camelid heavy-chain antibodies (VHH) is increasingly being adapted to detect small molecules in various matrices. The insecticide carbaryl is widely used in agriculture while its residues have posed a threat to food safety and human health. RESULTSVHHs specific for carbaryl were generated from an alpaca immunized with the hapten CBR1 coupled to keyhole limpet hemocyanin. An enzyme-linked immunosorbent assay (ELISA) based on the VHH C1 and the coating antigen CBR2-BSA was developed for the detection of carbaryl in cereals. This assay, using an optimized assay buffer (pH6.5) containing 10% methanol and 0.8% NaCl, has a half-maximum signal inhibition concentration of 5.4ngmL(-1) and a limit of detection (LOD) of 0.3ngmL(-1) for carbaryl, and shows low cross reactivity (<= 0.8%) with other tested carbamates. The LOD of carbaryl using the VHH-based ELISA was 36ngg(-1) in rice and maize and 72ngg(-1) in wheat. Recoveries of carbaryl in spiked rice, maize and wheat samples were in the range of 81-106%, 96-106% and 83-113%, respectively. Relative standard deviations of repeatability and intra-laboratory reproducibility were in the range of 0.8-9.2% and 2.9-9.7%, respectively. CONCLUSIONThe VHH-based ELISA was highly effective in detecting carbaryl in cereal samples after simple sample extraction and dilution. (c) 2019 Society of Chemical Industry},
+   notes = {Liu, Zhiping Wang, Kai Wu, Sha Wang, Zhanhui Ding, Guochun Hao, Xiujing Li, Qing X. Li, Ji Gee, Shirley J. Hammock, Bruce D. Xu, Ting
+Shen, Jianzhong/AAH-8184-2019; Wang, Zhanhui/AAH-8601-2019
+Wang, Kai/0000-0002-4536-4583; Wang, Zhanhui/0000-0002-0167-9559
+1097-0010},
+   url = {<Go to ISI>://WOS:000479004900023},
+
+}
+
+@article{Journal Article,
+   author = {Ma, X. and Chen, X. P. and Zhao, J. and Wang, S. S. and Tan, L. B. and Sun, C. Q. and Liu, F. X.},
+   year = {2019},
+   title = {Identification of QTLs related to cadmium tolerance from wild rice (Oryza nivara) using a high-density genetic map for a set of introgression lines},
+   journal = {Euphytica},
+   volume = {215},
+   issue = {12},
+   date = {Dec},
+   ISSN = {0014-2336},
+   DOI = {10.1007/s10681-019-2522-2},
+   article_number = {205},
+   accession_number = {WOS:000502763900001},
+   abstract = {Cadmium (Cd) is a toxic heavy metal that is harmful to human health. Oryza nivara, a wild rice species, serves as a germplasm pool for various favorable genes that can be used in cultivated rice. To detect quantitative trait loci (QTLs) and germplasm related to Cd tolerance in O. nivara, we analyzed one set of introgression lines with a high-density genetic map. Seven QTLs related to Cd tolerance were identified on chromosomes 2, 4, 6, and 8, and an allele of one locus (Bin774) from O. nivara affected two phenotypic traits and was able to increase Cd tolerance in rice. In a further analysis of GeneChip data released by the National Center for Biotechnology Information, we explored five candidate genes induced by Cd stress in the QTL region: two oxidoreductase genes (aldo-keto reductase genes LOC_Os04g27060 and LOC_Os04g26920); one terpene synthase gene (LOC_Os04g27190); one cysteine-rich receptor-like protein kinase gene (LOC_Os04g25060); and one serine carboxypeptidase homolog gene OsSCP23 (LOC_Os04g25560). One Cd-tolerant introgression line (Ra44) was also obtained, with a significantly higher survival rate under Cd stress (93.8%) compared to recipient parent 93-11 (2.3%). Identification of candidate genes and the Cd-tolerant introgression line Ra44 should facilitate further investigation of the mechanism of rice tolerance to Cd contamination.},
+   notes = {Ma, Xin Chen, Xiaoping Zhao, Jie Wang, Shanshan Tan, Lubin Sun, Chuanqing Liu, Fengxia
+1573-5060},
+   url = {<Go to ISI>://WOS:000502763900001},
+
+}
+
+@article{Journal Article,
+   author = {Molo, M. S. and Heiniger, R. W. and Boerema, L. and Carbone, I.},
+   year = {2019},
+   title = {Trial summary on the comparison of various non-aflatoxigenic strains of aspergillus flavus on mycotoxin levels and yield in maize},
+   journal = {Agronomy Journal},
+   volume = {111},
+   issue = {2},
+   pages = {942-946},
+   DOI = {10.2134/agronj2018.07.0473},
+   abstract = {The fungus Aspergillus flavus can contaminate maize (Zea mays L.) by producing aflatoxins (AFs), secondary metabolites that have been shown to have adverse health impacts for humans and animals when ingested in large quantities or over extended lengths of time. The FDA strictly regulates that corn contaminated with more than 20 parts per billion (ppb) AFs cannot be marketed for human consumption; therefore, AFs cost US corn growers billions of dollars every year. Current methods to curb aflatoxin contamination in fields involve dense applications of non-aflatoxigenic biological control (biocontrol) strains, either Afla-Guard or AF36, that outcompete native strains and reduce toxicity levels throughout the field. This fungus is heterothallic and sexual reproduction occurs between isolates of opposite mating types, either MAT1-1 or MAT1-2. Both biocontrol strains are of a single mating type MAT1-2. The implications of adding a strain of opposite mating type (MAT1-1) to this formulation are unknown. Here we examine the ability of native non-aflatoxigenic strains applied singly and in combination to reduce AF concentrations in a cornfield in Rocky Mount, NC. We show that native, non-aflatoxigenic A. flavus strains reduced aflatoxin levels and increased yield when compared with untreated controls. Moreover, the strain formulations that included sexually compatible MAT1-1 and MAT1-2 strains showed the greatest reduction in aflatoxin levels. We propose that using a combination of native isolates of opposite mating types reduces AF levels further than current biocontrol agents of a single mating-type strain and could potentially provide a more long-term form of control. © 2019 by the American Society of Agronomy.},
+   notes = {Cited By :2
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065308182&doi=10.2134%2fagronj2018.07.0473&partnerID=40&md5=0324d1c967e69aa2b8ec971782182611},
+   address = {Center for Integrated Fungal Research, Dep. of Entomology and Plant Pathology, North Carolina State Univ., Raleigh, NC 27695, United States
+Dep. of Crop and Soil Sciences, North Carolina State Univ., Raleigh, NC 27695, United States},
+   database = {Scopus},
+
+}
+
+@incollection{Serial,
+   author = {Monteiro, A. S. and Barreira, D. A. S. and Bartolomei, S. S. and Oliveira, R. R. and de Moura, E. A. B.},
+   year = {2019},
+   title = {Comparative study of the use of rice husk ashes and graphite as fillers in polypropylene matrix composites},
+   secondary_title = {Minerals, Metals and Materials Series},
+   pages = {561-570},
+   DOI = {10.1007/978-3-030-05749-7_56},
+   keywords = {Carbonaceous materials
+Mechanical properties
+Thermal properties},
+   abstract = {In recent years, carbonaceous materials have been widely studied for polymer composite applications due to its capability to improve the engineering properties of the polymeric matrix. Among various carbonaceous fillers, carbon nanotube, graphene, and graphite promise to be a suitable reinforcement of polymers. Rice husk ash (RHA), a large residue rich in carbon and silica produced by the burning of rice husk offers also an immense potential as a carbonaceous filler for polymer composites on account of its low cost, low density, high strength and elastic modulus, no health risks, and renewability. This work aims at studying the effects of RHA and graphite as fillers in polypropylene (PP) matrix composites. The composites PP/RHA and PP/graphite were produced by melting extrusion process. The materials obtained were subjected to mechanical tests, XRD, TG, and FEG-SEM analyses. Comparison studies between neat PP properties and its composites were carried out. © The Minerals, Metals & Materials Society 2019.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064063958&doi=10.1007%2f978-3-030-05749-7_56&partnerID=40&md5=d0bf7c3137d901cf50f24eb20860a668},
+   address = {Center of Chemical and Environmental Technology, Nuclear and Energy Research Institute (IPEN), Av. Prof. Lineu Prestes 2242, São Paulo, SP 05508-000, Brazil},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Mutiga, S. K. and Mushongi, A. A. and Kangethe, E. K.},
+   year = {2019},
+   title = {Enhancing Food Safety through Adoption of Long-Term Technical Advisory, Financial, and Storage Support Services in Maize Growing Areas of East Africa},
+   journal = {Sustainability},
+   volume = {11},
+   issue = {10},
+   date = {May},
+   ISSN = {2071-1050},
+   DOI = {10.3390/su11102827},
+   article_number = {2827},
+   accession_number = {WOS:000471010300110},
+   abstract = {Grain production and storage are major components in food security. In the ancient times, food security was achieved through gathering of fruits, grains, herbs, tubers, and roots from the forests by individual households. Advancements in human civilization led to domestication of crops and a need to save food for not only a household, but the nation. This extended need for food security led to establishment of national reservoirs for major produces and this practice varies greatly in different states. Each of the applied food production, handling, and storage approaches has its benefits and challenges. In sub-Saharan Africa, several countries have a public funded budget to subsidize production costs, to buy grains from farmers, and to store the produce for a specific period and/or until the next harvests. During the times of famine, the stored grains are later sold at subsidized prices or are given for free to the starving citizens. If there is no famine, the grain is sold to retailers and/or processors (e.g., millers) who later sell it to the consumers. This approach works well if the produce (mainly grain) is stored under conditions that do not favor growth of molds, as some of these microbes could contaminate the grain with toxic and carcinogenic metabolites called mycotoxins. Conditions that alleviate contamination of grains are required during production, handling, and storage. Most of the grain is produced by smallholder farmers under sub-optimal conditions, making it vulnerable to colonization and contamination by toxigenic fungi. Further, the grain is stored in silos at large masses, where it is hard to monitor the conditions at different points of these facilities, and hence, it becomes vulnerable to additional contamination. Production and storage of grain under conditions that favor mycotoxins poses major food health and safety risks to humans and livestock who consume it. This concept paper focuses on how establishment of a local grain production and banking system (LGPBS) could enhance food security and safety in East Africa. The concept of LGPBS provides an extension of advisory and finance support within warehouse receipt system to enhance grain production under optimal conditions. The major practices at the LGPBS and how each could contribute to food security and safety are discussed. While the concept paper gives more strength on maize production and safety, similar practices could be applied to enhance safety of other grains in the same LGPBS.},
+   notes = {Mutiga, Samuel K. Mushongi, Arnold A. Kangethe, Erastus K.
+Mutiga, Samuel/0000-0001-9919-6231},
+   url = {<Go to ISI>://WOS:000471010300110},
+
+}
+
+@article{Journal Article,
+   author = {Öner, T. and Thiam, P. and Kos, G. and Krska, R. and Schwenker, F. and Mizaikoff, B.},
+   year = {2019},
+   title = {Machine learning algorithms for the automated classification of contaminated maize at regulatory limits via infrared attenuated total reflection spectroscopy},
+   journal = {World Mycotoxin Journal},
+   volume = {12},
+   issue = {2},
+   pages = {113-122},
+   DOI = {10.3920/WMJ2018.2333},
+   keywords = {Chemometrics
+Deoxynivalenol
+Fungal infection
+Infrared spectroscopy
+Machine learning
+Mid-infrared
+Multivariate data analysis
+Mycotoxins},
+   abstract = {Mould infested maize poses a severe problem for farmers, food producers and for consumers worldwide. Mycotoxins are secondary metabolites produced by certain mould species that contaminate food and feed. The consumption of these toxins may cause serious health problems for humans and animals. The trichothecene deoxynivalenol (DON) constitutes one of the most commonly occurring Fusarium toxins encountered in maize and requires improved methods to limit its entrance into the food and feed system. While a variety of chromatographic and mass spectrometry methods for the identification of such toxins have been established, these are considered time-consuming, cost-intensive and require highly qualified personnel. Alternatively, optical techniques, such as mid-infrared spectroscopy offer rapid detection of fungal infections in cereals and other commodities with minimised sample preparation and analysis time. The present study demonstrates a rapid fungal contamination detection strategy in maize taking advantage of IR-spectroscopy combined with advanced machine learning algorithms. The developed method represents an advancement for the analysis of differences in protein and carbohydrate content revealed in the associated IR-spectra related to the amount of toxin contamination at the European Union (EU) regulatory limits for DON in maize (i.e. 1,250 µg/kg). The employed maize varieties are naturally infected samples or have been infected with Fusarium verticillioides, Fusarium graminearum or Fusarium culmorum. Sieved maize samples at the EU regulatory limit were correctly classified using machine learning approaches, therefore enabling the differentiation between DON-contaminated and non-contaminated maize samples. Specifically, a variety of machine learning methods, including Adaptive Boosting (AdaBoost), Random Forests, Support Vector Machine (SVM) and Multilayer Perceptron (MLP) demonstrated excellent classification and validation performance using the obtained IR-spectra. As a result, 183 maize samples of different varieties and infection levels were accurately classified. 94% of the non-contaminated samples and 91% of the contaminated samples were correctly classified using an MLP classification approach. © 2018 Wageningen Academic Publishers.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064412665&doi=10.3920%2fWMJ2018.2333&partnerID=40&md5=67b0e21472bf04f57d6dc3761c55508d},
+   address = {Institute of Analytical and Bioanalytical Chemistry, Ulm University, Albert-Einstein-Allee 11, Ulm, 89081, Germany
+Institute of Neural Information Processing, Ulm University, James-Franck-Ring, Ulm, 89081, Germany
+Department of Agrobiotechnology (IFA-Tulln), University of Natural Resources and Life Sciences, Vienna (BOKU), Austria
+Institute for Global Food Security, School of Biological Sciences, Queens University Belfast, United Kingdom},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Perczak, A. and Gwiazdowska, D. and Marchwinska, K. and Jus, K. and Gwiazdowski, R. and Waskiewicz, A.},
+   year = {2019},
+   title = {Antifungal activity of selected essential oils against Fusarium culmorum and F. graminearum and their secondary metabolites in wheat seeds},
+   journal = {Archives of Microbiology},
+   volume = {201},
+   issue = {8},
+   pages = {1085-1097},
+   date = {Oct},
+   ISSN = {0302-8933},
+   DOI = {10.1007/s00203-019-01673-5},
+   accession_number = {WOS:000487079300009},
+   abstract = {Essential oils (EOs) are products of plant origin and include mixtures of different chemical compounds. These volatile substances have many interesting properties, including antifungal properties. Fungi may develop under field conditions on crops such as wheat or corn and are able to synthesize mycotoxins, which adversely affect livestock and human health. In the present study, selected EOs were used to inhibit the growth of Fusarium graminearum and F. culmorum and reduce the concentrations of mycotoxins in wheat grain. The EOs significantly inhibited the growth of tested Fusarium species (90.99-99.99%), as determined based on ergosterol quantitative analysis. Only the addition of orange oil to F. culmorum exhibits a different inhibition capacity (68.13%). EO application resulted in a large reduction in zearalenone content (99.08-99.99%); only in the case of orange oil application was the reduction estimated at approximately 68.33%. However, all EOs provided a significant reduction in the concentration levels of group B trichothecenes (94.51-100%). It can be concluded that EOs inhibit the growth of fungi of the genus Fusarium and reduce concentration levels of the mycotoxins zearalenone and group B trichothecenes.},
+   notes = {Perczak, Adam Gwiazdowska, Daniela Marchwinska, Katarzyna Jus, Krzysztof Gwiazdowski, Romuald Waskiewicz, Agnieszka
+1432-072x},
+   url = {<Go to ISI>://WOS:000487079300009},
+
+}
+
+@article{Journal Article,
+   author = {Porto, Y. D. and Trombete, F. M. and Freitas-Silva, O. and de Castro, I. M. and Direito, G. M. and Ascheri, J. L. R.},
+   year = {2019},
+   title = {Gaseous ozonation to reduce aflatoxins levels and microbial contamination in corn grits},
+   journal = {Microorganisms},
+   volume = {7},
+   issue = {8},
+   DOI = {10.3390/microorganisms7080220},
+   article_number = {220},
+   keywords = {Aflatoxins
+Decontamination
+Ozone},
+   abstract = {Corn is one of the most cultivated cereals in Brazil. However, its grains are constantly exposed to contamination by mycotoxins. Corn grits are used by the food industry to produce a large variety of corn products such as canjiquinha, a cultural food easily purchased by the Brazilian consumer at low prices. Some studies have demonstrated high contamination of this product by aflatoxins (AFs), representing a potential risk of exposure due to such a contamination. In this study, the efficacy of gaseous ozonation was evaluated on the levels of aflatoxins and on the microbial contamination of corn grits. The application of gaseous ozone was tested in different combinations of exposure time, ozone concentration, and canjiquinha mass. After the ozonation treatment, samples were collected for aflatoxin and microbiological analyses. Aflatoxins were evaluated using a high-performance liquid chromatography with fluorescence detection (HPLC-FD) system using pre-column derivatization, and the microbiological analyses were carried out for toxin-producer fungi and mesophilic bacteria. After ozone detoxification, results showed reductions up to 57% in aflatoxin levels. Total fungal count was reduced around 3.0 cycles log CFU g−1 and total mesophilic counts were reduced to non-detectable levels. These results demonstrated that ozonation is an effective alternative for reducing aflatoxin and microbial contamination in products like canjiquinha, thereby improving food safety. © 2019 by the authors. Licensee MDPI, Basel, Switzerland.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074374570&doi=10.3390%2fmicroorganisms7080220&partnerID=40&md5=4466fa8a423b5971d045962b1dce657e},
+   address = {Food Science and Technology, Institute of Technology, Federal Rural University of Rio de Janeiro (UFRRJ), Seropédica, 23897-000, Brazil
+Food Engineering Department, Federal University of São João del-Rei, Campus Sete Lagoas, Sete Lagoas, 35701-970, Brazil
+Brazilian Agricultural Research Corporation, Embrapa Agroindústria de Alimentos, Rio de Janeiro, 23020-470, Brazil
+Department of Microbiology and Immunology Veterinary, Institute of Veterinary, Federal Rural University of Rio de Janeiro (UFRRJ), Seropédica, 23897-000, Brazil},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Schemminger, J. and Mbuge, D. and Hofacker, W.},
+   year = {2019},
+   title = {Ambient air cereal grain drying – Simulation of the thermodynamic and microbial behavior},
+   journal = {Thermal Science and Engineering Progress},
+   volume = {13},
+   DOI = {10.1016/j.tsep.2019.100382},
+   article_number = {100382},
+   keywords = {Aflatoxin
+Cereal storage
+Food safety
+Grain silo drying
+Predictive microbiology
+Spoilage},
+   abstract = {The thermodynamics of ambient air cereal drying processes have been investigated and resulted in an accurate model to predict the drying behavior. Microorganism growth and the production of toxins have been separately investigated as well. Combining both models of thermodynamics and biology allows for the description of ambient temperature grain drying processes aiming at preservation without the need of long-term/high-cost-experiments. The agreement of simulated and experimental data has been verified and confirms the applicability of the model regarding thermodynamic and microbial behavior under continuous drying operations. Transferring the simulation on low-tech-bin-dryers showed a production of toxins that approximately doubled during the drying process when the fill level of maize inside the bin dryer was compared between half and completely filled. © 2019 Elsevier Ltd},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85071553614&doi=10.1016%2fj.tsep.2019.100382&partnerID=40&md5=f56304d959433fdd6e081eceeb2e8f47},
+   address = {Institute of Applied Thermo- and Fluiddynamics, University of Applied Sciences Konstanz, Alfred-Wachtel-Straße 8, Konstanz, 78462, Germany
+Department of Environmental and Biosystems Engineering, University of Nairobi, P.O. Box 30197 Code 00100, Nairobi, Kenya},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Sengling Cebin Coppa, C. F. and Mousavi Khaneghah, A. and Alvito, P. and Assunção, R. and Martins, C. and Eş, I. and Gonçalves, B. L. and Valganon de Neeff, D. and Sant'Ana, A. S. and Corassin, C. H. and Oliveira, C. A. F.},
+   year = {2019},
+   title = {The occurrence of mycotoxins in breast milk, fruit products and cereal-based infant formula: A review},
+   journal = {Trends in Food Science and Technology},
+   volume = {92},
+   pages = {81-93},
+   DOI = {10.1016/j.tifs.2019.08.014},
+   keywords = {Breast milk
+Cereal-based product
+Contamination
+Fruit-based product
+Infant food
+Mycotoxin
+Prevalence
+Systematic review},
+   abstract = {Background: Breast milk is considered an essential food segment for children up to 6 months; however, it can be contaminated with some mycotoxins, such as aflatoxin M1 (AFM1) and ochratoxin A (OTA) as a consequence of ingestion of dietary mycotoxins by lactating mothers. Moreover, the health of infants can be threatened due to simultaneous exposure to a mixture of mycotoxins mainly due to their potential synergistic effects. Scope and approach: An overview of the prevalence of mycotoxins in breast milk and infant formula, fruit- and cereal-based products as routine diets of infants during the last 10 years, besides the associated health risks, were presented. In this regard, the relevant citations published in international databases such as PubMed, Science direct from 2008 to 2019 were screened by the aid of a systematic review approach. Key findings and conclusions: The high prevalence of AFM1 and OTA in breast milk reported in several countries highlighted the extent of mycotoxin occurrence in the diet of lactating mothers. Furthermore, the exposure rates of infants to mycotoxins in breast milk and infant formula while generated a margin of exposure values lower than 10,000, indicating a huge public health concern. Thus, reducing the dietary exposure of mycotoxins for lactating mothers and approaching the required controlling steps during the processing and distribution of infant formulas are crucial. Further studies are recommended to evaluate the health risks to infants due to dietary exposure to multiple mycotoxins in infant foods. © 2019 Elsevier Ltd},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070915695&doi=10.1016%2fj.tifs.2019.08.014&partnerID=40&md5=3d95c104a3efdd99c2b3cf94eeb3c388},
+   address = {Department of Food Engineering, School of Animal Science and Food Engineering, University of São Paulo, Pirassununga, SP, Brazil
+Department of Food Science, Faculty of Food Engineering, University of Campinas (UNICAMP), Campinas, São Paulo, Brazil
+Food and Nutrition Department, National Institute of Health Doutor Ricardo Jorge, Lisboa, Portugal
+CESAM, Centre for Environmental and Marine Studies, University of Aveiro, Campus Universitário de Santiago, Aveiro, Portugal
+NOVA National School of Public Health, NOVA University of Lisboa, Lisboa, Portugal
+Department of Material and Bioprocess Engineering, Faculty of Chemical Engineering, University of Campinas (UNICAMP), Campinas, São Paulo, Brazil},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Shri, M. and Singh, P. K. and Kidwai, M. and Gautam, N. and Dubey, S. and Verma, G. and Chakrabarty, D.},
+   year = {2019},
+   title = {Recent advances in arsenic metabolism in plants: Current status, challenges and highlighted biotechnological intervention to reduce grain arsenic in rice},
+   journal = {Metallomics},
+   volume = {11},
+   issue = {3},
+   pages = {519-532},
+   DOI = {10.1039/c8mt00320c},
+   abstract = {Arsenic (As), classified as a "metalloid" element, is well known for its carcinogenicity and other toxic effects to humans. Arsenic exposure in plants results in the alteration of the physiochemical and biological properties and consequently, loss of crop yield. Being a staple food for half of the world's population, the consumption of As-contaminated rice grain by humans may pose serious health issues and risks for food security. In this study, we have described the principal understanding of the molecular basis of arsenic toxicity and accumulation in plant parts. We described the measures for decreasing As accumulation in rice and understanding the mechanism and transport of As uptake, its transport from root to shoot to rice grain, its metabolism, detoxification, as well as the mechanisms lying behind its accumulation in rice grains. There are various checkpoints, such as the tuning of AsV/Pi specific Pi transporters, arsenate reductase, transporters that are involved in the efflux of As to either the vacuole or outside the cell, xylem loading, loading and unloading to the phloem, and transporters involved in the loading of As to grain, that can be targeted to reduce As accumulation in rice grain. Genes/proteins involved in As detoxification, particularly the glutathione (GSH) biosynthesis pathway, phytochelatin (PC) synthesis, and arsenic methyltransferase, also provide a great pool of pathways that can also be castellated for the low As in rice grains. Paddy rice is also used as fodder for animals, enhancing vacuolar sequestration and using constitutive promoters, which may be of concern for animal health. Therefore, using a root-specific promoter and/or converting inorganic arsenic into volatile organic arsenic might be a better strategy for low As in grain. Furthermore, in this review, the other specific approaches, such as bio-remediation, bio-augmentation practices, and molecular breeding, which have great potential to reduce As uptake from soil to rice grains, have also been highlighted. © 2019 The Royal Society of Chemistry.},
+   notes = {Cited By :2
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063341199&doi=10.1039%2fc8mt00320c&partnerID=40&md5=92d9b4333a05d3123e49bae6ceeab66e},
+   address = {Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, 201002, India
+Genetics and Molecular Biology Division, CSIR-National Botanical Research Institute, India},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Sundaramoorthy, J. and Palaniswamy, S. and Park, G. T. and Son, H. R. and Tsukamoto, C. and Lee, J. D. and Kim, J. H. and Seo, H. S. and Song, J. T.},
+   year = {2019},
+   title = {Characterization of a new sg-5 variant with reduced biosynthesis of group A saponins in soybean (Glycine max (L.) Merr.)},
+   journal = {Molecular Breeding},
+   volume = {39},
+   issue = {11},
+   DOI = {10.1007/s11032-019-1066-4},
+   article_number = {144},
+   keywords = {CYP72A69
+Group A saponin
+Saponin
+Sg-5
+Soybean},
+   abstract = {Triterpenoid saponins are major secondary metabolites in soybean; they are classified into group A and DDMP saponins. Group A saponins cause bitterness and an astringent aftertaste, whereas DDMP saponins are less bitter and more beneficial to human health. Therefore, a need exists for genetic improvement to develop bitter-free soybeans without losing other beneficial saponins. In this study, an ethyl methanesulfonate (EMS)–induced mutant, PE1327, was isolated and characterized as having a reduced level of group A saponins by chromatography. The PE1327 phenotype, which exhibits no accumulation of group A saponins, resembles that of a previously reported sg-5 wild soybean mutant whose biosynthesis is controlled by the Sg-5 (Glyma.15G243300) gene. The Sg-5 gene sequence in PE1327 revealed a single-nucleotide polymorphism (G1036A) that causes an amino acid change from Glu346 to Lys346 in the sg-5 protein. Multiple alignment analysis of cytochrome P450 enzymes from numerous organisms revealed that Glu346 is highly conserved in eukaryotes, including plants and animals, but not in prokaryotes. The predicted 3D model of the Sg-5 protein showed that the Glu346 residue is located in the J helix and is likely involved in the linkage between the J and K helices and the stabilization of the J-K loop, suggesting that the amino acid substitution from Glu346 to Lys346 in the PE1327 mutant results in hypofunction of Sg-5. Co-segregation analysis revealed that the Sg-5 locus is tightly linked to reduced group A saponin biosynthesis in PE1327 and that the novel sg-5 variant is recessive to Sg-5. © 2019, Springer Nature B.V.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074831428&doi=10.1007%2fs11032-019-1066-4&partnerID=40&md5=c6c43607192ba3c4409500437e4df194},
+   address = {School of Applied Biosciences, Kyungpook National University, Daegu, 41566, South Korea
+Food Science, Bioresources Sciences, United Graduate School of Agricultural Sciences, Iwate University, Morioka, Iwate 020-8550, Japan
+Department of Biology, Kyungpook National University, Daegu, 41566, South Korea
+Department of Plant Science, Seoul National University, Seoul, 08826, South Korea},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Tang, Q. F. and Yang, Z. P. and Han, R. R. and Zhang, Y. and Shen, C. and Wang, J.},
+   year = {2019},
+   title = {No Effect of Bt-transgenic Rice on the Tritrophic Interaction of the Stored Rice, the Maize Weevil Sitophilus Zeamais and the Parasitoid Wasp Theocolax elegans},
+   journal = {Scientific Reports},
+   volume = {9},
+   date = {Mar},
+   ISSN = {2045-2322},
+   DOI = {10.1038/s41598-019-40836-8},
+   article_number = {4306},
+   accession_number = {WOS:000461017700006},
+   abstract = {During Bt transgenic rice storage, Bt Cry1Ab/Cry1Ac fused protein is exposed to the maize weevil Sitophilus zeamais and the parasitoid wasp Theocolax elegans. We have carried out a long-term risk assessment for Bt rice to these non-target organisms in the storehouse. Effects of Bt rice on S. zeamais and T. elegans have been carefully detected in a laboratory experiment of over 5 years. The survival, development, fecundity, and longevity of the maize weevil were compared between Bt rice and non-Bt rice treatments for every 5 generations from generation 1 to 25. Moreover, the development, adult body size and sex ratio of T. elegans were compared between them parasitizing S. zeamais feeding on Bt rice or non-Bt rice. We found that although BtCry1Ab/Cry1Ac fused protein exists in the Bt rice grains and S. zeamais digestive tracts, Bt rice is not harmful to the maize weevil S. zeamais and its parasitoid T. elegans.},
+   notes = {Tang, Qingfeng Yang, Zhipeng Han, Rongrong Zhang, Ying Shen, Chen Wang, Jian
+Tang, Qingfeng/0000-0002-7075-5674},
+   url = {<Go to ISI>://WOS:000461017700006},
+
+}
+
+@article{Journal Article,
+   author = {Tang, Z. H. and Xu, M. and Ito, H. and Cai, J. H. and Ma, X. X. and Qin, J. and Yu, D. L. and Meng, Y. J.},
+   year = {2019},
+   title = {Deciphering the non-coding RNA-level response to arsenic stress in rice (Oryza sativa)},
+   journal = {Plant Signaling & Behavior},
+   volume = {14},
+   issue = {9},
+   date = {Sep},
+   ISSN = {1559-2316},
+   DOI = {10.1080/15592324.2019.1629268},
+   accession_number = {WOS:000473647000001},
+   abstract = {Arsenic (As) contamination in subsoil and groundwater is a big problem, especially in many South-East Asian countries. As a staple crop growing under flooded condition in these areas, rice (Oryza sativa L.) becomes a big threat to human health through the food chain since As is highly accumulated in grains. Thus, reducing As accumulation in rice through molecular breeding and identification of rice varieties with low As content are the pressing issues. However, the current understanding on the molecular mechanism of As stress response is still limited for rice. In this study, we performed a comprehensive search for the As-responsive small RNAs (sRNAs) of rice. Briefly, 4,762 and 18,152 sRNAs were identified to be highly activated under As stress in roots and shoots respectively, while 14,603 and 8,308 sRNAs were intensively repressed by As treatment in roots and shoots, respectively. A number of the As-responsive sRNAs found their loci on tRNAs, rRNAs or long non-coding RNAs (lncRNAs). Interestingly, these loci preferentially distributed on the 5MODIFIER LETTER PRIME halves of the tRNA, rRNA or lncRNA precursors. Among the above-identified As-responsive sRNAs, 252 Argonaute 1 (AGO1)-enriched sRNAs were extracted for target identification, resulting in 200 pairs of sRNA-protein-coding target interactions. Many targets are functionally involved in the development, stress response, reproduction, or lipid metabolism. Additionally, 56 lncRNAs were discovered to be targeted by nine AGO1-enriched sRNAs, indicating the potential involvement of these lncRNAs in As signaling. Taken together, our results could expand the understanding on the non-coding RNA-mediated As stress response in rice.},
+   notes = {Tang, Zhonghai Xu, Min Ito, Hidetaka Cai, Jiahui Ma, Xiaoxia Qin, Jingping Yu, Dongliang Meng, Yijun
+Tang, Zhonghai/0000-0002-4364-5699
+1559-2324},
+   url = {<Go to ISI>://WOS:000473647000001},
+
+}
+
+@article{Journal Article,
+   author = {Ustunol, I. B. and Gonzalez-Pech, N. I. and Grassian, V. H.},
+   year = {2019},
+   title = {pH-dependent adsorption of α-amino acids, lysine, glutamic acid, serine and glycine, on TiO2 nanoparticle surfaces},
+   journal = {Journal of Colloid and Interface Science},
+   volume = {554},
+   pages = {362-375},
+   DOI = {10.1016/j.jcis.2019.06.086},
+   keywords = {Amino acid adsorption
+ATR-FTIR spectroscopy
+TiO2 nanoparticles
+Zeta-potential},
+   abstract = {TiO2 nanoparticles (NPs) are widely used in different applications, and potential exposure to these NPs raises concerns about their impact on human health. In contact with biological fluids, proteins adsorb onto NPs to create a protein corona. Protein adsorption is highly dependent on the affinity between exterior amino acid residues and the NP surface. Thus, studying amino acids adsorption onto NPs can provide insight into protein corona formation. Herein, the pH-dependent adsorption of α-amino acids onto TiO2 NPs in buffered solutions is described. Methods include attenuated total reflectance-Fourier transform infrared (ATR-FTIR) spectroscopy to analyze molecular interactions and dynamic light scattering (DLS) to measure changes in size and zeta-potential upon adsorption. Depending on the predominant speciation and TiO2 NP surface charge, adsorption involves a combination of carboxylate and amine group interactions. Gly and Lys reveal a similar trend of higher adsorption with increasing pH. In contrast, Glu adsorption decreases with increasing pH. Ser adsorption onto TiO2 NPs surfaces is the highest around pHIEP. These differences are attributed to the different speciation of the functional groups within the amino acids and the TiO2 surface charge at each pH. Under our experimental conditions, multiple surface species coexist at different pH values. Protonated surface species are present for all amino acids at pH 2. At pH 9, Lys and Glu adsorbate spectra have new peaks at 1740 cm−1 and 1744 cm−1, respectively. This is a possible result of surface-induced deprotonation of the amine group and proton transfer to the carboxylate. Analyzing the pH-dependent adsorption of amino acids can provide a better understanding of biomolecule-surface interactions in in vivo and different biological milieu. © 2019 Elsevier Inc.},
+   notes = {Cited By :2
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068742327&doi=10.1016%2fj.jcis.2019.06.086&partnerID=40&md5=dc966112afe0dec2d53e6ac06092a775},
+   address = {Department of Nanoengineering, University of California, San Diego, La JollaCA 92093, United States
+Department of Chemistry and Biochemistry, University of California, San Diego, La JollaCA 92093, United States
+Scripps Institution of Oceanography, University of California, San Diego, La JollaCA 92093, United States},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Valera, E. and García-Febrero, R. and Elliott, C. T. and Sánchez-Baeza, F. and Marco, M. P.},
+   year = {2019},
+   title = {Electrochemical nanoprobe-based immunosensor for deoxynivalenol mycotoxin residues analysis in wheat samples},
+   journal = {Analytical and Bioanalytical Chemistry},
+   volume = {411},
+   issue = {9},
+   pages = {1915-1926},
+   DOI = {10.1007/s00216-018-1538-0},
+   keywords = {CdS nanoparticles
+Deoxynivalenol mycotoxin residues
+Electrochemical nanoprobes
+Food safety
+Immunosensor
+Wheat},
+   abstract = {Deoxynivalenol (DON) is a toxic secondary metabolite produced by several species of Fusarium fungi, which can be predominantly found in agricultural crops such as wheat. In livestock, deoxynivalenol-contaminated grain can produce vomiting, feed refusal, weight loss, and diarrhea. This paper reports an electrochemical immunosensor for the detection of residual DON mycotoxin in food samples. The device uses electrochemical nanoprobes (CdSNP-AbDON) and antigen biofunctionalized magnetic μ-particles (DON-BSAMP) to detect the mycotoxin. CdSNP-AbDON are prepared by labelling the DON-specific antibodies with CdS nanoparticles (CdSNPs). Nanoparticle size and CdSNP-AbDON conjugation ratio are characterized using TEM images. The metal ions released by the CdSNP are reduced at the working electrode and read by anodic stripping voltammetry. DON can be detected in PBST buffer with an IC 50 of 6.74 ± 0.19 μg L −1 . The high detectability of the immunosensor developed allows detection of DON residues in 50-fold diluted wheat extracts. The limit of detection (LOD, IC 90 ) accomplished in wheat is of 342.4 μg kg −1 , which is below the maximum residue limit (MRL, 1750 μg kg −1 for unprocessed durum wheat, 750 μg kg −1 for cereals intended for direct human consumption) established by the EU for this mycotoxin. The working range is in the interval between 610 and 6210 μg kg −1 . The performance of the immunosensor was compared with the ELISA assay. DON naturally contaminated wheat samples were analyzed with the immunosensor, showing acceptable recoveries. [Figure not available: see fulltext.]. © 2019, Springer-Verlag GmbH Germany, part of Springer Nature.},
+   notes = {Cited By :1
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059679970&doi=10.1007%2fs00216-018-1538-0&partnerID=40&md5=9f6332612fd2ac3f197b5a1cd09f3825},
+   address = {CIBER de Bioingeniería, Biomateriales y Nanomedicina (CIBER-BBN), Jordi Girona 18-26, Barcelona, 08034, Spain
+Nanobiotechnology for Diagnostics (Nb4D) group, IQAC-CSIC, Jordi Girona 18-26, Barcelona, 08034, Spain
+Department of Bioengineering, University of Illinois at Urbana-Champaign, 1304 W Springfield Ave, Urbana, IL 61801, United States
+The Institute for Global Food Security, School of Biological Sciences, Queen’s University, Belfast, BT7 1NN, United Kingdom},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Van der Fels-Klerx, H. J. and Vermeulen, L. C. and Gavai, A. K. and Liu, C.},
+   year = {2019},
+   title = {Climate change impacts on aflatoxin B-1 in maize and aflatoxin M-1 in milk: A case study of maize grown in Eastern Europe and imported to the Netherlands},
+   journal = {Plos One},
+   volume = {14},
+   issue = {6},
+   date = {Jun},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0218956},
+   article_number = {e0218956},
+   accession_number = {WOS:000484911900057},
+   abstract = {Various models and datasets related to aflatoxins in the maize and dairy production chain have been developed and used but they have not yet been linked with each other. This study aimed to investigate the impacts of climate change on aflatoxin B-1 production in maize and its consequences on aflatoxin M-1 contamination in dairy cow's milk, using a full chain modelling approach. To this end, available models and input data were chained together in a modelling framework. As a case study, we focused on maize grown in Eastern Europe and imported to the Netherlands to be fed-as part of dairy cows' compound feed-to dairy cows in the Netherlands. Three different climate models, one aflatoxin B-1 prediction model and five different carryover models were used. For this particular case study of East European maize, most of the calculations suggest an increase (up to 50%) of maximum mean aflatoxin M1 in milk by 2030, except for one climate (DMI) model suggesting a decrease. Results from all combinations of carryover and climate models suggest a similar or slight increase (up to 0.6%) of the chance of finding aflatoxin M-1 in milk above the EC limit of 0.05 mu g/kg by 2030. Results varied mainly with the climate model data and carryover model considered. The model framework infrastructure is flexible so that forecasting models for other mycotoxins or other food safety hazards as well as other production chains, together with necessary input databases, can easily be included as well. This modelling framework for the first time links datasets and models related to aflatoxin B-1 in maize and related aflatoxin M-1 the dairy production chain to obtain a unique predictive methodology based on Monte Carlo simulation. Such an integrated approach with scenario analysis provides possibilities for policy makers and risk managers to study the effects of changes in the beginning of the chain on the end product.},
+   notes = {Van der Fels-Klerx, H. J. Vermeulen, L. C. Gavai, A. K. Liu, C.
+/0000-0002-4738-190x},
+   url = {<Go to ISI>://WOS:000484911900057},
+
+}
+
+@article{Journal Article,
+   author = {Vieira, A. C. G. and Jong, G. A. and Pereira, A. D. S. and Fontes-Sant’Ana, G. C. and Tonon, R. V. and Rocha-Leão, M. H. M. and Amaral, P. F. F.},
+   year = {2019},
+   title = {Encapsulation of wine industry by-product by ionotropic gelation for application in a wheat beer},
+   journal = {Chemical Engineering Transactions},
+   volume = {75},
+   pages = {601-606},
+   DOI = {10.3303/CET1975101},
+   abstract = {Best encapsulation conditions of wine industry by-products (WIBP) with sodium alginate by ionotropic gelling with Ca2+ ions were selected by a 24 central composite rotational design. The erosion degree of the beads immersed for 15 and 90 days in a wheat beer was reduced with lower CaCl2 concentrations, higher WIBP amounts and reduced complexation times (CT). The swelling behavior of the beads was influenced by CaCl2, sodium alginate, CT and WIBP concentrations. Best conditions to obtain beads with simultaneously lower swelling (606.7 %) and erosion degree (7.6 %) are: 1.5% sodium alginate, 4% WIBP, 0.26 M calcium chloride and 26 min CT. Beads containing the residue of the wine industry can be considered potential additives for a wheat beer to increase the antioxidant activity of this beverage benefiting the consumer. Copyright © 2019, AIDIC Servizi S.r.l.},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067133031&doi=10.3303%2fCET1975101&partnerID=40&md5=fa10afeab56ef7e65e9131b328721860},
+   address = {Biochemical Engineering Department, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Av. Athos da Silveira Ramos, 149, CT Bl. E, Rio de Janeiro, 21941-909, Brazil
+Instituto de Química, Universidade do Estado do Rio de Janeiro, Rua São Francisco Xavier, 524 - Pavilhão Haroldo Lisboa da Cunha, Maracanã, Rio de Janeiro, RJ 20550-013, Brazil
+Embrapa Agroindústria de Alimentos, Av. das Américas, 29501, Guaratiba, Rio de Janeiro,, RJ 23020-470, Brazil},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Wall-Martinez, H. A. and Ramirez-Martinez, A. and Wesolek, N. and Brabet, C. and Durand, N. and Rodriguez-Jimenes, G. C. and Garcia-Alvarado, M. A. and Salgado-Cervantes, M. A. and Robles-Olvera, V. J. and Roudot, A. C.},
+   year = {2019},
+   title = {Risk assessment of exposure to mycotoxins (aflatoxins and fumonisins) through corn tortilla intake in Veracruz City (Mexico)},
+   journal = {Food Additives and Contaminants Part a-Chemistry Analysis Control Exposure & Risk Assessment},
+   volume = {36},
+   issue = {6},
+   pages = {929-939},
+   ISSN = {1944-0049},
+   DOI = {10.1080/19440049.2019.1588997},
+   accession_number = {WOS:000474763100011},
+   abstract = {This study aimed to assess aflatoxin and fumonisin intake through corn tortilla consumption in Veracruz city. Between October 2013 and February 2015, a total of 120 corn tortilla samples (2 kg samples, 40 samples per year) were randomly collected. Aflatoxins and fumonisins were quantified by high performance liquid chromatography coupled with a fluorescence detector. A probability density function (PDF) was used for describing corn tortilla intake, body weight of the Veracruz city population, mycotoxin content of corn tortilla samples and estimated mycotoxin daily intake. The Monte Carlo method with 10,000 iterations was employed to assess the population exposure risk. The highest level of total aflatoxins (AFT) was 22.17 mu g kg(-1), and 526.6 mu g kg(-1) for fumonisins B-1 plus B-2, with 85% and 90% of contaminated samples respectively. Up to 69.7 % of the population was estimated to consume a higher aflatoxin dose than that recommended by the JECFA (1ng kg(-1) of body weight per day); it was found that the recommended dose was exceeded to a greater extent in the male population, due to higher consumption of corn. The risk of fumonisin intake was less than 5 % due to the low presence and levels of these toxins in corn tortillas. The results suggest that corn tortilla consumers are at dietary risk caused by AFT contamination; this information should be considered when taking action to protect public health.},
+   notes = {Wall-Martinez, H. A. Ramirez-Martinez, A. Wesolek, N. Brabet, C. Durand, N. Rodriguez-Jimenes, G. C. Garcia-Alvarado, M. A. Salgado-Cervantes, M. A. Robles-Olvera, V. J. Roudot, A. C.
+Garcia-Alvarado, Miguel A/H-6889-2012; del Carmen Rodriguez Jimenes, Guadalupe/H-5896-2012
+del Carmen Rodriguez Jimenes, Guadalupe/0000-0003-3500-2957
+1944-0057},
+   url = {<Go to ISI>://WOS:000474763100011},
+
+}
+
+@article{Journal Article,
+   author = {Wang, C. and Guo, W. and Cai, X. and Li, R. and Ow, D. W.},
+   year = {2019},
+   title = {Engineering low-cadmium rice through stress-inducible expression of OXS3-family member genes},
+   journal = {New Biotechnology},
+   volume = {48},
+   pages = {29-34},
+   DOI = {10.1016/j.nbt.2018.04.004},
+   keywords = {Bioengineering
+Cadmium
+Heavy metal
+Oxidative stress 3
+Rice},
+   abstract = {Cadmium (Cd) as a carcinogen poses a great threat to food security and public health through plant-derived foods such as rice, the staple for nearly half of the world's population. We have previously reported that overexpression of truncated gene fragments derived from the rice genes OsO3L2 and OsO3L3 could reduce Cd accumulation in transgenic rice. However, we did not test the full length genes due to prior work in Arabidopsis where overexpression of these genes caused seedling lethality. Here, we report on limiting the overexpression of OsO3L2 and OsO3L3 through the use of the stress- inducible promoter RD29B. However, despite generating 625 putative transformants, only 7 lines survived as T1 seedlings and only 1 line of each overexpressed OsO3L2 or OsO3L3-produced T2 progeny. The T2 homozygotes from these 2 lines showed the same effect of reducing accumulation of Cd in root and shoot as well as in T3 grain. As importantly, the concentrations of essential metals copper (Cu), iron (Fe), manganese (Mn) and zinc (Zn) were unaffected. Analysis of the expression profile suggested that low Cd accumulation may be due to high expression of OsO3L2 and OsO3L3 in the root tip region. Cellular localization of OsO3L2 and OsO3L3 indicate that they are histone H2A interacting nuclear proteins in vascular cells and especially in the root tip region. It is possible that interaction with histone H2A modifies chromatin to regulate downstream gene expression. © 2018},
+   notes = {Cited By :4
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046339285&doi=10.1016%2fj.nbt.2018.04.004&partnerID=40&md5=bfebf04fd2a6f968777bee27bdb803fe},
+   address = {Plant Gene Engineering Center, Chinese Academy of Sciences Key Laboratory of South China Agricultural Plant Molecular Analysis and Genetic Improvement, Guangdong Key Laboratory of Applied Botany, South China Botanical Garden, Chinese Academy of Sciences, Guangzhou, 510650, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Wang, D. and Zhu, J. G. and Zhang, Z. and Zhang, Q. and Zhang, W. and Yu, L. and Jiang, J. and Chen, X. M. and Wang, X. F. and Li, P. W.},
+   year = {2019},
+   title = {Simultaneous Lateral Flow Immunoassay for Multi-Class Chemical Contaminants in Maize and Peanut with One-Stop Sample Preparation},
+   journal = {Toxins},
+   volume = {11},
+   issue = {1},
+   date = {Jan},
+   ISSN = {2072-6651},
+   DOI = {10.3390/toxins11010056},
+   article_number = {56},
+   accession_number = {WOS:000459733500055},
+   abstract = {Multi-class chemical contaminants, such as pesticides and mycotoxins, are recognized as the major risk factors in agro products. It is thus necessary to develop rapid and simple sensing methods to fulfill the on-site monitoring of multi-class chemical contaminants with different physicochemical properties. Herein, a lateral flow immunoassay via time-resolved fluorescence was developed for the rapid, on-site, simultaneous, and quantitative sensing aflatoxin B-1 (AFB(1)), zearalenone (ZEA), and chlorothalonil (CTN) in maize and peanut. The sample preparation was optimized to a single step, combining the grinding and extraction. Under optimal conditions, the sensing method lowered the limits of detection (LOD) to 0.16, 0.52, and 1.21 mu g/kg in maize and 0.18, 0.57, and 1.47 mu g/kg in peanut with an analytical range of 0.48-20, 1.56-200, and 3.63-300 mu g/kg for AFB(1), ZEA and CTN, respectively. The protocol could be completed within 15 min, including sample preparation and lateral flow immunoassay. The recovery range was 83.24-110.80%. An excellent correlation was observed between this approach and high-performance liquid chromatography-tandem mass spectrometry (HPLC-MS/MS) for mycotoxins and gas chromatography-tandem mass spectrometry (GC-MS/MS) for pesticide in maize and peanut. This work could be applied in on-site multi-class sensing for food safety.},
+   notes = {Wang, Du Zhu, Jianguo Zhang, Zhaowei Zhang, Qi Zhang, Wen Yu, Li Jiang, Jun Chen, Xiaomei Wang, Xuefang Li, Peiwu
+, Zhaowei/0000-0002-6686-2995},
+   url = {<Go to ISI>://WOS:000459733500055},
+
+}
+
+@article{Journal Article,
+   author = {Wang, F. J. and Tan, H. F. and Han, J. H. and Zhang, Y. T. and He, X. D. L. and Ding, Y. F. and Chen, Z. X. and Zhu, C.},
+   year = {2019},
+   title = {A novel family of PLAC8 motif-containing/PCR genes mediates Cd tolerance and Cd accumulation in rice},
+   journal = {Environmental Sciences Europe},
+   volume = {31},
+   issue = {1},
+   date = {Oct},
+   ISSN = {2190-4707},
+   DOI = {10.1186/s12302-019-0259-0},
+   article_number = {82},
+   accession_number = {WOS:000489719700001},
+   abstract = {Background Cd is one of the highly toxic heavy metals to most organisms, including humans and plants, and Cd-contaminated rice from China has become a global food safety issue. The early prediction of OsPCR (the plant cadmium resistance protein) which contained a PLAC8 domain was related with the accumulation of Cd in rice. To further understand the biological function of the OsPCR genes on the Cd tolerance and Cd accumulation in rice, we used a low grain-Cd-accumulating rice (xiushui 11) and a high grain-Cd-accumulating rice (xiushui 110) varieties to analyze the relationship between the expression levels of the two most abundant expression genes (OsPCR1 and OsPCR3) and the Cd concentrations in different tissues at different growth periods during Cd stress, and transgenic experiments of OsPCR1 and OsPCR3 were carried out. Results OsPCR1 and OsPCR3 were closely related with Cd accumulation. Overexpression of OsPCR1 and OsPCR3 could not only increase the Cd tolerance, but also decrease the Cd accumulation obviously in different parts of the transgenic rice plants (especially in the rice grains), while the RNAi expression plants showed the opposite results. Conclusions These results indicate that OsPCR1 and OsPCR3 play critical roles in Cd accumulation in rice, which provides a theoretical basis for the safe production of rice.},
+   notes = {Wang, Feijuan Tan, Haifeng Han, Jiahui Zhang, Yiting He, Xigeduleng Ding, Yanfei Chen, ZhiXiang Zhu, Cheng
+2190-4715},
+   url = {<Go to ISI>://WOS:000489719700001},
+
+}
+
+@article{Journal Article,
+   author = {Wang, J. H. and Gao, X. and Wang, Z. H.},
+   year = {2019},
+   title = {Non-Destructive Determination of Alkylresorcinol (ARs) Content on Wheat Seed Surfaces and Prediction of ARs Content in Whole-Grain Flour},
+   journal = {Molecules},
+   volume = {24},
+   issue = {7},
+   date = {Apr},
+   ISSN = {1420-3049},
+   DOI = {10.3390/molecules24071329},
+   article_number = {1329},
+   accession_number = {WOS:000464954000005},
+   abstract = {Alkylresorcinols (ARs) are beneficial for human health and can be used as biomarkers for whole-grain cereal intake. In previous studies, ARs content in whole-grain flour was determined by milling the seeds into powder, thus destroying their structure. In this paper, we adopted a non-destructive extraction approach. Chloroform and ethyl acetate extraction methods were carried out to extract lipids from the seed surface and whole-grain flour of 36 wheat varieties in China, respectively. GC-MS analysis identified chemical compounds in which ARs were the major compounds for all the samples. The average total content of ARs (624.223 mu g/g) in whole grains was much higher than that on seed surfaces (4.934 mu g/g), with a positive correlation (r = 0.863, p < 0.001) between these two parameters. The results suggested that the total ARs content on the seed surface can be used to predict their content in whole-grain flour. Without affecting the seed germination rate and damaging seed structure, we demonstrate that a non-destructive extraction approach is an appropriate and useful method, facilitating the development of rapid screening methods suitable for use in wheat breeding.},
+   notes = {Wang, Jiahuan Gao, Xin Wang, Zhonghua},
+   url = {<Go to ISI>://WOS:000464954000005},
+
+}
+
+@article{Journal Article,
+   author = {Wang, R. and Wang, T. T. and Dong, T. T. and Zhong, Q. X. and Chen, Z. X. and Feng, W. and Wang, T.},
+   year = {2020},
+   title = {Structural interplay and macroscopic aggregation of rice albumins after binding with heavy metal ions},
+   journal = {Food Hydrocolloids},
+   volume = {98},
+   date = {Jan},
+   ISSN = {0268-005X},
+   DOI = {10.1016/j.foodhyd.2019.105248},
+   article_number = {Unsp 105248},
+   accession_number = {WOS:000484658800043},
+   abstract = {Contamination of cereal grains by heavy metals is becoming a serious threat to human health, especially in the central regions of China. Herein, we report drastic changes in the supramolecular nanostructures of rice albumins (RAs) after binding with Cu(II), Cd(II), and Pb(II). Atomic force microscopy and scanning electron microscopy revealed that Cu(II) initiated an immediate precipitation of RAs, whereas Cd(II) and Pb(II) promoted the formation of core-satellite structures with a core of multiple protein particles surrounded by satellite particulates. Fluorescence and isothermal titration calorimetry studies revealed an entropy-driven, spontaneous behavior of the binding. Consequently, remarkable helix-sheet transitions of RAs were triggered and macroscopic precipitation occurred due to hydrophobic attraction. Our results may help to understand the binding between heavy metals and cereal ingredients from a hydrocolloid perspective to eventually develop detection and removal strategies to combat heavy metal contamination.},
+   notes = {Wang, Ren Wang, Tingting Dong, Tiantian Zhong, Qixin Chen, Zhengxing Feng, Wei Wang, Tao
+14th International Hydrocolloids Conference (IHC)
+May 21-25, 2018
+Nanchang, PEOPLES R CHINA
+Nanchang Univ, Jiangxi Assoc Sci & Technol, Jiangxi Inst Food Sci & Technol, Nanchang Univ, Sch Food Sci & Technol, Nanchang Univ, State Key Lab Food Sci & Technol, SCIEX, TATE & LYLE, Elsevier Publisher, Jiangxi Jiangzhong Diet Therapy Technol Co, Jiangxi Yuanchang Ind Co, Wyatt Technol, Jiangxi Likang Sci & Technol Co, TA Instruments, Waters, Anton Paar GmbH, Separation, Minhe Biotech, Nanchang Jingke Sci Instrument Co
+1873-7137},
+   url = {<Go to ISI>://WOS:000484658800043},
+
+}
+
+@article{Journal Article,
+   author = {Wang, Y. J. and Xie, Z. F. and Wu, Q. and Song, W. Y. and Liu, L. and Wu, Y. N. and Gong, Z. Y.},
+   year = {2020},
+   title = {Preparation and characterization of carboxymethyl starch from cadmium-contaminated rice},
+   journal = {Food Chemistry},
+   volume = {308},
+   date = {Mar},
+   ISSN = {0308-8146},
+   DOI = {10.1016/j.foodchem.2019.125674},
+   article_number = {Unsp 125674},
+   accession_number = {WOS:000494644400041},
+   abstract = {Cadmium-contaminated rice has been a serious food safety issue in China. In this research, carboxymethyl rice starch (CMS) from cadmium-contaminated rice and native rice was prepared to remove the cadmium in rice. The preparation of native rice starch (NRS) and starch from cadmium-contaminated rice (Cd-CRS) was similar, and carboxymethyl starch was prepared following the same steps. A single factor experiment was performed to obtain the carboxymethyl starch prepared under the optimal conditions. Cadmium content was reduced from 0.38 mg/kg to 0.04 mg/kg after alkalization. The physical properties, including particle size, degree of crystallinity, water absorption and freeze-thaw stability, of NRS and Cd-CRS and their carboxymethyl starches were studied. The results showed that the cadmium was significantly removed after extracting starch from cadmium-contaminated rice by alkalization and carboxymethylation. Then, starch samples and carboxymethyl starch samples were characterized. All results showed no obvious difference between Cd-CMS and NCMS, indicating that carboxymethyl starch from cadmium-contaminated rice could be widely used in both food and nonfood industries.},
+   notes = {Wang, Yingjie Xie, Zhengfei Wu, Qian Song, Wanying Liu, Liang Wu, Yongning Gong, Zhiyong
+zhiyong, gong/0000-0001-5788-5581
+1873-7072},
+   url = {<Go to ISI>://WOS:000494644400041},
+
+}
+
+@article{Journal Article,
+   author = {Yu, H. and Guo, J. and Li, Q. and Zhang, X. and Huang, H. and Huang, F. and Yang, A. and Li, T.},
+   year = {2020},
+   title = {Characteristics of cadmium immobilization in the cell wall of root in a cadmium-safe rice line (Oryza sativa L.)},
+   journal = {Chemosphere},
+   volume = {241},
+   DOI = {10.1016/j.chemosphere.2019.125095},
+   article_number = {125095},
+   keywords = {Cadmium-safe line
+Cell wall
+Polysaccharides
+Rice
+Root
+Uronic acid},
+   abstract = {Cultivating cadmium (Cd)-safe rice lines, which show low Cd accumulation in brown rice, is generally beneficial to ensure food safety. The Cd retention in root of Cd-safe rice line D62B plays an important role in its low Cd translocation from root to shoot. To understand the mechanism of Cd retention in root, a hydroponic experiment was conducted to investigate the subcellular distribution of Cd and the contribution of polysaccharides to Cd binding to the root cell wall of a Cd-safe rice line D62B with a common rice line Luhui17 as a control material. D62B retained more Cd in the root by sequestrated a higher proportion of Cd in the cell wall, further it transferred less Cd to shoot. Close to half of the Cd in the root cell wall of D62B was accumulated in the hemicellulose 1 (HC1), and the proportions of HC1 in it were 1.2–1.7 times higher than these of Luhui17. The proportion of Cd in the pectin showed a dose-dependent increase in two rice lines. D62B contained significantly higher uronic acid concentrations of the pectin and greater pectin methyl esterase (PME) activities than Luhui17 in the root cell wall. These results indicated that a superior Cd binding capacity of the cell wall polysaccharides in D62B played an important role in its Cd retention in root. © 2019 Elsevier Ltd},
+   notes = {Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073279109&doi=10.1016%2fj.chemosphere.2019.125095&partnerID=40&md5=fe897b84b1f1b1b36788deae92933daa},
+   address = {College of Resource Science & Technology, Sichuan Agricultural University, 211 Huimin Road, Chengdu, Sichuan 611130, China
+College of Agronomy, Sichuan Agricultural University, 211 Huimin Road, Chengdu, Sichuan 611130, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Zhang, C. X. and Zhang, Q. and Tang, X. Q. and Zhang, W. and Li, P. W.},
+   year = {2019},
+   title = {Development of an Anti-Idiotypic VHH Antibody and Toxin-Free Enzyme Immunoassay for Ochratoxin A in Cereals},
+   journal = {Toxins},
+   volume = {11},
+   issue = {5},
+   date = {May},
+   ISSN = {2072-6651},
+   DOI = {10.3390/toxins11050280},
+   article_number = {280},
+   accession_number = {WOS:000472672300043},
+   abstract = {Enzyme-linked immunosorbent assay (ELISA) test kits have been widely used for the determination of mycotoxins in agricultural products and foods, however, this test uses toxin standards with high toxicity and carcinogenicity that seriously threaten human health. In this work, the anti-idiotypic nanobody VHH 2-24 was first developed and then, using it as a surrogate standard, a toxin-free enzyme immunoassay for ochratoxin A (OTA) was established. The IC50 value of the VHH 2-24 surrogate standard-based ELISA was 0.097 mu g/mL, with a linear range of 0.027-0.653 mu g/mL. The average recoveries were tested by spike-and-recovery experiments, and ranged from 81.8% to 105.0%. The accuracy of the developed ELISA for detecting OTA was further verified by using the high performance liquid chromatography (HPLC) method, and an excellent correlation was observed. In summary, the toxin-free ELISA established in this study proves the latent use of the anti-idiotypic VHH as a surrogate calibrator for other mycotoxins and highly toxic small molecule analysis to improve assay properties for highly sensitive analyte determination in agricultural products.},
+   notes = {Zhang, Caixia Zhang, Qi Tang, Xiaoqian Zhang, Wen Li, Peiwu},
+   url = {<Go to ISI>://WOS:000472672300043},
+
+}
+
+@article{Journal Article,
+   author = {Zhao, Y. and Yamaguchi, Y. and Liu, C. and Li, M. and Dou, X.},
+   year = {2019},
+   title = {Rapid and quantitative detection of trace Sudan black B in dyed black rice by surface-enhanced Raman spectroscopy (SERS)},
+   journal = {Spectrochimica Acta - Part A: Molecular and Biomolecular Spectroscopy},
+   volume = {216},
+   pages = {202-206},
+   DOI = {10.1016/j.saa.2019.03.030},
+   keywords = {Dyed black rice
+Food safety
+Quantitative analysis
+Sudan black B
+Surface-enhanced Raman spectroscopy},
+   abstract = {The use of Sudan black B as coloring agent in foods is forbidden for its toxicology effect on human organs. This work proposes an efficient and sensitive method for food security inspection targeting Sudan black B. Surface-enhanced Raman spectroscopy (SERS) is applied to the analysis of trace Sudan black B. It could be detected at concentrations as low as 0.05 mg/L in standard solutions and 0.1 mg/kg in black rice extracts with the SERS method for measurement. The linear relationship between the intensity and concentration could be used for the quantitative detection of Sudan black B. The relation between dyeing time of black rice stained by Sudan black B solution and SERS intensity was studied which indirectly showed the effectiveness of the extraction method we designed. The results of the quantitative analysis reveal the practicability of using this method to detect Sudan black B in black rice. As a rapid and sensitive detection method, SERS can be extended to detect other food products and has a great application prospect in food safety inspection. © 2019 Elsevier B.V.},
+   notes = {Cited By :1
+Export Date: 21 January 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063058824&doi=10.1016%2fj.saa.2019.03.030&partnerID=40&md5=0b7f83e529f5c6d256a7b49ddafa64e8},
+   address = {Institute of Photonics & Bio-medicine, School of Science, East China University of Science and Technology, 130 Meilong Road, Shanghai, 200237, China
+Department of Applied Physics, Graduate School of Engineering, Osaka University, 2-1, Yamadaoka, Suita-city, Osaka 565-0871, Japan},
+   database = {Scopus},
+
+}
+

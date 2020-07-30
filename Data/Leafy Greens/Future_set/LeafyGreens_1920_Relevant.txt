@@ -1,0 +1,1414 @@
+﻿@article{Journal Article,
+   author = {Abdallah, O. and El Agamy, M. and Abdelraheem, E. and Malhat, F.},
+   year = {2019},
+   title = {Buprofezin dissipation and safety assessment in open field cabbage and cauliflower using GC/ITMS employing an analyte protectant},
+   journal = {Biomedical Chromatography},
+   volume = {33},
+   issue = {6},
+   DOI = {10.1002/bmc.4492},
+   article_number = {e4492},
+   keywords = {analyte protectant
+Brassica oleracea
+buprofezin
+GC/ITMS
+QuEChERS},
+   abstract = {An analytical method for the determination of buprofezin residues in cabbage and cauliflower was developed and validated using gas chromatography with ion trap mass spectrometry. The analyte protectant d-sorbitol was used at a concentration level of 0.5 mg mL−1 in acetonitrile instead of in matrix for constructing the calibration curves of the buprofezin standard. The average recoveries ranged from 91.3 to 96.8%, with an RSD of ≤2.7%. The limits of detection and quantitation of the method in cabbage and cauliflower were 1.3, 1.7 and 4.3, 6.2 μg kg−1, respectively. The residual levels and dissipation kinetics of buprofezin 25% wettabe powder in cabbage and cauliflower cultivated under open field conditions was investigated at the single (T1) and double (T2) recommended rates of application. Half-life periods were found to be 1.73 and 2.1 days in cabbage, whereas in cauliflower, these values were 1.85 and 2.36 days at T1 and T2, respectively. Based on the dissipation study, and the maximum residue limit value of 0.05 mg kg−1, the proposed pre-harvest interval of buprofezin in cabbage was 3–6 days and that in cauliflower was 4–10 days. The results showed that buprofezin is safe for application at both recommended application rates. © 2019 John Wiley & Sons, Ltd.},
+   notes = {Cited By :2
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061785785&doi=10.1002%2fbmc.4492&partnerID=40&md5=adf4e9c7cfa3b3dfcd388df8f496fd04},
+   address = {Department of Pesticide Residues and Environmental Pollution, Central Agricultural Pesticide, Laboratory, Agricultural Research Center, Giza, Egypt
+Food Safety Laboratory, Buraydah, Al-Qassim, Saudi Arabia
+Department of Soil Fertility and Plant Nutrition, Soil, Water and Environment Research Institute (SWERI), Agricultural Research Center, Giza, Egypt},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Adedokun, M. B. and Aweda, M. A. and Maleka, P. P. and Obed, R. I. and Ogungbemi, K. I. and Ibitoye, Z. A.},
+   year = {2019},
+   title = {Natural radioactivity contents in commonly consumed leafy vegetables cultivated through surface water irrigation in Lagos state, Nigeria},
+   journal = {Journal of Radiation Research and Applied Sciences},
+   volume = {12},
+   issue = {1},
+   pages = {147-156},
+   date = {Jun},
+   ISSN = {1687-8507},
+   DOI = {10.1080/16878507.2019.1618084},
+   accession_number = {WOS:000476923000001},
+   abstract = {In the industrialized area of Lagos, vegetables are mostly cultivated through surface water irrigation. Untreated surface water has the potential of being contaminated with radionuclides from industrial effluents. This study evaluated the concentration of radionuclides in the leafy vegetables cultivated through surface water irrigation in Lagos metropolis and the potential health risks associated with their consumption. The specific activities of Ra-226, Th-232 and K-40 in some commonly consumed leafy vegetables were determined using High Purity Germanium (HPGe) detector. To assess the radiation hazards associated with the consumption of these vegetables, annual effective dose (AED) and excess lifetime cancer risk (ELCR) were also determined. The specific activities of Ra-226, Th-232 and K-40 in the investigated samples ranged from 0.49 +/- 044 to 6.00 +/- 1.19 Bq/kg, with an average value of 2.08 +/- 0.59 Bq/ for Ra-226, from 0.10 +/- 0.07 to 0.61 +/- 0.12 Bq/kg with an average value of 0.85 +/- 0.08 Bq/kg for Th-232 and from 28.69 +/- 3.09 to 126.71 +/- 5.86 Bq/kg with an average value of 72.56 +/- 5.36 Bq/kg for K-40. The mean activities of Ra-226 and Th-232 were 40 and 56 times higher than the World Health Organization (WHO) reference values for Ra-226 and Th-232 in leafy vegetables respectively. The AED estimated from the consumption of vegetables was 0.048 mSv/y, which is about 16 % of the reference AED value for radionuclides of natural origin in the total diet while leafy vegetable represents about 8 % of the total diet of an adult in Lagos. The ELCR obtained from this study was this is lower than the world's average value. This study has found elevated concentrations of Ra-226 and Th-232 in leafy vegetables, and noticeable increase in AED associated with Ra-226 exposure in the consumption of leafy vegetables cultivated in Lagos. There are therefore potential radiological health risks to the health of the public from long-term consumption of leafy vegetables cultivated through surface water irrigation in Lagos, Nigeria.},
+   notes = {Adedokun, Margaret B. Aweda, Moses A. Maleka, Peane P. Obed, Rachel I. Ogungbemi, Kayode I. Ibitoye, Zacchaeus A.},
+   url = {<Go to ISI>://WOS:000476923000001},
+
+}
+
+@article{Journal Article,
+   author = {Adeleye, A. O. and Sosan, M. B. and Oyekunle, J. A. O.},
+   year = {2019},
+   title = {Dietary exposure assessment of organochlorine pesticides in two commonly grown leafy vegetables in South-western Nigeria},
+   journal = {Heliyon},
+   volume = {5},
+   issue = {6},
+   DOI = {10.1016/j.heliyon.2019.e01895},
+   article_number = {e01895},
+   keywords = {Dietary exposure
+Health risks
+Nigeria
+Organochlorine pesticides
+Toxicology
+Vegetable},
+   abstract = {Organochlorine pesticides (OCPs) are persistent pesticides whose usage have been banned or restricted worldwide and the presence of its residues in vegetables could affect its nutritional quality as well cause adverse health effects. This study quantified the OCP residue levels in commonly grown and consumed vegetables and assessed the carcinogenic and non-carcinogenic health risks from the consumption of the contaminated vegetables. The OCP residues levels in the extract from the vegetables were determined using a Gas Chromatograph coupled with Electron Capture Detector (GC-ECD). Health risk estimates were analysed using Estimated Average Daily Intake (EADI), Hazard Index (HI), and Hazard Ratio (HR) for children (16.7 kg) and adults (60 kg) weight categories. The residue analysis indicated that amaranths had the highest mean concentration of endrin aldehyde (2.987 ± 0.391 mg kg-1) and endosulfan sulfate (0.661 ± 0.280 mg kg-1), while in fluted pumpkin, the highest mean concentrations were endrin aldehyde (3.491 ± 0.376 mg kg-1) and endosulfan sulfate (2.775 ± 0.644 mg kg-1). The percentage of the detected OCP residues above Maximum Residue Limits (MRLs) ranged from 25% to 100% for both vegetables. Non-carcinogenic health risk estimates for the children weight category showed that aldrin, dieldrin, endrin, endrin aldehyde, and heptachlor detected in both vegetables had HI &gt; 1. While for adults, only aldrin, dieldrin, endrin, and endrin aldehyde revealed non-carcinogenic effect in both vegetables. Human risk estimations for the carcinogenic health effect for the two vegetables showed that aldrin and dieldrin could pose carcinogenic health risks to adult, while aldrin, dieldrin, heptachlor and heptachlor epoxide could pose carcinogenic health risks to children. The results revealed both non-carcinogenic and carcinogenic health risks for the consumers of the contaminated vegetables from the selected locations in South-western Nigeria. © 2019},
+   notes = {Cited By :1
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067338534&doi=10.1016%2fj.heliyon.2019.e01895&partnerID=40&md5=54fe7f3a0d7e8bbe6fb0a70ffbf7c890},
+   address = {Department of Crop Production and Protection, Obafemi Awolowo University, Ile-Ife, 220005, Nigeria
+Department of Chemistry, Obafemi Awolowo University, Ile-Ife, 220005, Nigeria},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Ahmad, R. and Ali, S. and Rizwan, M. and Dawood, M. and Farid, M. and Hussain, A. and Wijaya, L. and Alyemeni, M. N. and Ahmad, P.},
+   year = {2020},
+   title = {Hydrogen sulfide alleviates chromium stress on cauliflower by restricting its uptake and enhancing antioxidative system},
+   journal = {Physiologia Plantarum},
+   volume = {168},
+   issue = {2},
+   pages = {289-300},
+   date = {Feb},
+   ISSN = {0031-9317},
+   DOI = {10.1111/ppl.13001},
+   accession_number = {WOS:000478697400001},
+   abstract = {The present study evaluated the physiological and biochemical mechanisms through which exogenous sodium hydrosulfide (H2S donor) mitigates chromium (Cr) stress in cauliflower. The different levels of Cr included 0, 10, 100 and 200 mu M. Results reported that Cr exposure reduced growth and biomass, chlorophyll (Chl) contents, gas exchange parameters and enzymatic antioxidants. Chromium stress enhanced the production of electrolyte leakage (EL), hydrogen peroxide (H2O2) and malondialdehyde (MDA) contents and increased Cr content in the roots, stem, leaf and flowers. Exogenous H2S improved the physiological and biochemical attributes of Cr-stressed cauliflower. Hydrogen sulfide decreased Cr content in different parts of Cr-stressed plants, whereas it increased the Chl contents and gas exchange attributes. H2S reduced the EL, H2O2 and MDA concentrations, enhancing the antioxidant enzymes activities in Cr-stressed roots and leaves compared to the Cr treatments alone. Collectively, our results provide an insight into the protective role of H2S in Cr-stressed cauliflower and suggest H2S as a potential candidate in reducing Cr toxicity in cauliflower and other crops.},
+   notes = {Ahmad, Rehan Ali, Shafaqat Rizwan, Muhammad Dawood, Muhammad Farid, Mujahid Hussain, Afzal Wijaya, Leonard Alyemeni, Mohammed Nasser Ahmad, Parvaiz
+Ali, Shafaqat/G-3298-2017; Farid, Mujahid/AAG-7154-2020; Rizwan, Muhammad/B-5649-2018; Ahmad, Parvaiz/D-2887-2009
+Ali, Shafaqat/0000-0003-0272-7097; Farid, Mujahid/0000-0003-0092-6666; Rizwan, Muhammad/0000-0002-3513-2041; Ahmad, Parvaiz/0000-0003-2734-4180; Dawood, Muhammad/0000-0002-8642-2735
+1399-3054},
+   url = {<Go to ISI>://WOS:000478697400001},
+
+}
+
+@article{Journal Article,
+   author = {Albero, B. and Tadeo, J. L. and Del Mar Delgado, M. and Miguel, E. and Pérez, R. A.},
+   year = {2019},
+   title = {Analysis of multiclass antibiotics in lettuce by liquid chromatography-tandem mass spectrometry to monitor their plant uptake},
+   journal = {Molecules},
+   volume = {24},
+   issue = {22},
+   DOI = {10.3390/molecules24224066},
+   article_number = {molecules24224066},
+   keywords = {Compost
+Dispersive solid-phase extraction (dSPE)
+Lettuce
+Liquid chromatography-tandem mass spectrometry
+Pharmaceuticals
+Ultrasonic assisted extraction (UAE)
+Veterinary antibiotics},
+   abstract = {The main entry routes of antibiotics in the environment are the application of organic wastes to improve soil quality and the irrigation with recycled water. Once in the environment, antibiotics can be introduced in the food chain through their uptake by crops. This paper describes the development of an analytical method based on ultrasound-assisted extraction for the determination of seven antibiotics in lettuce. The developed method was applied to evaluate antibiotic uptake by lettuce grown in pots fertilized with composted poultry litter doped with a mixture of antibiotics to reach a final concentration of 2.5 μg/g in soil. Lettuce were harvested after 21, 36, and 55 days. Five of the seven studied antibiotics were found in all samples. The highest uptake was found for lincomycin (51 ng/g fresh weight) followed by sulfamethoxazole (44 ng/g fresh weight) and sulfamethazine (21 ng/g fresh weight) in lettuce harvested after 21 days. An important decrease of their levels was observed after 36 days, but these levels remained similar after 55 days. Although levels found in lettuce were low, the presence of antibiotics demonstrates the need for further assessing food safety risks related with the use of soil amendments or irrigation water contaminated with antibiotics. © 2019 by the authors.},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074957853&doi=10.3390%2fmolecules24224066&partnerID=40&md5=67e22639aed513fcd04e530c0099552d},
+   address = {Departamento de Medio Ambiente y Agronomía, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA), Ctra. de la Coruña Km. 7, Madrid, 28040, Spain},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Amir, R. M. and Randhawa, M. A. and Nadeem, M. and Ahmed, A. and Ahmad, A. and Khan, M. R. and Khan, M. A. and Kausar, R.},
+   year = {2019},
+   title = {Assessing and Reporting Household Chemicals as a Novel Tool to Mitigate Pesticide Residues in Spinach (Spinacia oleracea)},
+   journal = {Scientific Reports},
+   volume = {9},
+   issue = {1},
+   DOI = {10.1038/s41598-018-37936-2},
+   article_number = {1125},
+   abstract = {Non-selective use of pesticide to increase productivity leaves residues on crops. These pesticides after consumption have a detrimental effect on human health and their intake can lead to various diseases such as kidney damage, neurological disorders, cardiovascular diseases, circulatory and reproductive problems. The recent study was designed to assess the effects of household processing treatments such as acidic solutions (acidic acid and citric acid), alkaline solutions (sodium chloride and sodium carbonate) and biological solutions (radish, ginger, garlic, and lemon extracts) were evaluated for their efficiency for removal of pesticides in spinach by gas chromatography with electron capture detector (GC-ECD). The results showed that pesticide residues were sharply reduced when spinach was exposed to washing treatments. The results showed that the greatest reduction of deltamethrin, cypermethrin, chlorpyrifos and endosulfan with 10% acetic acid was (79.68 ± 0.81%), (89.99 ± 0.12%), (94.21 ± 0.02%) and (70.32 ± 0.25%), respectively of tested washing solutions. The acidic solutions were more effective than alkaline and biological extracts in the removal of pesticide residues. The average reduction in various washing solutions ranged from 10.21 to 79.68%, 22.60 to 89.48%, 22.95 to 94-21% and 11.24–70.32% for the removal of deltamethrin, cypermethrin, chlorpyrifos, and endosulfan, respectively. © 2019, The Author(s).},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061037361&doi=10.1038%2fs41598-018-37936-2&partnerID=40&md5=631a16341e0d15ad6b8e0db4d563fe90},
+   address = {Institute of Food and Nutritional Sciences, PMAS-Arid Agriculture University, Rawalpindi, Pakistan
+National Institute of Food Science and Technology, University of Agriculture, Faisalabad, Pakistan
+Department of Environmental Sciences, COMSATS University Islamabad, Vehari Campus, Pakistan
+University of Agriculture Faisalabad, Sub-campus, Burewala/Vehari, Pakistan
+Department of Environmental Science, International Islamic University, Islamabad, Pakistan},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Antisari, L. V. and Bini, C. and Ferronato, C. and Gherardi, M. and Vianello, G.},
+   title = {Translocation of potential toxic elements from soil to black cabbage (Brassica oleracea L.) growing in an abandoned mining district area of the Apuan Alps (Tuscany, Italy)},
+   journal = {Environmental Geochemistry and Health},
+   ISSN = {0269-4042},
+   DOI = {10.1007/s10653-019-00443-y},
+   accession_number = {WOS:000492939000002},
+   abstract = {In the Apuan Alps (Tuscany, Italy), long-lasting mining activities have favored the mobilization of numerous metals present in sulfosalts originated from low-grade metamorphism mineralization. Such materials, rich in potentially toxic elements such as antimony, arsenic, barium, copper, lead, thallium, tin and zinc, represent the substrate on which soils of different thicknesses have been formed and is currently used for agricultural activities. High concern is particularly arising about the food safety due to traditional horticultural practices, since it is very common in this area to cultivate vegetables in private gardens for both self-consuming and/or local market. In this context, a monitoring survey on both soils and vegetables was performed over the area, with particular attention to Brassica oleracea L. as traditional food crop, to assess the degree of contamination of the area, the possible translocation to vegetables and the potential human risk linked to vegetable ingestion. This analysis reveals a different degree of soil contamination in the area and a general high human risk linked to cabbage cultivation and ingestion in the whole area.},
+   notes = {Antisari, Livia Vittori Bini, Claudio Ferronato, Chiara Gherardi, Massimo Vianello, Gilmo
+Ferronato, Chiara/0000-0001-5359-1551
+1573-2983},
+   url = {<Go to ISI>://WOS:000492939000002},
+
+}
+
+@article{Journal Article,
+   author = {Awasthi, M. K. and Wang, Q. and Chen, H. Y. and Liu, T. and Awasthi, S. K. and Duan, Y. M. and Varjani, S. and Pandey, A. and Zhang, Z. Q.},
+   year = {2019},
+   title = {Role of compost biochar amendment on the (im)mobilization of cadmium and zinc for Chinese cabbage (Brassica rapa L.) from contaminated soil},
+   journal = {Journal of Soils and Sediments},
+   volume = {19},
+   issue = {12},
+   pages = {3883-3897},
+   date = {Dec},
+   ISSN = {1439-0108},
+   DOI = {10.1007/s11368-019-02277-8},
+   accession_number = {WOS:000505160200002},
+   abstract = {Purpose This study aims to assess the effect of amendment of an alkaline Zn, Cd-contaminated soil with compost of wheat straw biochar (CB) (4, 8, 12, and 18%) and sludge and different dosages of nitrogen. In addition, this study aimed to substantially mitigate the bioavailability of Zn and Cd for Chinese cabbage (Brassica rapa L.) from smelter-contaminated soils. Materials and methods This study was based on Chinese cabbage (B. rapa L.) growth for phytoremediation of soil toxic metals (TMs) (Zn and Cd) in different dosages of CB nitrogen (50, 150, 250, and 300 kg ha(-1)) and soil (T1) alone as well as different nitrogen dosages (50-T18, 150-T19, 250-T20, and 300-T21 kg ha(-1)) of chemical fertilizer (CF). The total and bioavailability of Zn and Cd were measured in shoot and root dryweight biomass, and soil in initial and after harvesting of Chinese cabbage. The chlorophyll content, pH, electrical conductivity, cation exchange capacity, and dissolved organic carbon content were measured to understand their role for plant growth and bioavailability of Zn and Cd. The phytoremediation of Zn and Cd was estimated by diethylene triamine pentaacetic acid (DTPA)-extractable method using smelter-contaminated soils amended with four different dosages of biochar. Results and discussion The CB application considerably reduced the DTPA-extractable Zn from contaminated soils, while in comparison to the control and CF treatment evidently mobilized the Zn in soil by approximately 4.17%. The maximum solubility of Zn of 23.46 and 26.78% was obtained with the control and CF-applied treatments in soils, respectively. The DTPA-extractable Cd concentration became elevated with increasing CB dosage, and a significantly higher Cd concentration was recorded in T6 compared to the control and chemical fertilizer-applied treatments. In the cases of higher dosages of CB, the Zn translocation in plants from soil was evidently reduced, but a lower CB amendment increased Zn levels by 5.15% in the shoot and 4.78% in the root, respectively. The changes in the soil EC, pH, and CEC by the amendment of CB could be the main reasons for the (im)mobilization of TMs in contaminated soil. Conclusions Finally, the results confirmed that the CB amendment, especially with 300 kg ha(-1) nitrogen, could reduce maximum bioavailability of Zn and Cd and the ecological risk of contaminated soil with TMs.},
+   notes = {Awasthi, Mukesh Kumar Wang, Quan Chen, Hongyu Liu, Tao Awasthi, Sanjeev Kumar Duan, Yumin Varjani, Sunita Pandey, Ashok Zhang, Zengqiang
+4th International Conference on Contaminated Land, Ecological Assessment and Remediation (CLEAR) - Green and Sustainable Land Remediation
+Aug 16-18, 2018
+Hong Kong Polytechn Univ, Hong Kong, HONG KONG
+Educ Univ Hong Kong, Korea Univ, Hong Kong Polytechn Univ, Dept Civil & Environm Engn, Chulalongkorn Univ, Hongkong Elect, Seoul Natl Univ, WSP Ltd
+Pandey, Ashok/0000-0003-1626-3529; Zhang, Zengqiang/0000-0002-6860-9328
+1614-7480
+Si},
+   url = {<Go to ISI>://WOS:000505160200002},
+
+}
+
+@article{Journal Article,
+   author = {Bai, L. and Ji, H. and Sun, W. and Huang, M. and Liu, K. and Li, L. and Yan, D.},
+   year = {2019},
+   title = {Morphological transformation and migration of heavy metals (Pb, Cr and Cu) in coal ash applied to the soil-Chinese cabbage system},
+   journal = {Acta Pedologica Sinica},
+   volume = {56},
+   issue = {3},
+   pages = {712-722},
+   DOI = {10.11766/trxb201807250344},
+   keywords = {Coal ash
+Enrichment coefficient
+Heavy metal form
+Transfer coefficient},
+   abstract = {【Objective】So far little has been reported in the literature about morphological transformation of heavy metal elements in coal ash applied as soil amendment and hazards of long-term application of the coal ash to the soil environment and human health, though a quite number of researchers reported that application of coal ash in agriculture is of positive significance. However, statistics of the literatures both at home and abroad indicates that most of their conclusions were based on cultivation of only one crop and analysis of yield and quality of the crop. Therefore, this paper aimed to explore transformation, migration and concentration trend of Pb, Cr and Cu in the soil-Chinese cabbage system under long-term continuous cultivation, in an attempt to provide a certain theoretical basis and support with data for use of coal ash as amendment in agriculture and ecological environment.【Method】Chinese cabbage was cultivated for four consecutive seasons in pots of brown soil amended with coal ashes different in particle size, i.e. fine coal ash collected with a bag-type dust remover and coarse coal ash collected from a boiler furnace and different in rate, separately. In this project, samples of the soils mixed with coal ash were collected for analyses of chemical fractions of heavy metals (Cr, Cu and Pb) by following the three-step sequential extraction procedure laid down by the EC Reference Bureau (BCR). Contents of heavy metals (Cr, Cu and Pb) in the roots and edible parts of the cabbage were also determined for calculation of enrichment coefficients and transfer coefficients of the heavy metals in the Chinese cabbage and for analysis of migration behavior and bioavailability of the heavy metals in the Chinese cabbage. 【Result】Contents of HOAc(acetic acid) soluble fractions of Pb and Cr in different coal ash treatments were measured, displaying an order of 150 g·kg -1 coarse coal ash &gt; 150 g·kg -1 fine coal ash &gt; 50 g·kg -1 coarse coal ash &gt; 50 g·kg -1 fine coal ash &gt; CK, which indicates that both application rate and particle size of coal ash affected the fraction of HOAc soluble Pb or Cr in content. Analysis of distributions of Pb, Cr and Cu relative to form in the soil exhibits an order of residual fraction &gt; reducible fraction/oxidable fraction &gt; HOAc soluble fraction. All the findings demonstrate that Pb, Cr and Cu remains mainly as residue in the treated soils, and their contents decrease with the cultivation going on season by season. The fraction of extractable Pb and Cr accounted for 150 g·kg -1 or more, and that of HOAc soluble ones increased with the cultivation going on season by season. However, both the fractions of extractable Pb and Cr accounted for 55% or more, and the fraction of HOAc soluble ones decreased with the cultivation going on season by season. Heavy metal enrichment ability of the plant varied in the order of Cu &gt; Cr &gt; Pb, all of which were lower than the threshold value of 1. Therefore, compared with Pb and Cr, Cu was higher in bioavailability. The contents of heavy metals in the root of Chinese cabbage were lower than their respective ones in the edible part, and their transfer coefficients were all &gt; 1. Their transfer capacity was in the order of Cr &gt; Cu &gt; Pb, so the migration ability of Cr in Chinese cabbage was higher than the other two. 【Conclusion】With the plant growing on, contents of the heavy metal residues in the treated soils decrease gradually, while contents of the HOAc soluble fractions increase gradually, indicating that the residues become HOAc soluble. The organic acids secreted from roots of the Chinese cabbage activate the coal ash applied to soil, thus making the heavy metals in the soil gradually transform from residual form into potentially available form and/or HOAc soluble form, thereby enhancing bioavailability of the heavy metals gradually. Although the heavy metal enrichment coefficients of the Chinese cabbage are low, the heavy metal transfer coefficients are high, which will pose a safety hazard with th edible part of the Chinese cabbage. © 2019 Science Press. All rights reserved.},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064410096&doi=10.11766%2ftrxb201807250344&partnerID=40&md5=4daf8ace66f93eeeba8d2f40097336ab},
+   address = {College of Environmental Science and Engineering, Qingdao University, Qingdao，Shandong, 266071, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Bakhat, H. F. and Rasul, K. and Farooq, A. B. U. and Zia, Z. and Natasha and Fahad, S. and Abbas, S. and Shah, G. M. and Rabbani, F. and Hammad, H. M.},
+   year = {2019},
+   title = {Growth and physiological response of spinach to various lithium concentrations in soil},
+   journal = {Environmental Science and Pollution Research},
+   DOI = {10.1007/s11356-019-06877-2},
+   keywords = {Antioxidant enzymes
+Lithium
+Physiological attributes
+Spinach
+Toxicity},
+   abstract = {Lithium (Li) exploitation for industrial and domestic use is resulting in a buildup of the element in various environmental components that results in potential toxicity to living systems. Therefore, a soil culture experiment was conducted to evaluate the effects of increasing concentration of Li (0, 20, 40, 60, and 80 mg kg−1 soil) on spinach growth, the effects of Li uptake, and its effects on various physiological attributes of the crop. The results showed that lower levels of Li in soil (20 mg Li kg-1) improve the growth of spinach plants, while a higher concentration of applied Li enhanced the pigment contents. Higher concentrations of Li in soil interfered with potassium and calcium uptake in plants. Moreover, increasing Li concentration resulted in higher activities of antioxidant enzymes activity in spinach shoots. From these results, it is concluded that spinach shoot accumulated higher concentrations of Li without showing any visual toxicity symptoms. Therefore, the study concludes that Li ion was mostly deposited in leaves rather than in roots which may cause potential human health risk on the consumption of Li-contaminated plants. Therefore, the cultivation of leafy vegetables in Li-affected soils should be avoided to reduce the potential human health risks. © 2019, Springer-Verlag GmbH Germany, part of Springer Nature.},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075121446&doi=10.1007%2fs11356-019-06877-2&partnerID=40&md5=49e68f47af6d33a951149570814697f7},
+   address = {Department of Environmental Sciences, COMSATS University Islamabad, Vehari-Campus, Islamabad, 61100, Pakistan
+Department of Agriculture, University of Swabi, Khyber Pakhtunkhwa, Pakistan
+College of Plant Science and Technology, Huazhong Agriculture University, Wuhan, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Chen, L. and Wu, C. and Xu, M. and Cang, T. and Wang, X. and Zhao, X. and Zhang, C.},
+   year = {2020},
+   title = {Assessment of Carbendazim Residues and Safety in Celery Under Different Cultivation Conditions},
+   journal = {Bulletin of Environmental Contamination and Toxicology},
+   DOI = {10.1007/s00128-020-02785-1},
+   keywords = {Carbendazim
+Celery
+Pesticide residue
+Safety},
+   abstract = {Although the carbendazim is widely used to manage spot blight in celery cultivation, information on residues identified is of interest. In this study, we examined the dissipation and residual amounts of carbendazim in celery and soil under different cultivation methods when using the suggested dose and ten times of that and the bioconcentration factor of carbendazim for celery. The results showed that when celery leaves were sprayed with the suggested dose, the half-lives in a celery field and greenhouse were 2.75 days and 3.29 days, respectively. When the soil matrix was sprayed with the recommended dose before cultivation, the half-lives of carbendazim residues were 16.86 days and 11.97 days. We also conducted a long-term dietary risk assessment using the corresponding criteria. The results showed that, in China, the use of carbendazim at a dose of 0.022 g/m2 is safer and more reasonable when the harvest interval is 28 days. © 2020, Springer Science+Business Media, LLC, part of Springer Nature.},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078615751&doi=10.1007%2fs00128-020-02785-1&partnerID=40&md5=6520126c7f343818c14c9e1517049b93},
+   address = {MOA Key Lab for Pesticide Residue Detection, Institute of Quality and Standard for Agro-Products, Zhejiang Academy of Agricultural Sciences, No. 298 Desheng Middle Road, JiangGan District, Hangzhou, Zhejiang 310021, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Chen, Q. and Liu, Y. and Xiao, L. J. and Zou, D. Y. and Liu, H. X. and Wu, H. H.},
+   year = {2020},
+   title = {Simultaneous Quantitative Detection of Thirteen Common Antibiotics in Leafy Vegetables by Ultra-High Performance Liquid Chromatography-Tandem Mass Spectrometry},
+   journal = {Huanjing Kexue/Environmental Science},
+   volume = {41},
+   issue = {2},
+   pages = {952-961},
+   DOI = {10.13227/j.hjkx.201907101},
+   keywords = {Antibiotics
+Detection methods
+Leafy vegetables
+Mass spectrometry
+Ultra-high performance liquid chromatography},
+   abstract = {An analytical approach was developed to simultaneously determine 13 antibiotics in sulfonamides, quinolones, and macrolides in leafy vegetables by ultra-performance liquid chromatography coupled with triple quadrupole mass spectrometry (UPLC-MS/MS). After optimizing extracted solutions, purification methods, and eluents of antibiotics in vegetable substrates, and taking into account the influence of environmental changes and experimental conditions on the results, the optimal experimental scheme was determined. This involved ①weighing 500 mg of vegetable samples and adding 20 mL of methanol-Mcllvaine- Na2EDTA solution; ② conducting ultrasonic and centrifugal extraction three times; ③ Allowing rotary evaporation to 20 mL to pass a HLB solid phase extraction column; ④ Eluting the extraction column using 6 mL of methanol, upon which the eluent was dried almost completely; ⑤ Re-dissolving the eluent with a mixed solution of acetonitrile: water (volume ratio of 2: 8); ⑥ Detecting by UPLC-MS/MS after centrifugation and filtering. Phase A and B of UPLC-MS/MS used an aqueous solution of 1‰ formic acid and acetonitrile, respectively to conduct gradient elution. Results showed that when the pakchoi spiked at 300 ng•g-1, the spiked recoveries of 13 antibiotics were 38.05%-96.97%. At 150 ng•g-1, the spiked recoveries were 34.52%-111.10%. At 50 ng•g-1, the recoveries of standard addition were 41.75%-107.13%, and the relative deviation (RSD) values were all below 8.68%. The detection limit was 0.4-1 ng•g-1, and the limit of quantification was 1.5-3 ng•g-1. This demonstrated good extraction and recovery efficiency on different types of leafy vegetables, and presented a good analytical application effect. The antibiotic residues were detected in four kinds of leafy vegetables in found in markets. The total content ranged from 1.59 ng•g-1 to 32.01 ng•g-1, and the antibiotic content in samples was calculated by dry weight. The content of antibiotics in pakchoi was the highest, followed by Chinese cabbage, lettuce, and coriander. Among the antibiotics detected, sulfadimidine was the most abundant from the selected leafy vegetables. The content of antibiotics was very low, however the potential health risks caused by long-term consumption could not be ignored. © 2020, Science Press. All right reserved.},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078506430&doi=10.13227%2fj.hjkx.201907101&partnerID=40&md5=0d2cbc7cd0d92224e2842b85026caf8a},
+   address = {College of Horticulture and Landscape, Tianjin Agricultural University, Tianjin, 300384, China
+College of Agronomy & Resources and Environment, Tianjin Agricultural University, Tianjin, 300384, China
+Tianjin Institute of Plant Protection, Tianjin, 300384, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Elgueta, S. and Fuentes, M. and Valenzuela, M. and Zhao, G. and Liu, S. and Lu, H. and Correa, A.},
+   year = {2019},
+   title = {Pesticide residues in ready-to-eat leafy vegetables from markets of Santiago, Chile, and consumer’s risk},
+   journal = {Food Additives and Contaminants: Part B Surveillance},
+   volume = {12},
+   issue = {4},
+   pages = {259-267},
+   DOI = {10.1080/19393210.2019.1625975},
+   keywords = {official methodology
+pesticide residues
+Ready-to-eat vegetables},
+   abstract = {The detection of pesticide residues in leafy vegetables has been a relevant concern in Chile over the last years. There is also a priority at the national level to propose a methodology to assess health risks. The aim of this study was to evaluate the presence of pesticide residues in ready-to-eat leafy vegetables in order to evaluate different models for health risk assessment. The models considered data of the World Health Organization (WHO) and the Ministry of Health of Chile (MINSAL). The Hazard Quotients and Hazard Indexes for the pesticides evaluated in all models decreased in the following order: methamidophos>lambda-cyhalothrin> chlorpyrifos. From a food safety perspective, the investigated samples suggest the presence of a greater health risk to consumers when compared using the official data of MINSAL, which needs appropriate attention. © 2019, © 2019 Informa UK Limited, trading as Taylor & Francis Group.},
+   notes = {Cited By :1
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067571418&doi=10.1080%2f19393210.2019.1625975&partnerID=40&md5=d18cfa9175abd661acb09ae60b250ff9},
+   address = {Laboratory of Pesticide Residues and Environment, Instituto de Investigaciones Agropecuarias, Santiago, Chile
+Facultad de Veterinaria y Agronomía, Universidad de Las Américas, Santiago, Chile
+Plymouth Business School, University of Plymouth, Plymouth, United Kingdom},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Elgueta, S. and Valenzuela, M. and Fuentes, M. and Meza, P. and Manzur, J. P. and Liu, S. and Zhao, G. and Correa, A.},
+   year = {2020},
+   title = {Pesticide residues and health risk assessment in tomatoes and lettuces from farms of metropolitan region Chile},
+   journal = {Molecules},
+   volume = {25},
+   issue = {2},
+   DOI = {10.3390/molecules25020355},
+   article_number = {355},
+   keywords = {Hazard Quotient HQ
+Health risk assessment
+Maximum Residue Levels (MRL)
+Methamidophos
+Methomyl
+Metropolitana Region of Chile},
+   abstract = {Over the last years, the detection of pesticide residues in the official food surveillance programs of Chile has been increased, mainly in fresh vegetables such as tomatoes and lettuces. The Metropolitana Region of Chile presents the highest detections in the country. The lack of evaluations of toxicological risks in human health have increased uncertainty of the potential effects of pesticides exposures in the Chilean population. This research aims to determinate health risks assessment of pesticide residues associated to tomatoes and lettuces produced in Metropolitana Region. The findings of this study reveal that tomatoes and lettuces cultivated in the MR show more than 50% of samples with one or multiple pesticides residues. From the total samples, 16% were over the Chilean Maximum Residue Levels (MRLs). The main pesticides detected in tomatoes and lettuces were methamidophos, methomyl, difenoconazole, cyprodinil and boscalid. The results obtained using the official data of the Ministry of Health of Chile (MINSAL) compared to the World Health Organization (WHO), describe relevant risks through the Estimated Daily Intakes (EDI), Hazard Quotients (HQ) and Hazard Index (HI) for the Chilean population due to high concentrations of methamidophos, methomyl and cyprodinil. More restrictions for the use of methamidophos, methomyl, difenoconazole, cyprodinil and boscalid and effective control programs should be implemented in order to mitigate the impacts on the Chilean population. © 2020 by the authors. Licensee MDPI, Basel, Switzerland.},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077978272&doi=10.3390%2fmolecules25020355&partnerID=40&md5=90ba26b8af00f3f89b0aa007c63d86b7},
+   address = {Laboratory of Pesticide Residues and Environment, Instituto de Investigaciones Agropecuarias, INIA Centro Regional la Platina, Santiago, 8820000, Chile
+Núcleo de Investigaciones Aplicadas en Ciencias Veterinarias y Agronómicas, Universidad de Las Américas, Sede Providencia, Santiago, 7500000, Chile
+Department of Plant Health and Vegetables, Instituto de Investigaciones Agropecuarias, INIA Centro Regional la Platina, Santiago, 8820000, Chile
+Plymouth Business School, University of Plymouth, Drake Circus, Plymouth, PL4 8AA, United Kingdom},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Garcia, M. G. and Fernandez-Lopez, C. and Bueno-Crespo, A. and Martinez-Espana, R.},
+   year = {2019},
+   title = {Extreme learning machine-based prediction of uptake of pharmaceuticals in reclaimed water-irrigated lettuces in the Region of Murcia, Spain},
+   journal = {Biosystems Engineering},
+   volume = {177},
+   pages = {78-89},
+   date = {Jan},
+   ISSN = {1537-5110},
+   DOI = {10.1016/j.biosystemseng.2018.09.006},
+   accession_number = {WOS:000456352500008},
+   abstract = {The availability of water resources is limited, and rising consumption has increased pressure on natural resources. Therefore, reclaimed water represents an alternative option for use in urban areas, industry and, in particular, agriculture. Recent research has shown that some pharmaceutical compounds are not fully removed by wastewater treatment plants (WWTPs) and may eventually be released into agricultural systems through the application of wastewater-based resources (sludge and effluent). The present study develops an intelligent expert system (based on a feed forward neural network trained via an extreme learning machine algorithm) for predicting the carbamazepine (CBZ) and diclofenac (DCF) content in lettuce tissues irrigated with reclaimed water from WWTPs. This reduces laboratory costs, mitigates the negative impacts on the environment and leads to more effective, safer decisions on the use of reclaimed water in agriculture. The results obtained, which were validated through statistical testing, demonstrate that the intelligent expert system is well calibrated and reliable. Finally, this system was used to predict maps of CBZ and DCF accumulation in lettuce crops if they were watered with effluent from 10 WWTPs located in the Region of Murcia (Spain). In conclusion, our system provides highly accurate predictions of the amount of CBZ and DCF contained in different lettuce tissues (roots and leaves) and the predicted concentrations do not present any health risk. (C) 2018 IAgrE. Published by Elsevier Ltd. All rights reserved.},
+   notes = {Gonzalez Garcia, Mariano Fernandez-Lopez, Carmen Bueno-Crespo, Andres Martinez-Espana, Raquel
+Martinez, Raquel/K-8660-2014; Bueno-Crespo, Andres/O-5423-2016; Bueno-Crespo, Andres/AAB-2204-2019; Fernandez-Lopez, Carmen/AAB-5659-2019
+Martinez, Raquel/0000-0002-6750-2203; Bueno-Crespo, Andres/0000-0003-1734-6852; Bueno-Crespo, Andres/0000-0003-1734-6852; Fernandez-Lopez, Carmen/0000-0003-2868-0231
+1537-5129
+Si},
+   url = {<Go to ISI>://WOS:000456352500008},
+
+}
+
+@article{Journal Article,
+   author = {Gong, J. and Zheng, K. and Yang, G. and Zhao, S. and Zhang, K. and Hu, D.},
+   year = {2019},
+   title = {Determination, residue analysis, risk assessment and processing factor of pymetrozine and its metabolites in Chinese kale under field conditions},
+   journal = {Food Additives and Contaminants - Part A Chemistry, Analysis, Control, Exposure and Risk Assessment},
+   volume = {36},
+   issue = {1},
+   pages = {141-151},
+   DOI = {10.1080/19440049.2018.1562237},
+   keywords = {Chinese kale
+metabolites
+processing factor
+pymetrozine
+Risk assessment},
+   abstract = {A simple determination method for pymetrozine and its metabolites in Chinese kale was developed using liquid chromatography with tandem mass spectrometry. The method had good linearity (R 2  &gt; 0.99), accuracy (recoveries of 73.2–94.1%) and precision (relative standard deviation of 2.5–9.8%). Field results showed that half-lives of pymetrozine were 3.0–4.1 d in Chinese kale, and terminal residue concentrations were all below the United States Environmental Protection Agency’s maximum residue limit (250 μg/kg) at harvest. Owing to risk quotient &lt;100%, pymetrozine is unlikely to give rise to vital health concerns to humans following the recommended application guidelines. Moreover, effects of home processing on pymetrozine residues in Chinese kale were monitored. The processing factor values of four processes were between 0.19 and 0.60, which indicated that the used processes could remove pymetrozine residues from Chinese kale, especially pickling after washing process. The data could provide guidance to safe and reasonable use of pymetrozine and help Chinese governments establish a maximum residue limit for pymetrozine in Chinese kale. © 2018, © 2018 Taylor & Francis Group, LLC.},
+   notes = {Cited By :2
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059945460&doi=10.1080%2f19440049.2018.1562237&partnerID=40&md5=a5245a310fbbb0e478e36c34b0769671},
+   address = {State Key Laboratory Breeding Base of Green Pesticide and Agricultural Bioengineering, Key Laboratory of Green Pesticide and Agricultural Bioengineering, Ministry of Education, Guizhou University, Guiyang, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Gredelj, A. and Nicoletto, C. and Valsecchi, S. and Ferrario, C. and Polesello, S. and Lava, R. and Zanon, F. and Barausse, A. and Palmeri, L. and Guidolin, L. and Bonato, M.},
+   year = {2020},
+   title = {Uptake and translocation of perfluoroalkyl acids (PFAA) in red chicory (Cichorium intybus L.) under various treatments with pre-contaminated soil and irrigation water},
+   journal = {Science of the Total Environment},
+   volume = {708},
+   DOI = {10.1016/j.scitotenv.2019.134766},
+   article_number = {134766},
+   keywords = {Bioaccumulation
+Environmental fate
+Perfluoroalkyl substances (PFASs)
+Sorption coefficient},
+   abstract = {Perfluoroalkyl acids (PFAAs), particularly short-chained ones, have high potential for crop uptake, posing a threat to human health in contaminated areas. There is a scarcity of studies using contaminated water as the medium for PFAAs delivery to crops, and a lack of data on the partitioning of PFAA mixtures in growing media. In this context, a controlled experimental study was carried out in a greenhouse to investigate the uptake of a PFAA mixture into red chicory, a typical crop from a major PFAA contamination hot-spot in northern Italy, under treatments with environmentally relevant concentrations in spiked irrigation water and soil, separately and simultaneously. To our knowledge, this is the first study involving multiple exposure media and laboratory adsorption/desorption batch tests as a way of assessing the decrease in the bioavailability of PFAAs from soil. Exposure concentrations for each of the 9 utilized PFAAs were 0, 1, 10 and 80 µg/L in irrigation water and 0, 100 and 200 ng/gdw in soil, combined into 12 treatments. The highest bioaccumulation was measured for PFBA in roots (maximum of 43 µg/gdw), followed by leaves and heads of the chicory plants in all treatments, with the concentrations exponentially decreasing with an increasing PFAA chain length in all plant compartments. The use of irrigation water as the delivery medium increased the transport of PFAAs to the aerial chicory parts, long-chain substances in particular. Additionally, the distribution of PFAAs in the soil was assessed by depth and compared with laboratory measured soil-water equilibrium partition coefficients, revealing only partial dependency of PFAAs bioavailability on the adsorption in soil. © 2019 Elsevier B.V.},
+   notes = {Cited By :2
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076057935&doi=10.1016%2fj.scitotenv.2019.134766&partnerID=40&md5=f5607f0875588bffcd87cb29aebafe70},
+   address = {Department of Industrial Engineering, University of Padova, via Marzolo 9, Padova, 35131, Italy
+Department of Agronomy, Food, Natural Resources, Animals and Environment (DAFNAE), University of Padova, Viale dell'Università 16, Legnaro, 35020, Italy
+Water Research Institute – National Research Council of Italy (IRSA-CNR), Via del Mulino 19, Brugherio, MB 20861, Italy
+ARPAV (Regional Environmental Agency of Veneto), Via Lissa 6, 30174 Venezia, Mestre, Italy
+Department of Biology, University of Padova, Via Bassi 58/b, Padova, 35131, Italy},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Jesse, S. D. and Zhang, Y. and Margenot, A. J. and Davidson, P. C.},
+   year = {2019},
+   title = {Hydroponic lettuce production using treated post-hydrothermal liquefaction wastewater (PHW)},
+   journal = {Sustainability (Switzerland)},
+   volume = {11},
+   issue = {13},
+   DOI = {10.3390/su11133605},
+   article_number = {3605},
+   keywords = {Food safety
+Hydroponic
+Pathogens
+PHW
+Wastewater},
+   abstract = {Post-hydrothermal liquefaction wastewater (PHW) is a byproduct of the hydrothermal liquefaction (HTL) process. Previous research indicates that PHW is free of pathogens and contains nutrients needed for crop growth, but may contain metal(loid)s. This study evaluated the ability of differentially treated PHW for effective and safe hydroponic lettuce production. Water containing only hydroponic fertilizer (Source Water 1) had the highest total dry yield of all five treatments; 3.1 times higher than Source Water 2 (diluted PHW with sand filtration), 3.5 times higher than Source Water 3 (diluted PHW with sand + carbon filtration), 2.6 times higher than SourceWater 4 (diluted and nitrified PHW with sand filtration), and 1.3 times higher than Source Water 5 (diluted PHW supplemented with hydroponic fertilizer). Findings also indicated that while PHW was below the US Department of Agriculture Foreign Agriculture Service maximum levels for cadmium, lead, and mercury in food, the concentration of arsenic was 1.6, 2.4, and 2.0 times higher than the maximum level for Source Waters 2, 3, and 4, respectively. There was no detectable E. coli or fecal coliforms in any of the treated PHW. While nitrogen was present in the raw PHW, only 0.03% was NO3-N and NO2-N. Diluted PHW supplemented with hydroponic fertilizer had lower lettuce yield than hydroponic fertilizer alone, indicating a potential non-nutrient inhibition of plant growth by PHW. Therefore, this research demonstrates that treated PHW does not pose a biological contamination risk for lettuce, but may entail levels of arsenic in edible leaf tissues that are in excess of safe levels. Additional treatment of PHW can benefit crop production by allowing crop utilization of a greater fraction of total nitrogen in the raw PHW. © 2019 by the authors.},
+   notes = {Cited By :2
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068658480&doi=10.3390%2fsu11133605&partnerID=40&md5=7f334f26a4c53aa5a52ce817645924a5},
+   address = {Department of Agricultural and Biological Engineering, University of Illinois Urbana-Champaign, 1304W. Pennsylvania Ave., Urbana, IL 61801, United States
+Department of Crop Sciences, University of Illinois Urbana-Champaign, 1102 S. Goodwin Ave., Urbana, IL 61801, United States},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Jia, G. and Zeng, L. and Zhao, S. and Ge, S. and Long, X. and Zhang, Y. and Hu, D.},
+   year = {2019},
+   title = {Monitoring residue levels and dietary risk assessment of pymetrozine for Chinese consumption of cauliflower},
+   journal = {Biomedical Chromatography},
+   volume = {33},
+   issue = {4},
+   DOI = {10.1002/bmc.4455},
+   article_number = {e4455},
+   keywords = {cauliflower
+degradation
+pymetrozine
+residues
+risk assessment
+washing process},
+   abstract = {The present study investigates the occurrence of pymetrozine residues in cauliflower samples obtained from six cauliflower-producing areas of China during fixed time periods in 2017 and estimates the dietary risk of pymetrozine in cauliflower. A liquid chromatography with tandem mass spectrometry method was developed and validated to detect pymetrozine in cauliflower. The samples were extracted using 20 mL of acetonitrile and purified with dispersive solid-phase extraction using C 18 as sorbent. The limit of quantification of pymetrozine was 0.008 mg/kg in cauliflower. The recoveries of the analyte were 82.04–95.18% with RSD &lt;8.45%. The calibration curves for pymetrozine showed good linearities in the concentration range 0.004–2.0 mg/L with determination coefficients (R 2 ) &gt;0.999. Pymetrozine dissipated rapidly in cauliflower with a half-life of &lt;4 days. The terminal residues of pymetrozine were &lt;0.008–0.0881 mg/kg in cauliflower at 7, 10 and 14 days after spraying from six sites. The routine washing process removed about half amount of the pymetrozine in cauliflower; the reduction ratios were 51.0–52.8%. The dietary risk assessment indicated that pymetrozine did not exhibit obvious dietary health risks in cauliflower when good agricultural practices were implemented. © 2018 John Wiley & Sons, Ltd.},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059045330&doi=10.1002%2fbmc.4455&partnerID=40&md5=403e98be9d03d3c5b2ac8c87cba75fd1},
+   address = {State Key Laboratory Breeding Base of Green Pesticide and Agricultural Bioengineering, Key Laboratory of Green Pesticide and Agricultural Bioengineering, Ministry of Education, Guizhou University, Guiyang, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Kamran, M. and Malik, Z. and Parveen, A. and Zong, Y. and Abbasi, G. H. and Rafiq, M. T. and Shaaban, M. and Mustafa, A. and Bashir, S. and Rafay, M. and Mehmood, S. and Ali, M.},
+   year = {2019},
+   title = {Biochar alleviates Cd phytotoxicity by minimizing bioavailability and oxidative stress in pak choi (Brassica chinensis L.) cultivated in Cd-polluted soil},
+   journal = {Journal of Environmental Management},
+   volume = {250},
+   DOI = {10.1016/j.jenvman.2019.109500},
+   article_number = {109500},
+   keywords = {Antioxidants
+Cd bioavailability
+Gas exchange attributes
+Pak choi
+Rice-straw biochar
+Soil remediation},
+   abstract = {The production of leafy vegetables such as Brassica chinensis L. in cadmium (Cd)-polluted soil causes serious threats to human health and food safety around the globe. A pot culture was established to examine the efficacy of rice-straw induced biochar (applied to soil at the rate of 0%, 2.5% and 5%, w/w) on growth, gaseous exchange attributes, antioxidative capacities and Cd uptake in pak choi (Brassica chinensis L.), when soil was spiked with Cd (CdCl2) at 0, 5, 10 and 20 mg kg−1 soil. The results revealed that Cd stress significantly (P &lt; 0.05) reduced plant biomass and physiological attributes, and accumulated higher Cd concentrations in plant tissues with the increasing rate of Cd concentration in the soil. However, incorporation of biochar at 5% application rate prominently increased the shoot (98.27%) and root (85.96%) dry biomass, net photosynthesis (45.52%), transpiration rate (161.34%), stomatal activity (111.76%) and intracellular CO2 concentration (32.25%) when Cd was added at 20 mg kg−1 soil, relative to the respective treatment without biochar. Whereas, incorporation of biochar at 5% significantly reduced the bioavailable Cd by 16.64% under 20 mg kg-1 soil, compared to respective Cd treatment without biochar.Similarly, Cd accumulation in shoots and roots was decreased by 42.49% and 29.23%, and thereby reduced leaf MDA and H2O2 contents by 21.45% and 31.28%, respectively, at 20 mg Cd kg−1 spiked soil relative to without biochar amended soil. An increment was noticed in the activities of guaiacol peroxidase (POD), superoxide dismutase (SOD), ascorbate peroxidase (APX), catalase (CAT) and glutathione (GSH) by 37.31%, 66.35%, 115.94%, 122.72% and 59.96%, respectively, with 5% biochar addition in 20 mg kg−1 Cd spiked soil. Moreover, biochar induced a synergistic impact on plants by increasing soil alkalinization and thereby reducing Cd phytotoxicity throughimmobilization. Overall, results proposed that rice-straw biochar has an ability to restore Cd polluted soil and increased pak choi production and thereby reduced food security risks in polluted soil. © 2019 Elsevier Ltd},
+   notes = {Cited By :8
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85071921854&doi=10.1016%2fj.jenvman.2019.109500&partnerID=40&md5=41151f0aacbd2f4f7902dd779a420967},
+   address = {Key Laboratory of Arable Land Conservation (Middle and Lower Reaches of Yangtze River), Ministry of Agriculture, Huazhong Agricultural University, Wuhan, 430070, China
+Department of Soil Science, University College of Agriculture and Environmental Sciences, The Islamia University of Bahawalpur, Bahawalpur, 63100, Pakistan
+Zhejiang Provincial Key Laboratory of Agricultural Resources and Environment, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou, 310058, China
+Centre of Integrated Research in Basic Sciences, International Islamic University, Islamabad, 44000, Pakistan
+Department of Soil Science, Faculty of Agricultural Sciences and Technology, Bahauddin Zakariya University, Multan, 60800, Pakistan
+National Engineering Laboratory for Improving Quality of Arable Land, Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences, Beijing, 100081, China
+Department of Soil and Environmental Sciences, Ghazi University, Dera Ghazi Khan, 32200, Pakistan
+Department of Forestry and Wildlife, University College of Agriculture and Environmental Sciences, The Islamia University of Bahawalpur, Bahawalpur, 63100, Pakistan
+Department of Environmental Science and Engineering, Guangzhou University, Guangzhou, 510006, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Kavcic, A. and Budic, B. and Vogel-Mikus, K.},
+   year = {2020},
+   title = {The effects of selenium biofortification on mercury bioavailability and toxicity in the lettuce-slug food chain},
+   journal = {Food and Chemical Toxicology},
+   volume = {135},
+   date = {Jan},
+   ISSN = {0278-6915},
+   DOI = {10.1016/j.fct.2019.110939},
+   article_number = {110939},
+   accession_number = {WOS:000509791400076},
+   abstract = {The effects of foliar Se biofortification (Se+) of the lettuce on the transfer and toxicity of Hg from soil contaminated with HgCl2 (H) and soil collected near the former Hg smelter in Idrija (I), to terrestrial food chain are explored, with Spanish slug as a primary consumer. Foliar application of Se significantly increased Se content in the lettuce, with no detected toxic effects. Mercury exerted toxic effects on plants, decreasing plant biomass, photochemical efficiency of the photosystem II (Fv/Fm) and the total chlorophyll content. Selenium biofortification (Se+ test group) had no effect on Hg bioaccumulation in plants. In slugs, different responses were observed in H and I groups; the I/Se+ subgroup was the most strongly affected by Hg toxicity, exhibiting lower biomass, feeding and growth rate and a higher hepatopancreas/muscle Hg translocation, pointing to a higher Hg mobility in comparison to H group. Selenium increased Hg bioavailability for slugs, but with opposite physiological responses: alleviating stress in H/Se+ and inducing it in I/Se+ group, indicating different mechanisms of Hg-Se interactions in the food chain under HgCl2 and Idrija soil exposures that can be mainly attributed to different Hg speciation and ligand environment in the soil.},
+   notes = {Kavcic, Anja Budic, Bojan Vogel-Mikus, Katarina
+Vogel-Mikus, Katarina/J-6615-2013
+Vogel-Mikus, Katarina/0000-0003-3430-1779
+1873-6351},
+   url = {<Go to ISI>://WOS:000509791400076},
+
+}
+
+@inbook{Book Section,
+   author = {Kavvadias, V. and Vavoulidou, E. and Paschalidis, C.},
+   year = {2019},
+   title = {Heavy metal accumulation in soil and in leafy vegetables: Cabbage},
+   book_title = {Advances in environmental research. volume 68},
+   pages = {45-71},
+   keywords = {Cabbage
+Heavy metals
+Leafy vegetables
+Soil},
+   abstract = {Many of heavy metals are essential micronutrients for higher organisms and for plant growth. However, at higher concentrations, they can lead to phytotoxicity and can also have adverse effects on human health. Although leafy vegetables, including cabbage, have high nutritional value they also contribute to heavy metals consumption. Consumption of leafy vegetables with toxic amounts of heavy metals might cause serious health risks. On the other hand, the cabbage's ability to remove and accumulate heavy metals allows it to be used as accumulator plant for the remediation of heavy metals from contaminated soils. Nevertheless, when compared to other leafy vegetables it can be considered as a poor accumulator. This could be explained by the fact that metals were probably immobilized through their pathway from the roots and hence, their concentration was minimized in the above ground plant part. Nevertheless, the monitoring of metal levels in plants is essential for preventing their excessive build-up in the food cycle. Research is still required to explain complex interactions of soil properties and their effects on crop yield, metal absorption by roots and translocation to the edible parts of plant. The specific objective of this work is to review: a) the heavy metal processes that occur in soil and leafy vegetables and particularly in cabbage, and b) the relationships between the soil levels and metal contents in plants. © 2019 by Nova Science Publishers, Inc. All rights reserved.},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077763061&partnerID=40&md5=96f623b39a79a4bc7a3e042dfc7b376b},
+   address = {Hellenic Agricultural Organisation DEMETER, Institute of Soil and Water Resources, Department of Soil Science of Athens, Likovrisi, Attiki, Greece
+Technological Educational Institute of Peloponnese, Kalamata, Greece},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Khan, A. Z. and Ding, X. and Khan, S. and Ayaz, T. and Fidel, R. and Khan, M. A.},
+   year = {2020},
+   title = {Biochar efficacy for reducing heavy metals uptake by Cilantro (Coriandrum sativum) and spinach (Spinaccia oleracea) to minimize human health risk},
+   journal = {Chemosphere},
+   volume = {244},
+   DOI = {10.1016/j.chemosphere.2019.125543},
+   article_number = {125543},
+   keywords = {Crop rotation technique
+Hard wood biochar (HWB)
+Health risk
+Heavy metals (HMs)
+Vegetables},
+   abstract = {Environmentally friendly and cost-effective techniques are required to reclaim land degraded during mining activities. Bioaccumulation of heavy metals (HMs) in vegetables grown on contaminated soils can increase human health risks. The potential effects of hardwood biochar (HWB) was assessed for chromium (Cr), zinc (Zn), copper (Cu), manganese (Mn) and lead (Pb) bioavailability in mine-contaminated soils and their subsequently bioaccumulation in crops and associated health risk. HWB was applied to chromium-manganese mine contaminated soils at the rate of 3% to investigate the efficiency of HWB for the second crop in crop rotation technique. Cilantro (Coriandrum sativum) and spinach (Spinaccia oleracea) were grown as second crop in the same pots which were already used for rice cultivation as first crop (without adding further amendments). Application of HWB decreased the concentrations of Cr, Zn, Cu, Mn, and Pb in cilantro by 25.5%, 37.1%, 42.5%, 34.3%, and 36.2%, respectively as compared to control. In spinach, the reduction in concentrations of Cr was 75.0%, Zn 24.1%, Cu 70.1%, Mn 78.0%, and Pb 50.5% as compared to control. HWB significantly (P < 0.01) reduced the HMs uptake in spinach cultivated in the amended soils as compared to the spinach in control. Bioaccumulation factor results also indicate that HWB decreased the bioaccumulation of selected HMs in cilantro and spinach, thus reducing health risks. Results of the study clearly demonstrate that the use of HWB can significantly reduce HMs in vegetables, associated health risk and improve food quality, therefore can be used as soil amendment for reclamation of mine-degraded soils. © 2019 Elsevier Ltd},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076162876&doi=10.1016%2fj.chemosphere.2019.125543&partnerID=40&md5=8c45b7848a4f79606034c929ec06c792},
+   address = {College of Resources and Environment, Qingdao Agricultural University, Qingdao, 266109, China
+Department of Environmental Sciences, University of Peshawar, Peshawar, 25120, Pakistan
+College of Resources and Environment, Hunan Agricultural University, Changsha, 410128, China
+Soil, Water and Environmental Science Department, University of Arizona, Tucson, AZ85721, United States},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Lanrewaju, O. A. and Longinus, N. K. and Olamilekan, M. Q. and Alex, A. A. and Olalekan, O. O. and Olanrewaju, B.},
+   year = {2019},
+   title = {Heavy metal residue and potential human health risk factors of celosia argentea (lagos spinach) planted in a soil mixed with landfill leachate},
+   journal = {EnvironmentAsia},
+   volume = {12},
+   issue = {1},
+   pages = {74-82},
+   DOI = {10.14456/ea.2019.9},
+   keywords = {Celosia argente
+Heavy metals
+Landfill leachate
+Risk assessment},
+   abstract = {Landfill leachate could constitute significant health impact on human health due to its penetrating tendency and eventual contamination of nearby groundwater. Therefore, assessment of the leachate probable environmental impact is paramount so as to prevent adverse ill-health to man and other living organisms. This study evaluates the heavy metals residue and the potential human health risk assessment factor of Celosia argentea (Lagos spinach) planted on soil mixed with leachate. The concentrations of the heavy metals in the harvested samples were determined with Flame Atomic Absorption Spectrophotometer (AAS). Heavy metals residue in Celosia argentea (Lagos spinach) was highest in soil mixed with 40 ml leachate. The daily intake of metals (DIM) of Zn (0.145 - 0.498 mg/kg) and Ni (0.032 - 0.090 mg/kg) were below the recommended limit while that of Cd (0.048 - 0.161 mg/kg) and Pb (0.158 - 0.341 mg/kg) were above the recommended DIM and the upper tolerable daily level. The health risk indexes (HRI) for Cd, Pb, Zn and Ni from this study were far greater than 1 (HRI > 1) except Cr that is less than 1. Thus, findings revealed that inhabitants may be highly exposed to health risks associated to these metals in the order Pb > Cd > Zn > Ni > Cr and as such people should be advised not to grow vegetables and other edible plants around the location of the dumpsite. Government and Policy makers should sensitize the public on the potential danger of eating heavy metal polluted foods. © 2019, Thai Society of Higher Eduation Institutes on Environment. All rights reserved.},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063476749&doi=10.14456%2fea.2019.9&partnerID=40&md5=ac34fb211d7e9bfad804630efb7d14a2},
+   address = {Environmental Biology Unit, Department of Cell Biology and Genetics, University of Lagos, Lagos, Nigeria
+Graduate School, Chulalongkorn University, Bangkok, 10330, Thailand},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Laughton, S. and Laycock, A. and von der Kammer, F. and Hofmann, T. and Casman, E. A. and Rodrigues, S. M. and Lowry, G. V.},
+   year = {2019},
+   title = {Persistence of copper-based nanoparticle-containing foliar sprays in Lactuca sativa (lettuce) characterized by spICP-MS},
+   journal = {Journal of Nanoparticle Research},
+   volume = {21},
+   issue = {8},
+   DOI = {10.1007/s11051-019-4620-4},
+   article_number = {174},
+   keywords = {Copper nanoparticle
+Environmental issues
+Lettuce
+Nano-enabled agrochemicals
+Nanoparticle fate
+Nanoparticle transformation
+Single particle ICP-MS},
+   abstract = {Copper oxide and hydroxide nanoparticles (Cu-NPs) are components of some commercial pesticides. When these Cu-NPs dissolve in the environment, their size distribution, efficacy, and toxicity are altered. Since acute toxicity screens typically involve pristine NPs, quantification of the transformation of their size distribution in edible leaf vegetables is necessary for accurate consumer risk assessment. Single particle ICP-MS was used to investigate the persistence of three forms of Cu-NPs following foliar application to live lettuce (Lactuca sativa): CuO NP, Cu(OH)2 NP, and Kocide 3000®. A methanol-based digestion method was used to minimize Cu-NP dissolution during extraction from the leaf tissues. After dosing, the NPs associated with the leaf tissues were characterized over a 9-day period to monitor persistence. Nanoparticle counts and total copper mass concentrations remained constant, though the particle size distributions shifted down over time. Washing the leaves in tap water resulted in removal of total copper while the number of Cu-NPs remaining depended on the form applied. This work indicates that washing of lettuce preferentially removed dissolved Cu over Cu-NPs, and that the amount of residual Cu-NPs remaining is low when applied at the recommended rates for Kocide 3000®. © 2019, Springer Nature B.V.},
+   notes = {Cited By :1
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070373906&doi=10.1007%2fs11051-019-4620-4&partnerID=40&md5=c0b59bafac9cff48cfaa607a59e3129d},
+   address = {Department of Civil and Environmental Engineering, Carnegie Mellon University, Pittsburgh, PA 15213, United States
+Center for Environmental Implications of NanoTechnology (CEINT), Carnegie Mellon University, Pittsburgh, PA 15213, United States
+Department of Environmental Geosciences, University of Vienna, Althanstr 14 UZA II, Vienna, 1090, Austria
+Department of Engineering and Public Policy, Carnegie Mellon University, Pittsburgh, PA 15213, United States
+Department of Chemistry & Centre for Environmental and Marine Studies (CESAM), Universidade de Aveiro, Aveiro, 3810-193, Portugal},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {León-Cañedo, J. A. and Alarcón-Silvas, S. G. and Fierro-Sañudo, J. F. and Rodríguez-Montes de Oca, G. A. and Partida-Ruvalcaba, L. and Díaz-Valdés, T. and Páez-Osuna, F.},
+   year = {2019},
+   title = {Mercury and other trace metals in lettuce (Lactuca sativa) grown with two low-salinity shrimp effluents: Accumulation and human health risk assessment},
+   journal = {Science of the Total Environment},
+   volume = {650},
+   pages = {2535-2544},
+   DOI = {10.1016/j.scitotenv.2018.10.003},
+   keywords = {Daily intake
+Health risk assessment
+Heavy metals
+Lactuca sativa
+Lettuce
+Shrimp farming},
+   abstract = {Shrimp farming effluents from two sources of low-salinity water, well water (WW) and diluted seawater (DSW) (salinity, 1.7 g L−1; electrical conductivity, 2.7 dS m−1), were used to grow lettuce (L. sativa) in order to assimilate the nutrients present in shrimp effluents and produce edible biomass. The two treatments, WW and DSW, were tested in triplicate. Additionally, one hydroponic system in triplicate was constructed to grow lettuce using a nutritive solution as the control treatment (HS). The production variables of lettuce in the two crop varieties (Parris Island (VPI) and Tropicana M1 (VTM1)) showed a general trend of DSW &gt; HS &gt; WW with regards to the size, weight and total foliage, except for the number of leaves, which was higher with HS treatment than with WW and DSW treatments. The accumulation of Cu, Hg, Mn and Zn in edible lettuce tissue and the health risk by the intake of lettuce were evaluated. Heavy metal concentrations in edible lettuce tissue for the three treatments showed the same trend of Mn &gt; Zn &gt; Cu &gt; Hg, with concentration ranges of 47.1 to 188.7, 35.7 to 66.2, 4.1 to 6.4, and 0.01 to 0.02 mg kg−1 (dry weight), respectively. Such concentrations did not exceed the safe limits (CAC, 1984). The health risk index and target hazard quotient were &lt;1, which indicates that the population exposed to these metals due to intake from lettuce consumption is unlikely to have adverse health effects when shrimp farming effluents are used to grow lettuce plants. © 2018 Elsevier B.V.},
+   notes = {Cited By :6
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85054321721&doi=10.1016%2fj.scitotenv.2018.10.003&partnerID=40&md5=a062923f19f5c300b2b04d1edbd0df2f},
+   address = {Posgrado en Ciencias Agropecuarias, Colegio de Ciencias Agropecuarias, Universidad Autónoma de Sinaloa, Boulevard San Ángel s/n, Fraccionamiento San Benito, Predio Las Coloradas, Culiacán, Sinaloa 80000, Mexico
+Posgrado en Ciencias en Recursos Acuáticos, Facultad de Ciencias del Mar, Universidad Autónoma de Sinaloa, Av. de los Deportes s/n Ciudad Universitaria, Mazatlán, Sinaloa 82017, Mexico
+Facultad de Ciencias del Mar, Universidad Autónoma de Sinaloa, Paseo Clausen S/N Col. Los Pinos, Mazatlán, Sinaloa 80000, Mexico
+Universidad Tecnológica de Culiacán, Carretera Culiacán-Imala Km 2, Culiacán, Sinaloa 80014, Mexico
+Facultad de Agronomía, Universidad Autónoma de Sinaloa, Km 17.5, Carretera Culiacán-El Dorado, Culiacán, Sinaloa 80000, Mexico
+Unidad Académica Mazatlán, Instituto de Ciencias del Mar y Limnología, Universidad Nacional Autónoma de México, Joel Montes Camarena s/n, Mazatlán, Sinaloa 82040, Mexico
+Miembro de El Colegio de Sinaloa, Mexico},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Li, B. and Yu, S. and Li, G. and Chen, X. and Huang, M. and Liao, X. and Li, H. and Hu, F. and Wu, J.},
+   year = {2019},
+   title = {Transfer of a cyanobacterial neurotoxin, Β-methylamino-L-alanine from soil to crop and its bioaccumulation in Chinese cabbage},
+   journal = {Chemosphere},
+   volume = {219},
+   pages = {997-1001},
+   DOI = {10.1016/j.chemosphere.2018.12.104},
+   keywords = {Bioaccumulation
+Chinese cabbage
+Cyanobacterial neurotoxin
+HPLC-MS
+β-Methylamino-L-alanine},
+   abstract = {Most cyanobacteria can synthesize the notorious neurotoxin β-methylamino-L-alanine (BMAA) that is transferred and bioaccumulated through natural food webs of aquatic ecosystems and ultimately arises the potential human health risks by the consumption of BMAA-contaminated aquatic products. Fertilization of cyanobacterial composts in farmlands may also lead to BMAA contamination in soil and its possible transfer and bioaccumulation within major crops, thereby threatening human health. In this study, we first detected a high level of BMAA (1.8–16.3 μg g−1) in cyanobacterial composts. In order to assess the health risks from cyanobacterial composts, we planted Chinese cabbage, a favourite vegetable in China, in BMAA-contaminated soil (4.0 μg BMAA/g soil) and detected the levels of free and protein-associated BMAA in soil and crop organs during the whole growth cycle by HPLC-MS/MS, respectively. Our results demonstrated that BMAA indeed transferred from soil to root, stem and leaf of Chinese cabbage during the growth cycle. The BMAA level finally accumulated in the edible portions was much higher than the initial level in soil, including 13.82 μg g−1 in leaf and 4.71 μg g−1 in stem. The discovery of the neurotoxin BMAA in this vegetable, an ending in human consumption, not only provides a BMAA transfer pathway in farmland ecosystems, but also is alarming and requires attention due to the potential risk of cyanobacterial composts to human health. © 2018 Elsevier Ltd},
+   notes = {Cited By :4
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059301212&doi=10.1016%2fj.chemosphere.2018.12.104&partnerID=40&md5=9287fb8d547cabcebdfeaa3a9c5615bf},
+   address = {Soil Ecology Lab, College of Resources and Environmental Science, Nanjing Agricultural University, Nanjing, Jiangsu, China
+Center of Analysis and Testing, Nanjing Normal University, Nanjing, Jiangsu, China
+Jiangsu Collaborative Innovation Center for Solid Organic Waste Resource Utilization, Nanjing, Jiangsu, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Li, M. and Xu, G. and Yu, R. and Wang, Y. and Yu, Y.},
+   year = {2020},
+   title = {Uptake and accumulation of pentachloronitrobenzene in pak choi and the human health risk},
+   journal = {Environmental Geochemistry and Health},
+   volume = {42},
+   issue = {1},
+   pages = {109-120},
+   DOI = {10.1007/s10653-019-00305-7},
+   keywords = {In vitro toxicity test
+Nanocarbon
+Pak choi
+PCNB
+Transportation},
+   abstract = {Nowadays, nanocarbon is widely employed to enwrap into fertilizers. However, the influence of nanocarbon on the transportation of contaminants from soil to plants and its mechanism remain unclear. In this study, pentachloronitrobenzene (PCNB), a typical organochlorine fungicide utilized all over the world, was chosen as the target contaminant to investigate the influence of nanocarbon on its transportation in soil-pak choi system. The maximum PCNB concentration in the root and leaf reached to 112 and 86 ng/g, respectively, demonstrating that PCNB would be absorbed by pak choi. The ratio of PCNB between leaf and root indicated that nanocarbon promoted root of pak choi to absorb PCNB. The transportation of PCNB inside plant was inhibited when pak choi was planted in soil containing higher concentration of nanocarbon. Human risk assessment showed that people consuming the pak choi in this study would not experience risk. However, in vitro toxicity test indicated that PCNB could directly impair intestinal epithelial cells (Caco-2 cells) and thus pose a potential risk to human intestine. © 2019, Springer Nature B.V.},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065178380&doi=10.1007%2fs10653-019-00305-7&partnerID=40&md5=f27edb67aab1c26ebed35c97ac30fe91},
+   address = {Key Laboratory of Wetland Ecology and Environment, Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences, Changchun, 130102, China
+University of Chinese Academy of Sciences, Beijing, 100049, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Liao, C. S. and Nishikawa, Y. and Shih, Y. T.},
+   year = {2019},
+   title = {Characterization of Di-n-Butyl phthalate phytoremediation by Garden Lettuce (Lactuca sativa L. var. longifolia) through kinetics and proteome analysis},
+   journal = {Sustainability (Switzerland)},
+   volume = {11},
+   issue = {6},
+   DOI = {10.3390/su11061625},
+   article_number = {1625},
+   keywords = {Biotoxicity
+Di-n-butyl phthalate
+Ecological engineering method
+Garden lettuce
+Oxidative stress
+Phytoremediation
+Proteome},
+   abstract = {Di-n-dutyl phthalate (DBP), an endocrine disruptor, is one of the most widely used phthalate esters (PAEs) in the world. It can be accumulated in seafood or agricultural products and represents a substantial risk to human health via the food chain. Thus, finding a plant which can remediate DBP but have no effects on growth is the main topic of the development of DBP phytoremediation. This study used garden lettuce (Lactuca sativa L. var. longifolia), which has a significant DBP absorption capability, as a test plant to measure phytoremediation kinetics and proteome changes after being exposed to DBP. The results show that DBP accumulated in different parts of the garden lettuce but the physiological status and morphology showed no significant changes following DBP phytoremediation. The optimal condition for the DBP phytoremediation of garden lettuce is one critical micelle concentration (CMC) of non-ionic surfactant Tween 80 and the half-life (t1/2, days), which calculated by first-order kinetics, was 2.686 days for 5 mg L-1 of DBP. This result indicated that the addition of 1 CMC of Tween 80 could enhance the efficiency of DBP phytoremediation. In addition, the results of biotoxicity showed that the median effective concentration (EC50) of DBP for Chlorella vulgaris is 4.9 mg L-1. In this case, the overall toxicity markedly decreased following phytoremediation. In the end, the result of proteome analysis showed six protein spots, revealing significant alterations. According to the information of these proteomes, DBP potentially causes osmotic and oxidative stress in garden lettuce. In addition, since DBP had no significant effects on the morphology and physiological status of garden lettuce, garden lettuce can be recommended for use in the plant anti-DBP toxicity test, and also as the candidate plant for DBP phytoremediation. We hope these findings could provide valuable information for DBP-contaminated water treatment in ecological engineering applications or constructed wetlands. © 2019 by the authors.},
+   notes = {Cited By :1
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063516661&doi=10.3390%2fsu11061625&partnerID=40&md5=17656cc1eb2a0d843dc0c54436fe90eb},
+   address = {Department of Civil and Ecological Engineering, I Shou University, Kaohsiung, 84001, Taiwan
+Institute of Biotechnology and Chemical Engineering, I Shou University, Kaohsiung, 84001, Taiwan
+Department of Food and Human Health Sciences, Graduate School of Human Life Science, Osaka City University, Sugimoto, 558-8585, Japan},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Liu, D. and Lu, L. and Wang, M. and Hussain, B. and Tian, S. and Luo, W. and Zhou, J. and Yang, X.},
+   year = {2019},
+   title = {Tetracycline uptake by pak choi grown on contaminated soils and its toxicity in human liver cell line HL-7702},
+   journal = {Environmental Pollution},
+   volume = {253},
+   pages = {312-321},
+   DOI = {10.1016/j.envpol.2019.06.086},
+   keywords = {Apoptosis
+Bioaccessibility
+Liver injury
+Mitochondria
+Oxidative stress},
+   abstract = {Tetracycline (TC) can enter the human body via the soil-vegetable-human food chain; therefore, it is necessary to understand the toxicity of TC to humans through vegetables grown on contaminated soils. The present study combined an enzyme-linked immunosorbent assay method and an HL-7702 cell model and assessed the bioavailability and toxicity of TC from pak choi (Brassica campestris L. ssp. chinensis) grown on TC-contaminated soils. The results showed that the degradation rate of TC in black soil was significantly higher than that in purplish clay, while the results for TC uptake in pak choi were opposite. The bioaccessibility of TC was found to be higher in pak choi grown on purplish clay (5.67–7.59%) than in that grown on black soil (5.22–6.77%). It is suggested that soil properties contribute to the uptake of TC by pak choi. More fertile soil contained lower TC concentrations and thus mediated lower TC toxicity to humans. It may seem comforting that TC concentrations in the edible parts of pak choi are often found to be below safe limits. However, the TC diagnosis method showed that even moderate increases in TC concentrations in pak choi may induce oxidative stress, liver injury, mitochondrial cristae and rough endoplasmic reticulum swelling, and early apoptosis in liver cells HL-7702. The pak choi grown in purplish clay showed higher TC cytotoxicity than that grown in black soil. The TC cytotoxicity of raw pak choi was found to be higher than that of cooked pak choi. These results provide direct evidence of effective ways to prevent TC toxicity in humans. © 2019 Elsevier Ltd This toxicological study with human liver cells revealed that effective ways to prevent TC toxicity in the human body including eating vegetables grown on fertile soils that have been cooked. © 2019 Elsevier Ltd},
+   notes = {Cited By :1
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068912277&doi=10.1016%2fj.envpol.2019.06.086&partnerID=40&md5=1b217dbe17893e1ba63b0589089f41e5},
+   address = {Ministry of Education Key Laboratory of Environmental Remediation and Ecological Health, College of Environmental and Resource Sciences, Zhejiang University, Zijingang Campus, Hangzhou, 310058, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Meng, Y. and Zhang, L. and Wang, L. Q. and Shangguan, Y. X. and Yang, Y. and Li, X. F. and Li, N.},
+   year = {2019},
+   title = {Cd and As accumulation of several leafy vegetables in soils contaminated by combined heavy metal},
+   journal = {Journal of Plant Nutrition and Fertilizers},
+   volume = {25},
+   issue = {6},
+   pages = {972-981},
+   DOI = {10.11674/zwyf.18277},
+   keywords = {Arsenic
+Cadmium
+Enrichment
+Garland chrysanthemum
+Soil thresholds
+Spinach},
+   abstract = {[Objectives]: The response of vegetable to soil cadmium (Cd) and arsenic (As) stress and their enrichment and tolerance varies significantly. The uptake and accumulation characteristics of Cd and As of some leafy vegetables cultured in light to medium Cd and As co-contaminated soils were investigated, aiming to provide reference for the rational and safe use of light and medium contaminated soils. [Methods]: Twelve Cd & As polluted soils were collected from the plough layers of vegetable fields in Xi'an suburbs, and seven kinds of leafy vegetables were assessed in the pot experiment, which was conducted in the greenhouse of the College of Resources and Environment of Northwest A and F University from March to May of 2015. The tested vegetables were: spinach (Spinacia oleracea L.), cos lettuce (Lactuca sativa L.), cole, Romaine lettuce (Lactuca sativa L. var. longifolia), edible amaranth (Amaranthus mangostanus L.), water spinach (Ipomoea aquatica forsk) and garland chrysanthemum (Chrysanthemum coronarium L.). The vegetable yields, Cd and As contents were determined, the safety thresholds of soil pollution of Cd & As were calculated using linear regression models. [Results]: The soil Cd polluting level of 0.6-2.4 mg/kg reduced the biomass of most vegetables, medium or low co-contamination of Cd and As (Cd 1.1-2.4 mg/kg, As 24.9-26.8 mg/kg) did not exacerbate the inhibition. On the medium co-contaminated soil, Cd contents in the edible parts of spinach, cole, amaranth leaves, and lettuce exceeded the food safety critical value (0.2 mg/kg), and the Cd contents in spinach and cole were even 4 folds beyond the standards, while those of water spinach stem and garland chrysanthemum did not exceed the standard. Although the arsenic contents of all tested vegetables increased with increasing of soil arsenic concentrations, they did not exceed the standard. The enrichment coefficients of Cd in the seven kinds of vegetables were 0.083-0.491, with descend order of cole, spinach, cos lettuce, edible amaranth leaf > Romaine lettuce, edible amaranth stem, water spinach leaf > water spinach stem and garland chrysanthemum. The safety thresholds of soil Cd for spinach, cole, cos lettuce, Romaine lettuce, edible amaranth, water spinach and garland chrysanthemum were 0.33, 0.38, 0.46, 1.15, 0.59-1.79, 1.49-8.16 and 8.98-17.11 mg/kg, respectively. Among them, the thresholds of spinach, cole and lettuce were similar to the current standards (0.3-0.6 mg/kg), while the Romaine lettuce, edible amaranth, water spinach, and garland chrysanthemum were all greater than the soil heavy metal limitation values. As enrichment coefficient was 0.002-0.006, and the As enrichment coefficient of leaves of water spinach and garland chrysanthemum were significantly higher than those of others. The critical thresholds of soil As for the seven kinds of vegetables were 62.31, 70.35, 70.21, 67.41, 67.86-90.43, 57.21-75.70 and 72.43-105.06 mg/kg, respectively, which all were higher than the current standards (25 mg/kg).[Conclusions]: The cadmium and arsenic enrichment coefficients of vegetables varied significantly, and so were their responses to light-mild cadmium-arsenic co-contamination soils. Water spinach and garland chrysanthemum had low Cd enrichment coefficients and could be recommended for cultivation on mild polluted soil, while spinach and cos lettuce should not be chosen because of the high enrichment of Cd from soil. © 2019 Chinese Academy of Agriculture Sciences,Editorial Department of Journal of Plant Nutrition and Fertilizer. All Rights Reserved.},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074724462&doi=10.11674%2fzwyf.18277&partnerID=40&md5=da4876e35c61a2961b208cb56c62acea},
+   address = {College of Natural Resources and Environment, Northwest A and F University, Yangling, Shaanxi, 712100, China
+Soil and Fertilizer Institute, Sichuan Academy of Agricultural Sciences, Chengdu, 610066, China
+Institute of Technical Biology and Agriculture Engineering, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, 230031, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Mi, B. and Liu, F. and Xie, L. and Zhou, H. and Wu, F. and Dai, X.},
+   year = {2019},
+   title = {Evaluation of the uptake capacities of heavy metals in Chinese cabbage},
+   journal = {Ecotoxicology and Environmental Safety},
+   volume = {171},
+   pages = {511-517},
+   DOI = {10.1016/j.ecoenv.2019.01.022},
+   keywords = {Chinese cabbages
+Food safety
+Genotype difference
+Heavy metals},
+   abstract = {Heavy metal (HM) contamination in soil result in second pollution damage to Chinese cabbage, leading to deleterious health impacts. To elucidate the common transfer and accumulation characteristics of HMs in Chinese cabbage cultivar is important for safety breeding and consumption. In this case, concentrations and transfer capacities of HMs (Cd, Cr, Hg, Pb and As) in 35 common Chinese cabbage genotypes and their genotypic difference were investigated in this work. Results indicate that Chinese cabbage cultivar was more susceptible to Cd pollution, Hg was easily sifted from underground part to aerial part, Cr and Pb have similar enrichment and translocation characteristics, and Chinese cabbage cultivar had tolerance to As toxicity to some extent. Moreover, genotypic difference in HM accumulation in different parts of Chinese cabbage cultivar was also observed, and for edible part, followed by Hg>As>Cd>Pb>Cr. Referring to overall HM pollution level and biomass yield of edible part of 35 tested Chinese cabbages, B18, B6, B2 and B3 could be considered as the potential HMs pollution-safe Chinese cabbage cultivars. Information founded in this work may be used to provide referential strategies and methods to minimize the influx of HMs pollutants to human being through consumption and cultivation of Chinese cabbages. © 2019 Elsevier Inc.},
+   notes = {Cited By :3
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059823040&doi=10.1016%2fj.ecoenv.2019.01.022&partnerID=40&md5=d8f2408e3d60519551d9c11cb35cac61},
+   address = {Research institute of vegetables, Hunan academy of agricultural sciences, Changsha, 410125, China
+College of Science, Hunan Agricultural University, Changsha, 410128, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Natasha and Shahid, M. and Dumat, C. and Khalid, S. and Rabbani, F. and Farooq, A. B. U. and Amjad, M. and Abbas, G. and Niazi, N. K.},
+   year = {2019},
+   title = {Foliar uptake of arsenic nanoparticles by spinach: an assessment of physiological and human health risk implications},
+   journal = {Environmental Science and Pollution Research},
+   volume = {26},
+   issue = {20},
+   pages = {20121-20131},
+   DOI = {10.1007/s11356-018-3867-0},
+   keywords = {Arsenic
+Foliar application
+Nanoparticles
+Oxidative stress
+Spinach},
+   abstract = {Atmospheric contamination by heavy metal(loid)–enriched particulate matter (metal-PM) is highly topical these days because of its high persistence, toxic nature, and health risks. Globally, foliar uptake of metal(loid)s occurs for vegetables/crops grown in the vicinity of industrial or urban areas with a metal-PM-contaminated atmosphere. The current study evaluated the foliar uptake of arsenic (As), accumulation of As in different plant organs, its toxicity (in terms of ROS generation, chlorophyll degradation, and lipid peroxidation), and its defensive mechanism (antioxidant enzymes) in spinach (Spinacia oleracea) after foliar application of As in the form of nanoparticles (As-NPs). The As-NPs were prepared using a chemical method. Results indicate that spinach can absorb As via foliar pathways (0.50 to 0.73 mg/kg in leaves) and can translocate it towards root tissues (0.35 to 0.68 mg/kg). However, health risk assessment parameters showed that the As level in the edible parts of spinach was below the critical limit (hazard quotient &lt; 1). Despite low tissue level, As-NP exposure caused phytotoxicity in terms of a decrease in plant dry biomass (up to 84%) and pigment contents (up to 38%). Furthermore, several-fold higher activities of antioxidant enzymes were observed under metal stress than control. However, no significant variation was observed in the level of hydrogen peroxide (H2O2), which can be its possible transformation to other forms of reactive oxygen species (ROS). It is proposed that As can be absorbed by spinach via foliar pathway and then disturbs the plant metabolism. Therefore, air quality needs to be considered and monitored continuously for the human health risk assessment and quality of vegetables cultivated on polluted soils (roadside and industrial vicinity). © 2018, Springer-Verlag GmbH Germany, part of Springer Nature.},
+   notes = {Cited By :9
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058814381&doi=10.1007%2fs11356-018-3867-0&partnerID=40&md5=11439f7ae1623f3e4754380a46c34295},
+   address = {Department of Environmental Sciences, COMSATS University Islamabad, Vehari campus, Vehari, 61100, Pakistan
+Centre d’Etude et de Recherche Travail Organisation Pouvoir (CERTOP), UMR5044, Université J. Jaurès - Toulouse II, 5 allée Antonio Machado, Toulouse Cedex 9, 31058, France
+Institute of Soil and Environmental Sciences, University of Agriculture Faisalabad, Faisalabad, 38040, Pakistan
+School of Civil Engineering and Surveying, University of Southern Queensland, Toowoomba, QLD 4350, Australia},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Natasha and Shahid, M. and Farooq, A. B. U. and Rabbani, F. and Khalid, S. and Dumat, C.},
+   year = {2020},
+   title = {Risk assessment and biophysiochemical responses of spinach to foliar application of lead oxide nanoparticles: A multivariate analysis},
+   journal = {Chemosphere},
+   volume = {245},
+   DOI = {10.1016/j.chemosphere.2019.125605},
+   article_number = {125605},
+   keywords = {Biophysiochemical changes
+Foliar application
+lead oxide nanoparticles
+Risk assessment},
+   abstract = {Despite extensive research progress in the recent past, the data regarding foliar uptake of heavy metals, associated biophysiochemical changes inside plants and possible health hazards are limited. This study determined the effect of foliar application of lead oxide nanoparticles (PbO-NPs) on lead (Pb) accumulation, physiological and biochemical changes inside spinach plants and associated health risks. A green method was used to prepare PbO-NPs using coconut water. Scanning electron microscopy (SEM) showed the preparation of smooth, unwrinkled, granular and spherical PbO-NPs. Spinach leaves were exposed via foliar application to three concentrations of PbO-NPs (0, 10 and 50 mg/plant). Foliar PbO-NPs application resulted in a significant accumulation of Pb in leaves (42.25 μg g−1), with limited translocation towards root tissues (4.46 μg g−1). This revealed that spinach can accumulate considerable amount of Pb via foliar uptake. Lead accumulation inside spinach caused a significant decrease in pigment contents (38%) and dry weight (67%). After foliar uptake, Pb caused several-fold increase in the activities of catalase and peroxidase. However, foliar PbO-NPs did not induce significant changes in H2O2 production, lipid peroxidation and superoxide dismutase activity. Application of PbO-NPs (50 mg/plant) showed possible health risks (non-carcinogenic) due to ingesting Pb-contaminated leaves of spinach. It is proposed that atmospheric contamination and foliar deposition of metal-PM can seriously affect vegetable growth and can provoke health issues due to ingestion of metal-enriched vegetables. Therefore, atmospheric levels of heavy metals need to be monitored on a regular basis to avoid their food chain contamination and possible human exposure. © 2019 Elsevier Ltd},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076707911&doi=10.1016%2fj.chemosphere.2019.125605&partnerID=40&md5=9581a529e771266eb788179170a5d37f},
+   address = {Department of Environmental Sciences, COMSATS University Islamabad, Vehari Campus61100, Pakistan
+Université de Toulouse, INP-ENSAT, Av. de l'Agrobiopôle, Castanet-Tolosan31326, France
+Centre d'Etude et de Recherche Travail Organisation Pouvoir (CERTOP), UMR5044, Université J. Jaurès–Toulouse II, 5 allée Antonio Machado, Toulouse, 31058, France},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Nawaz, H. and Akhtar, J. and Anwar-ul-Haq, M. and Arfan, M. and Ullah, A. and Iftikhar, I. and Awais, M. and Nadeem, M.},
+   year = {2019},
+   title = {Wastewater induced manganese toxicity affects growth and bioavailability in spinach (Spinacia oleracea)},
+   journal = {International Journal of Agriculture and Biology},
+   volume = {21},
+   issue = {1},
+   pages = {135-139},
+   DOI = {10.17957/IJAB/15.0873},
+   keywords = {Accumulation
+Bioavailability
+Heavy metals
+Human health
+Wastewater},
+   abstract = {The different types of sewage sludge generated from different urban sources are commonly used for irrigation in agriculture and contain heavy metals (as manganese, cadmium, lead and zinc). This sewage water is mostly used for vegetable production in peri-urban areas and is a source of heavy metals. Therefore, this study was conducted to evaluate the effects of wastewater with different toxicity levels of manganese (Mn) on growth and bio-availability of Mn in spinach. The sewage water with two levels of Mn was applied exogenously as i) 150 mg L-1 sewage water (moderately toxic), ii) 350 mg L-1 sewage water (toxic level) and no Mn as control; (only sewage water). Two cuttings of spinach were taken after 45 and 90 days of germination. There was significant accumulation of Mn in leaves. The maximum concentration of Mn (11.13 and 12.67 mg L-1) was recorded with 350 mg L-1 Mn in sewage water at both cuttings, respectively. Minimum number of leaves with decrease of 43 and 25% were recorded with Mn 350 mg L-1 (toxic) and 150 mg L-1 (moderate) respectively. Plant biomass and dry weight showed negative behavior in second cutting as compared to first. The results showed that long-term application of Mn contaminated wastewater decreases the growth rate and yield of spinach by increasing its accumulation in leaves up to toxic levels. In conclusion, the application of sewage water to vegetables (especially spinach) should be avoided to prevent human life from health disorders. © 2019 Friends Science Publishers.},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060148027&doi=10.17957%2fIJAB%2f15.0873&partnerID=40&md5=dc3cbdc2abb834374cb5d611c7d9b96c},
+   address = {Institute of Soil and Environmental Sciences, University of Agriculture Faisalabad38040, Pakistan
+Department of Botany, University of Agriculture Faisalabad38040, Pakistan
+Department of Agronomy, University of Agriculture Faisalabad38040, Pakistan},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Noh, K. and Thi, L. T. and Jeong, B. R.},
+   year = {2019},
+   title = {Particulate matter in the cultivation area may contaminate leafy vegetables with heavy metals above safe levels in Korea},
+   journal = {Environmental Science and Pollution Research},
+   volume = {26},
+   issue = {25},
+   pages = {25762-25774},
+   DOI = {10.1007/s11356-019-05825-4},
+   keywords = {Air pollutant
+Food safety
+Particulate matter pollution
+Plant
+PM2.5},
+   abstract = {Among air pollutants, particulate matter (PM) has been identified as a major cause of environmental pollutants due to the advancement of industrial development and the generation of smaller particles. Particulate matter, in particular, is defined only by the size of particles and thus is not enough to study its composition yet. However, edible crops grown in contaminated atmospheres can be contaminated with heavy metals contained in particulate matter in the atmosphere, which can seriously damage food safety. In this study, we investigated the influence of the accumulation of particulate matter on leafy vegetables cultivated at areas with different levels of PM in atmosphere. Four districts of Gyeongsangnam-do were chosen to conduct this experiment: outdoor spaces of three respectively located in industrial, near-highway, and rural areas were considered, and research plant growth chambers at Gyeongsang National University were used as the control. After 3 weeks of cultivation in those conditions, the results showed that Pb in milligrams per kilogram of fresh weight (FW) was 0.383 in Chrysanthemum coronarium and 0.427 in Spinacia oleracea that were grown near the highway, which exceeded the 0.3 mg kg−1 FW standard set by the Republic of Korea, EU, and CODEX. However, when those vegetables were sufficiently washed with tap water, it was confirmed that the heavy metal content fell into the safety standard range. © 2019, The Author(s).},
+   notes = {Cited By :1
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068800681&doi=10.1007%2fs11356-019-05825-4&partnerID=40&md5=0911c79c6140cad6ad64b0d8efb1e7fc},
+   address = {Department of Horticulture, Division of Applied Life Science (BK21 Plus Program), Graduate School, Gyeongsang National University, Jinju, 52828, South Korea
+Civilian Headquarter for Solution of Particulate Matter Pollution, Seoul, 06764, South Korea
+Institute of Agriculture and Life Science, Gyeongsang National University, Jinju, 52828, South Korea
+Research Institute of Life Science, Gyeongsang National University, Jinju, 52828, South Korea},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Olatunji, O. S.},
+   year = {2019},
+   title = {Evaluation of selected polychlorinated biphenyls (PCBs) congeners and dichlorodiphenyltrichloroethane (DDT) in fresh root and leafy vegetables using GC-MS},
+   journal = {Scientific Reports},
+   volume = {9},
+   issue = {1},
+   DOI = {10.1038/s41598-018-36996-8},
+   article_number = {538},
+   abstract = {Persistent organic pollutants (POPs) are dangerous and toxic pollutants that may cause adverse effects on human and animal health, including death. POPs such as polychlorinated biphenyls (PCBs) and pesticides are subtly released into the environment from industrial and agricultural use. Global circulation is due to their trans-boundary transport capacity, contingent on aerodynamic and hydrological properties. Plants have capacity to take-up POPs, and these bio-magnify along heterotrophic transfer pathways. In this study, levels of selected 6-PCB congeners and 3- DDTs in some leaf and root vegetables were investigated. Leaf and root vegetables were collected from different horticultural farms areas in Cape Town. The 6-PCBs and 3-DDTs were recovered from the samples using solid phase extraction(SPE), followed by GC-MS analysis. The ΣPCBs and ΣDDT (on-whole basis), were ranged: 90.9–234 ng/g and 38.9–66.1 ng/g respectively. The 3-PCBs and 6-DDTs levels were slightly higher in leaf vegetables compared to root vegetables. The detection of PCBs and DDTs in the vegetables suggest the probable use of PCBs containing pesticides. Although the observed concentrations were below the WHO maximum residue limits, consumption of such contaminated leaf and root vegetables portend a health risk. © 2019, The Author(s).},
+   notes = {Cited By :2
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060538457&doi=10.1038%2fs41598-018-36996-8&partnerID=40&md5=da63286e54a67cd549c35d89ddd5b2e6},
+   address = {School of Chemistry and Physics, University of KwaZulu-Natal, Westville, Durban, South Africa},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Pandorf, M. and Pourzahedi, L. and Gilbertson, L. and Lowry, G. V. and Herckes, P. and Westerhoff, P.},
+   year = {2020},
+   title = {Graphite nanoparticle addition to fertilizers reduces nitrate leaching in growth of lettuce (: Lactuca sativa)},
+   journal = {Environmental Science: Nano},
+   volume = {7},
+   issue = {1},
+   pages = {127-138},
+   DOI = {10.1039/c9en00890j},
+   abstract = {Nitrogen leaching into groundwater occurs in nearly all intensively-fertilized agriculture applications and poses growing environmental and human health risks such as eutrophication and drinking water contamination. This potential for contamination will intensify as the population grows. This study focused on nitrate leaching through soil during the growth of romaine lettuce (Lactuca sativa), a high value crop in a region (Salinas Valley, CA) suffering from nitrate-contaminated water. 2-D graphite carbon nanoparticles (CNPs) produced via an electrochemical exfoliation process, resulting in ∼8 nm thickness and 250-850 nm width, were combined with fertilizer and applied to the lettuce in soil to test the CNP effect on yield, nitrate leaching, and plant nutrient uptake. Greenhouse experiments were conducted under different nutrient loadings and soil matrices. CNP addition did not inhibit the lettuce leaf yield, and decreased nitrate leaching in several scenarios. When fertilizer was reduced to 70% of the recommended dose and combined with less than 1% wt CNPs, nitrate leaching decreased by 57%. Furthermore, there was no significant difference in yield compared to the 100% recommended fertilizer dose without CNPs. Increasing the soil's hydraulic conductivity enhanced the ability of CNPs to reduce nitrate leaching and increase plant nitrogen uptake. CNP addition to mineral fertilizer blends may allow lower fertilizer doses and thus decrease nitrate infiltration through the soil without comprising yields. This journal is © The Royal Society of Chemistry.},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078419410&doi=10.1039%2fc9en00890j&partnerID=40&md5=ebb1ee5e16d6bc0e2962f2e9adb4f019},
+   address = {School of Sustainable Engineering and the Built Environment (SSEBE), Arizona State University, P.O. Box 3005, Tempe, AZ 85287, United States
+Civil and Environmental Engineering Department, Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA 15213, United States
+Department of Civil and Environmental Engineering, University of Pittsburgh, Pittsburgh, PA 15261, United States
+Department of Chemical and Petroleum Engineering, University of Pittsburgh, Pittsburgh, PA 15261, United States
+School of Molecular Sciences, Arizona State University, P.O. Box 871604, Tempe, AZ 85287-1604, United States},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Pang, N. and Fan, X. and Fantke, P. and Zhao, S. and Hu, J.},
+   year = {2020},
+   title = {Dynamics and dietary risk assessment of thiamethoxam in wheat, lettuce and tomato using field experiments and computational simulation},
+   journal = {Environmental Pollution},
+   volume = {256},
+   DOI = {10.1016/j.envpol.2019.113285},
+   article_number = {113285},
+   keywords = {Dietary risk assessment
+dynamiCROP
+Liquid chromatography mass spectrometry
+Pesticide residues
+Thiamethoxam},
+   abstract = {Thiamethoxam is a widely used pesticide applied to different field crops. To inform risk assessment for this pesticide across relevant crops, we usually rely on field trials, which require time, costs and energy. For providing reliable data across crops and reduce experimental efforts, field trials should be complemented with dynamic modelling. In the present work, we hence focused on combining field trials with dynamic modelling to simulate mass evolutions of the pesticide-plant-system for thiamethoxam applied to wheat, lettuce and tomato as three major food crops. Field trials were conducted with QuEChERS (quick, easy, cheap, effective, rugged and safe) liquid chromatography-mass spectrometry, which gave consistent maximum residue concentrations for thiamethoxam in wheat, lettuce and tomato. We used these residues to evaluate the related dietary risk of humans consuming these food crops. Our results indicated that thiamethoxam did not provide any unacceptable dietary risk for humans across these three food crops, which is in line with findings from previous studies. Results for the studied crops could be extrapolated to other crops and with that, our study constitutes a cost- and time-efficient way of providing reliable input for risk assessment of pesticides across crops, which is relevant for both practitioners and regulators. © 2019},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075356568&doi=10.1016%2fj.envpol.2019.113285&partnerID=40&md5=80b66de13c0df6b3fa40f03e4797e9d4},
+   address = {Lab of Pesticide Residues and Environmental Toxicology, School of Chemistry and Biological Engineering, University of Science and Technology Beijing, Beijing, 100083, China
+Quantitative Sustainability Assessment, Department of Technology, Management and Economics, Technical University of Denmark, Produktionstorvet 424, Kgs. Lyngby, 2800, Denmark},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Patra, S. and Ganguly, P. and Barik, S. R. and Goon, A. and Mandal, J. and Samanta, A. and Bhattacharyya, A.},
+   year = {2020},
+   title = {Persistence behaviour and safety risk evaluation of pyridalyl in tomato and cabbage},
+   journal = {Food Chemistry},
+   volume = {309},
+   DOI = {10.1016/j.foodchem.2019.125711},
+   article_number = {125711},
+   keywords = {Dissipation
+Pyridalyl
+Risk Assessment
+Soil
+Vegetable},
+   abstract = {A field experiment was set up to evaluate persistence behaviour of pyridalyl in tomato, cabbage and cultivated field soil over two consecutive seasons. An analytical method was developed to analyze pyridalyl residues in different matrices and duly validated, based on single laboratory method validation criteria. Pyridalyl residues were detected and quantified using a gas chromatograph equipped with an electron capture detector. The compound exhibited low persistence in tomato, cabbage and soil. A safe waiting period of 17–18 d after final insecticide application needs to be maintained before harvesting the crop. Both dietary and soil ecological risk were assessed and it was found that the harvested vegetables were toxicologically safe for consumption. However, there was concern about insecticidal toxicity against the algal population of soil which needs to be reconfirmed by further studies. © 2019 Elsevier Ltd},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074891680&doi=10.1016%2fj.foodchem.2019.125711&partnerID=40&md5=8e0ae738d3354b58ddd192b9679bc0d3},
+   address = {Division of Crop Protection, ICAR Research Complex for NEH Region, UmiamMeghalaya, India
+Department of Soil Science & Agricultural Chemistry, Bihar Agricultural University, Sabour, BhagalpurBihar, India
+Department of Agricultural Chemicals, Bidhan Chandra Krishi Viswavidyalaya, Mohanpur, NadiaWest Bengal, India
+Department of Agricultural Entomology, Bidhan Chandra Krishi Viswavidyalaya, Mohanpur, NadiaWest Bengal, India},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Peng, Q. and Wang, D. and Wang, M. and Zhou, F. and Yang, W. and Liu, Y. and Liang, D.},
+   year = {2020},
+   title = {Prediction of selenium uptake by pak choi in several agricultural soils based on diffusive gradients in thin-films technique and single extraction},
+   journal = {Environmental Pollution},
+   volume = {256},
+   DOI = {10.1016/j.envpol.2019.113414},
+   article_number = {113414},
+   keywords = {Bioavailability
+DGT method
+Selenate
+Selenite
+Single extraction
+Soil properties},
+   abstract = {DGT technique is a superior predictive method for Se(IV) bioavailability in different soil types on a large scale, but KH2PO4–K2HPO4 extraction may be more suitable for Se(VI). © 2019 Elsevier Ltd The accurate assessment of soil selenium (Se) bioavailability is crucial for Se biofortification in Se-deficient areas and risk assessment in selenosis areas. However, a universally accepted approach to evaluate Se bioavailability in soil is currently lacking. This research investigated Se bioavailability in six soils treated with selenite (Se(IV)) or selenate (Se(VI)) by comparing diffusive gradients in thin-films (DGT) technique and chemical extraction methods through pot experiments. A bioindicator method was used to evaluate Se concentrations in pak choi and compare the results with the Se concentration measured by other methods. Results showed that chemical extraction methods presented different extraction efficiencies for available Se over a range of soil types, and the same extraction method had various extraction efficiencies for different Se species in the same soil. DGT measured Se concentrations (CDGT−Se) for Se(VI) treatment were 2.3–34.1 times of those for Se(IV) treatment. KH2PO4–K2HPO4 and AB-DTPA extractable Se could predict the bioavailability of soil Se, but they were disturbed by soil properties. HAc extraction was unsuitable for evaluating Se bioavailability in different Se(IV)-treated soils. By contrast, DGT technique was preferable for predicting plant uptake of Se(IV) over chemical extraction methods. Although DGT technique was independent of soil properties, KH2PO4–K2HPO4 extraction provided the best fitting regression equation for Se(VI) when it was dependent on soil organic matter. Thus, KH2PO4–K2HPO4 extraction may be preferred to assess Se(VI) bioavailability in different soil types on a large scale. © 2019 Elsevier Ltd},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074440613&doi=10.1016%2fj.envpol.2019.113414&partnerID=40&md5=b4e08a5643ef1aced3cfc7ff59506daf},
+   address = {College of Natural Resources and Environment, Northwest A&F University, Yangling, Shaanxi 712100, China
+Chongqing Key Laboratory of Environmental Materials & Remediation Technologies, Chongqing University of Arts and Sciences, Chongqing, 402160, China
+Agricultural Resource and Environment Research Institute, Guangxi Academy of Agricultural Sciences, Nanning, Guangxi 530007, China
+Key Laboratory of Plant Nutrition and the Agri-environment in Northwest China, Ministry of Agriculture, Yangling, Shaanxi 712100, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Podio, N. S. and Bertrand, L. and Wunderlin, D. A. and Santiago, A. N.},
+   year = {2020},
+   title = {Assessment of phytotoxic effects, uptake and translocation of diclofenac in chicory (Cichorium intybus)},
+   journal = {Chemosphere},
+   volume = {241},
+   DOI = {10.1016/j.chemosphere.2019.125057},
+   article_number = {125057},
+   keywords = {Anti-inflammatory
+Biomass
+Chlorophyll
+HPLC-PDA-QTOF
+Pheophytin
+QuEChERS},
+   abstract = {Pharmaceuticals in the environment have been an increasing research topic over the past decade, since they can be found in both natural and drinking water, including irrigation of crops and edible plants with contaminated water. Our main goal was to evaluate the phytotoxic effect of diclofenac (DCF), a widely used pharmaceutical, on chicory (Cichorium intybus) seedlings. Additionally, we verified the uptake, bioconcentration and translocation of DCF from soil to chicory tissues. Results show that DCF induces different physiological changes in chicory seedlings. On the other hand, the soil-chicory experiment showed the activation of the detoxification system in plants treated with DCF (1 mg L−1). Finally, we found the migration of DCF from the irrigation water to the soil, followed by its uptake through the root, and its translocation to the aerial part of the chicory. However, DCF does not bioaccumulate in chicory leaves, being scarcely translocated from roots to aerial parts. This last result, along with the estimation of a daily intake of chicory, show that irrigation with water containing DCF (≤1 mg L−1) does not represent a threat to human health. To our knowledge, this is the first report on the effect of DCF on chicory seedlings, including the evaluation of its uptake and translocation. © 2019 Elsevier Ltd},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073230768&doi=10.1016%2fj.chemosphere.2019.125057&partnerID=40&md5=d69801a870f8e76eb814df5aa27b622c},
+   address = {INFIQC, CONICET and Universidad Nacional de Córdoba, Facultad de Ciencias Químicas, Dpto. Química Orgánica. Ciudad Universitaria, Medina Allende esq. Haya de la Torre s/n, Córdoba, 5000, Argentina
+ICYTAC, CONICET and Universidad Nacional de Córdoba, Facultad de Ciencias Químicas, Dpto. Química Orgánica. Ciudad Universitaria, Bv. Juan Filloy s/n, Córdoba, 5000, Argentina
+CIBICI, CONICET and Universidad Nacional de Córdoba, Facultad de Ciencias Químicas, Dpto. Bioquímica Clínica. Ciudad Universitaria, Medina Allende esq. Haya de la Torre s/n, Córdoba, 5000, Argentina},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Ramirez, A. and Garcia, G. and Werner, O. and Ros, R. M.},
+   title = {In vitro lead tolerance and accumulation in three Chrysanthemum cultivars for phytoremediation purposes with ornamental plants},
+   journal = {International Journal of Phytoremediation},
+   ISSN = {1522-6514},
+   DOI = {10.1080/15226514.2020.1731730},
+   accession_number = {WOS:000517383000001},
+   abstract = {The use of ornamental plants for the phytoremediation of potentially toxic elements in polluted soils is an interesting task. It makes possible to combine environmental restoration, re-use of land, and the production of goods and services of economic interest. In this work, in vitro experiments using three cultivars of Chrysanthemum (Asteraceae) were carried out with 0, 300, 600, 900, and 1500 mg/kg of lead concentrations for a period of 12 weeks. The objective was to obtain data about their lead tolerance and bioaccumulation capacity in order to know their potential as phytoremediators in a densely populated Caribbean area of the Dominican Republic with a high concentration of lead in soils. The variations in biomass, root growth as well as accumulation of this element in the plants were measured. The results suggest that the three cultivars have a good potential for phytoextraction at moderate pollution levels, as they showed a good bioaccumulation of lead, which had mild effects on their biomass production and root elongation. Additional studies should be carried out to assess their effectiveness as phytoextractors under field conditions, as well as other alternative uses that could generate esthetic, environmental, and/or economic benefits for tropical areas contaminated by Pb.},
+   notes = {Ramirez, Agripina Garcia, Gregorio Werner, Olaf Ros, Rosa M.
+; ros, rosa m./j-9780-2014; werner, olaf/k-2374-2014
+Garcia, Gregorio/0000-0001-6686-9903; ROS, ROSA M./0000-0003-2115-2911; WERNER, OLAF/0000-0003-0601-3964
+1549-7879},
+   url = {<Go to ISI>://WOS:000517383000001},
+
+}
+
+@article{Journal Article,
+   author = {Rossini-Oliva, S. and Abreu, M. M. and Santos, E. S. and Leidi, E. O.},
+   title = {Soil-plant system and potential human health risk of Chinese cabbage and oregano growing in soils from Mn- and Fe-abandoned mines: microcosm assay},
+   journal = {Environmental Geochemistry and Health},
+   ISSN = {0269-4042},
+   DOI = {10.1007/s10653-020-00514-5},
+   accession_number = {WOS:000507776700001},
+   abstract = {In Portugal, many abandoned mines are often close to agricultural areas and might be used for plant food cultivation. Soils in the vicinity of two Mn- and Fe-abandoned mines (Ferragudo and Rosalgar, SW of Portugal) were collected to cultivate two different food species (Brassica rapa subsp. pekinensis (Lour.) Hanelt and Origanum vulgare L.). Chemical characterization of the soil-plant system and potential risk of adverse effects for human health posed by plants associated with soil contamination, based on the estimation of hazard quotient (HQ), were assessed in a microcosm assay under greenhouse conditions. In both soils, the average total concentrations of Fe and Mn were above the normal values for soils in the region and their concentration in shoots of both species was very high. Brassica rapa subsp. pekinensis grew better in Ferragudo than in Rosalgar soils, and it behaved as an excluder of Cu, Mn, Fe, S and Zn in both soils. The HQ for Cu, Fe, Mn and Zn in the studied species grown on both soils was lower than unit indicating that its consumption is safe. The high Mn tolerance found in both species might be due in part to the high contents of Fe in the soil available fraction that might contribute to an antagonism effect in the uptake and translocation of Mn. The obtained results emphasize the need of further studies with different food crops before cultivation in the studied soils to assess health risks associated with high metal intake.},
+   notes = {Rossini-Oliva, S. Abreu, M. M. Santos, E. S. Leidi, E. O.
+Leidi, Eduardo O./I-7053-2012; Rossini Oliva, Sabina/A-9074-2008
+Leidi, Eduardo O./0000-0003-3425-2030; Santos, Erika/0000-0002-3664-839X; Abreu, Maria Manuela/0000-0002-6650-1161; Rossini Oliva, Sabina/0000-0001-6774-4723
+1573-2983},
+   url = {<Go to ISI>://WOS:000507776700001},
+
+}
+
+@article{Journal Article,
+   author = {Shamsollahi, H. R. and Alimohammadi, M. and Momeni, S. and Naddafi, K. and Nabizadeh, R. and Khorasgani, F. C. and Masinaei, M. and Yousefi, M.},
+   year = {2019},
+   title = {Assessment of the Health Risk Induced by Accumulated Heavy Metals from Anaerobic Digestion of Biological Sludge of the Lettuce},
+   journal = {Biological Trace Element Research},
+   volume = {188},
+   issue = {2},
+   pages = {514-520},
+   DOI = {10.1007/s12011-018-1422-y},
+   keywords = {Anaerobic digestion
+Bioaccumulation
+Health risk assessment
+Heavy metals},
+   abstract = {Heavy metals are a group of pollutants in biological sludge. Many agencies regulated guidelines for heavy metal concentrations for various applications of sludge such as agricultural application. In this study, we tried to determine heavy metal fate after anaerobic digestion. Additionally, we determined the bioaccumulation rate of heavy metals in lettuce cultivated on a sludge-applied land. Heavy metal (As, Pb, Hg, Cd) contents of solid and liquid parts of raw and anaerobically digested sludge were separately measured by ICP-OES. For this purpose, the samples were digested using nitric acid, hydrochloric acid, and boric acid. Then, the raw and anaerobically digested sludge were used for cultivation of lettuce in separate farms. The heavy metal concentrations in the harvested lettuce were measured by the same procedure. The results showed that the main part of heavy metals in the raw sludge was in the liquid part (67%), while, the main part of heavy metals in the anaerobically digested samples was in the solid part of the sludge. Because of washout of dissolved heavy metals in the liquid part of the sludge, the lettuce cultivated by anaerobically digested sludge had higher content of the heavy metals in comparison to that of the lettuce cultivated by the raw sludge. This study showed that application of anaerobically digested sludge can increase the bioaccumulation rate of heavy metals in the crops and induce more human health risk. © 2018, Springer Science+Business Media, LLC, part of Springer Nature.},
+   notes = {Cited By :5
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053051864&doi=10.1007%2fs12011-018-1422-y&partnerID=40&md5=27cde8536803969ca5c3c726c8fad13d},
+   address = {Department of Environmental Health Engineering, School of Public Health, Tehran University of Medical Sciences, Tehran, Iran
+Center for Water Quality Research (CWQI), Institute for Environmental Research (IER), Tehran University of Medical Sciences, Tehran, Iran
+Health Equity Research Center (HERC), Tehran University of Medical Sciences, Tehran, Iran
+Department of Epidemiology and Biostatistics, Tehran University of Medical Sciences, Tehran, Iran},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Souri, M. K. and Hatamian, M. and Tesfamariam, T.},
+   year = {2019},
+   title = {Plant growth stage influences heavy metal accumulation in leafy vegetables of garden cress and sweet basil},
+   journal = {Chemical and Biological Technologies in Agriculture},
+   volume = {6},
+   issue = {1},
+   DOI = {10.1186/s40538-019-0170-3},
+   article_number = {25},
+   keywords = {Arsenic
+Cadmium
+Chromium
+Cobalt
+Health risk
+Lead
+Nickel
+Wastewater
+Zinc},
+   abstract = {Background: Contamination of vegetable crops with heavy metals is a great threat to human health. On the other hand, monitoring plant tissue content of heavy metals at different growth stages could have important implications. In this study, shoot and root samples of garden cress and sweet basil were collected from five farms, from heavy metal polluted fields located in Shahre Rey, south of Tehran, Iran, in either young (3 weeks old) or mature (7 weeks old) plants. The concentrations of cadmium (Cd), lead (Pb), nickel (Ni), arsenic (As), chromium (Cr), cobalt (Co), copper (Cu), manganese (Mn) and zinc (Zn) in plant tissues were determined using atomic absorption spectroscopy. In another study, 2 weeks (young) or 6 weeks old (mature) plants of garden cress were subjected to three concentrations of Cd and Pb (0, 5, 10 mg L−1) under hydroponic sand culture for 5 days, in which Hoagland formula was used for nutrient solution preparation. Results: The results showed that root concentration of various heavy metals, particularly Cd, As, Ni, Co, Cu, Mn and Zn but not Pb were significantly higher than their shoot concentration in either crop under field sampling. The leaf concentration of some heavy metals was significantly different in seedling and older (mature) plant samples of either crop. Young plant leaves of sweet basil had significantly less Cd, Pb, As and higher Cu than mature plants, whereas young garden cress plants had similar Cd, Pb and higher As and Zn concentrations than mature plants. The Cr, Co, Mn and Zn concentrations were similar in young and mature plants of sweet basil. The Mn, Co, Cr and Ni concentration of young and mature plants of either crop was also similar. The result of hydroponic study showed that young plants of garden cress had higher potential to accumulate lead in shoot and root, particularly in lower (5 mg L−1) than higher (10 mg L−1) lead concentration; however, root Pb concentration at 10 mg L−1 Pb of nutrient solution showed no difference between young and mature plants. Regarding cadmium, young garden cress plants accumulated higher Cd than mature plants in their shoot, particularly under higher Cd levels (10 rather than 5 mg L−1) of nutrient solution; however, a wide difference in root Cd concentration was observed under low (5 mg L−1) than higher (10 mg L−1) cadmium concentration of nutrient solution. Conclusion: The results of these two studies indicate that despite that young plants have a higher potential for heavy metal uptake and accumulation, the low difference in young and mature plants in the polluted fields may be due to the longer period of plant growth of mature plants that may increase the risk of exposure to polluted air and dust deposition containing high levels of heavy metals.[Figure not available: see fulltext.]. © 2019, The Author(s).},
+   notes = {Cited By :1
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075724007&doi=10.1186%2fs40538-019-0170-3&partnerID=40&md5=147a7b6fb557efbe9566b1106e716beb},
+   address = {Dept. of Horticultural Sciences, Tarbiat Modares University, Tehran, Iran
+Dept. of Horticulture, Lorestan University, Khoramabad, Iran
+Institute of Plant Nutrition, University of Hohenheim, Stuttgart, Germany},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Sun, H. and Zhou, L. and Zhang, X. and Luo, F. and Yang, M. and Wang, X. and Lou, Z. and Chen, Z.},
+   year = {2019},
+   title = {Residue dissipation and dietary exposure risk assessment of methoxyfenozide in cauliflower and tea via modified QuEChERS using UPLC/MS/MS},
+   journal = {Journal of the Science of Food and Agriculture},
+   DOI = {10.1002/jsfa.10179},
+   keywords = {cauliflower
+dissipation
+methoxyfenozide
+pesticide residue
+risk quotient (RQ)
+tea},
+   abstract = {BACKGROUND: Methoxyfenozide possesses efficacy against a variety of lepidopteron pests, including the major pests in cauliflower and tea, so it is of great importance to generalize the practical use of methoxyfenozide in the field. RESULTS: An efficient method was developed and validated in both vegetable matrix and extract-rich matrix (cauliflower and tea) using modified QuEChERS combined with UPLC/MS/MS analysis. The recoveries in cauliflower, made tea and tea shoots ranged from 94.5 to 108.0%, from 85.0 to 91.6% and from 77.3 to 82.0% respectively, with relative standard deviations (RSDs) below 17.3% in all cases. The field results showed that methoxyfenozide dissipated in cauliflower with half-life (t1/2) at 2.5–3.5 days and in tea with t1/2 at 1.2 days. Combining the above experimental data and statistical food intake values, the risk quotient (RQ) values were significantly lower than 1. CONCLUSION: The quantification method of methoxyfenozide in cauliflower or tea has not been established until this study. The dissipation and dietary exposure risk assessment of methoxyfenozide in cauliflower and tea were investigated in the field. Methoxyfenozide dissipated rapidly in cauliflower despite different climates, and it dissipated faster in tea. The dietary risk of methoxyfenozide through cauliflower or tea was negligible to humans. This study not only provides guidance for the safe use of methoxyfenozide but also serves as a reference for the establishment of maximum residue limits (MRLs) in China. © 2019 Society of Chemical Industry. © 2019 Society of Chemical Industry},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85079391211&doi=10.1002%2fjsfa.10179&partnerID=40&md5=f7643fd82f0ee1f4a6f39c2ef85ebfe1},
+   address = {Tea Research Institute, Chinese Academy of Agricultural Sciences, Hangzhou, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Sun, M. and Tong, Z. and Dong, X. and Chu, Y. and Wang, M. and Gao, T. and Duan, J.},
+   year = {2019},
+   title = {Determination of the residue behavior and risk assessment of chlorfluazuron in Chinese cabbage, kale, lettuce and cauliflower by UPLC-MS/MS},
+   journal = {International Journal of Environmental Research and Public Health},
+   volume = {16},
+   issue = {10},
+   DOI = {10.3390/ijerph16101758},
+   article_number = {1758},
+   keywords = {Chlorfluazuron
+Residue behavior
+UPLC-MS/MS
+Vegetables},
+   abstract = {Chlorfluazuron is used as a highly effective insect growth regulator to control a variety of crop pests. However, residues of this pesticide have been shown to be harmful to human health. To evaluate the residual dissipation pattern and risk for dietary intake of chlorfluazuron in various vegetables, a solid phase extraction-ultra performance liquid chromatography-tandem mass spectrometry method was established to analyze chlorfluazuron residues in Chinese cabbage, Chinese kale, Chinese lettuce, and cauliflower. The sample was extracted with acetonitrile and purified using an SPE amino column. The average recovery of the target sample in the analyzed four vegetables was between 75.0% and 104.1%, and the relative standard deviation was between 2.5% and 9.6%. The precision and accuracy of the analysis met the requirements of residue analysis standards. Dissipation kinetic testing of chlorfluazuron in different vegetables showed a half-life of 2.4–12.6 days, with a rapid dissipation rate. The estimated daily intake of the chlorfluazuron was 0.753–1.661 μg/(kg bw·d), and the risk quotient was 0.15–0.35. It showed that chlorfluazuron had a low risk of chronic dietary intake from vegetables in different populations in China. The results of this study has described the degradation rate of chlorfluazuron in four vegetables, evaluated the risk of dietary exposure to Chinese residents. Therefore, it provides supporting data and empirical basis for guiding the reasonable use of chlorfluazuron in vegetable production and in evaluating its dietary intake risk in vegetables. © 2019 by the authors. Licensee MDPI, Basel, Switzerland.},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066449201&doi=10.3390%2fijerph16101758&partnerID=40&md5=1cea065be5e16e83a1d583aa47d188f1},
+   address = {Institute of Plant Protection and Agro-Product Safety, Anhui Academy of Agricultural Sciences, Hefei, 230031, China
+Key Laboratory of Agro-Product Safety Risk Evaluation (Hefei), Ministry of Agriculture, Hefei, 230031, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Tadić, Đ and Gramblicka, M. and Mistrik, R. and Flores, C. and Piña, B. and Bayona, J. M.},
+   year = {2020},
+   title = {Elucidating biotransformation pathways of ofloxacin in lettuce (Lactuca sativa L)},
+   journal = {Environmental Pollution},
+   volume = {260},
+   DOI = {10.1016/j.envpol.2020.114002},
+   article_number = {114002},
+   keywords = {Antibiotics
+Biotransformation pathways
+High-resolution mass spectrometry
+Plant metabolites},
+   abstract = {Antibiotics can be uptaken by plants from soil desorption or directly from irrigation water, but their metabolization pathways in plants are largely unknown. In this paper, an analytical workflow based on high-resolution mass spectrometry was applied for the systematic identification of biotransformation products of ofloxacin in lettuce. The targeted metabolites were selected by comparing the mass chromatograms of exposed with control samples using an advanced spectra-processing method (Fragment Ion Search). The innovative methodology presented allowed us to identify a total of 11 metabolites, including 5 ofloxacin metabolites that are being reported for the first time in plants. Accordingly, major transformation pathways were proposed revealing insight into how ofloxacin and related chemicals are metabolized in lettuce. Furthermore, the influence of biotransformation on potential residual antimicrobial activity of identified compounds was discussed. Human exposure to antibiotics at doses below the minimum inhibitory concentrations is crucial in human risk assessment, including food ingestion; however, in the case of ofloxacin presented results reveal that plant metabolites should also be considered so as not to underestimate their risk. © 2020 Elsevier Ltd},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078081342&doi=10.1016%2fj.envpol.2020.114002&partnerID=40&md5=dddd5979b87be16ce632093237fd07ef},
+   address = {Department of Environmental Chemistry, Institute of Environmental Assessment and Water Research, Spanish Council for Scientific Research (IDAEA-CSIC), Jordi Girona 18, Barcelona, E-08034, Spain
+HighChem Ltd., Leškova 11, Bratislava, 811 04, Slovakia
+Department of Chemical and Biochemical Engineering, Faculty of Chemical and Food Technology, Slovak University of Technology, Radlinského 9, Bratislava, 812 37, Slovakia
+Mass Spectrometry Laboratory/Organic Contaminants, Institute of Environmental Assessment and Water Research (IDAEA), CSIC, Barcelona, 08034, Spain
+Department of Environmental Chemistry, Institute of Environmental Assessment and Water Research, Barcelona, 08034, Spain},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Tian, R. and Zhang, R. and Uddin, M. and Qiao, X. and Chen, J. and Gu, G.},
+   year = {2019},
+   title = {Uptake and metabolism of clarithromycin and sulfadiazine in lettuce},
+   journal = {Environmental Pollution},
+   volume = {247},
+   pages = {1134-1142},
+   DOI = {10.1016/j.envpol.2019.02.009},
+   keywords = {Antibiotics
+Clarithromycin
+Lettuce
+Plant metabolism
+Sulfadiazine},
+   abstract = {Antibiotics are introduced into agricultural fields by the application of manure or biosolids, or via irrigation using reclaimed wastewater. Antibiotics can enter the terrestrial food chains through plant uptake, which forms an alternative pathway for human exposure to antibiotics. However, previous studies mainly focused on detecting residues of the parent antibiotics, while ignoring the identification of antibiotics transformation products in plants. Here, we evaluated the uptake and metabolism of clarithromycin (CLA) and sulfadiazine (SDZ) in lettuce under controlled hydroponic conditions. The antibiotics and their metabolites were identified by ultra-performance liquid chromatography/quadrupole time-of-flight mass spectrometry (UPLC-QToF-MS/MS) and ultra-performance liquid chromatograph Micromass triple quadrupole mass spectrometry (UPLC−QqQ−MS/MS). The structure of CLA, SDZ and N-acetylated SDZ were confirmed with synthesized standards, verifying the reliability of the identification method. Eight metabolites of CLA and two metabolites of SDZ were detected in both the leaves and roots of lettuce. The metabolites of CLA included phases I and II transformation products, while only phase II metabolites of SDZ were observed in lettuce. The proportion of CLA metabolites was estimated to be greater than 70%, indicating that most of the CLA was metabolized in plant tissues. The proportion of SDZ metabolites was lower than 12% in the leaves and 10% in the roots. Some metabolites might have the ability to increase or acquire antibacterial activity. Therefore, in addition to the parent compounds, metabolites of antibiotics in edible vegetables are also worthy of study for risk assessment and to determine the consequences of long-term exposure. © 2019},
+   notes = {Cited By :3
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061594733&doi=10.1016%2fj.envpol.2019.02.009&partnerID=40&md5=f81b170ba0113cc4e30767436b8b434a},
+   address = {Key Laboratory of Industrial Ecology and Environmental Engineering, School of Environmental Science and Technology, Dalian University of Technology, Linggong Road 2, Dalian, 116024, China
+State Key Laboratory of Fine Chemicals, Dalian University of Technology, Linggong Road 2, Dalian, 116024, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Tozzi, F. and Pecchioli, S. and Renella, G. and Melgarejo, P. and Legua, P. and Macci, C. and Doni, S. and Masciandaro, G. and Giordani, E. and Lenzi, A.},
+   year = {2019},
+   title = {Remediated marine sediment as growing medium for lettuce production: assessment of agronomic performance and food safety in a pilot experiment},
+   journal = {Journal of the Science of Food and Agriculture},
+   volume = {99},
+   issue = {13},
+   pages = {5624-5630},
+   DOI = {10.1002/jsfa.9815},
+   keywords = {dietary intake
+health risk assessment
+innovative substrates
+Lactuca sativa
+reclaimed sediments
+resource recycling},
+   abstract = {BACKGROUND: The use of reclaimed dredged sediments as growing media may offer a profitable alternative to their disposal as a waste and at the same time meets the need of peat-substitute substrates in horticulture. When sediments are reused to cultivate food crops, issues related to human health rise due to potential accumulation of contaminants in the product. This pilot study aimed at verifying the suitability of a reclaimed dredged port sediment, used pure or mixed with peat, as a growing medium for lettuce cultivation. RESULTS: The pure sediment caused a reduction in crop yield, probably due to its unsuitable physical properties, whereas the mixture sediment–peat and pure peat resulted in the same yield. Although the sediment contained potentially phytotoxic heavy metals and some organic pollutants, no symptoms of plant toxicity were noted. Besides, no organic contaminants were detected in lettuce heads, and heavy metals amounts were not hazardous for consumers. Conversely, plants grown in the sediment were particularly rich in minerals like Ca, Mg and Fe, and showed higher concentrations of organic acids and antioxidants. CONCLUSION: The use of the sediment as a growing medium for lettuce was shown to be safe for both inorganic and organic contaminants. Nevertheless, considering crop yield results, the mixture of the sediment with other materials is recommended in order to produce a substrate with more suitable physicochemical properties for vegetable cultivation. © 2019 Society of Chemical Industry. © 2019 Society of Chemical Industry},
+   notes = {Cited By :1
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068685472&doi=10.1002%2fjsfa.9815&partnerID=40&md5=3898b450bfc02c27d4a6ace5cfbd5fd5},
+   address = {Department of Agriculture, Food, Environment and Forestry, University of Florence, Florence, Italy
+Department of Agronomy Food Natural Resources Animals and Environment, University of Padua, Legnaro, Italy
+Department of Plant Science and Microbiology, Universidad Miguel Hernández de Elche, Orihuela, Spain
+Institute of Ecosystem Study, National Research Council of Italy, Pisa, Italy},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Vittori Antisari, L. and Bini, C. and Ferronato, C. and Gherardi, M. and Vianello, G.},
+   year = {2019},
+   title = {Translocation of potential toxic elements from soil to black cabbage (Brassica oleracea L.) growing in an abandoned mining district area of the Apuan Alps (Tuscany, Italy)},
+   journal = {Environmental Geochemistry and Health},
+   DOI = {10.1007/s10653-019-00443-y},
+   keywords = {Heavy metals
+Human risk
+Potential toxic elements
+Translocation},
+   abstract = {In the Apuan Alps (Tuscany, Italy), long-lasting mining activities have favored the mobilization of numerous metals present in sulfosalts originated from low-grade metamorphism mineralization. Such materials, rich in potentially toxic elements such as antimony, arsenic, barium, copper, lead, thallium, tin and zinc, represent the substrate on which soils of different thicknesses have been formed and is currently used for agricultural activities. High concern is particularly arising about the food safety due to traditional horticultural practices, since it is very common in this area to cultivate vegetables in private gardens for both self-consuming and/or local market. In this context, a monitoring survey on both soils and vegetables was performed over the area, with particular attention to Brassica oleracea L. as traditional food crop, to assess the degree of contamination of the area, the possible translocation to vegetables and the potential human risk linked to vegetable ingestion. This analysis reveals a different degree of soil contamination in the area and a general high human risk linked to cabbage cultivation and ingestion in the whole area. © 2019, Springer Nature B.V.},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074695631&doi=10.1007%2fs10653-019-00443-y&partnerID=40&md5=69971ae093efff4410d90589074db11b},
+   address = {Department of Agricultural and Food Sciences, University of Bologna, Bologna, Italy
+Department of Environmental Sciences, Ca’ Foscari University of Venice, Venice, Italy},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Waheed, H. and Ilyas, N. and Iqbal Raja, N. and Mahmood, T. and Ali, Z.},
+   year = {2019},
+   title = {Heavy metal phyto-accumulation in leafy vegetables irrigated with municipal wastewater and human health risk repercussions},
+   journal = {International Journal of Phytoremediation},
+   volume = {21},
+   issue = {2},
+   pages = {170-179},
+   DOI = {10.1080/15226514.2018.1540547},
+   keywords = {Heavy metals
+human health risks
+leafy vegetables
+municipal wastewater
+phyto-accumulation},
+   abstract = {In this study, heavy metal phyto-accumulation potential of selected cultivars of two leafy vegetables on irrigation with municipal wastewater and human health risks were investigated. Municipal wastewater chemistry was recorded significantly different from groundwater control and led to the two-fold high enrichment of soil heavy metal contents (Ni, 19.46; Pb, 23.94; Co, 4.68; Cd, 1.4 in mg/kg, respectively). Interactive effects for phyto-accumulation of most heavy metals were also recorded significant at p < 0.001 in four vegetable cultivars. Heatmap revealed higher accumulation of heavy metals (Fe, Zn, Mn, Cu, Pb, Cr, Co) in spinach cultivars than lettuce cultivars creating elevated health risk index (HRI) and hazard index (HI) values for adults and children. Highest HI was recorded for Lahori palak (adults, 1.42; children, 2.58) and lowest for iceberg (adults, 0.04; children, 0.07). The NPK supplementation improved mineral composition of leafy vegetables within safer human health limits in control treatments. However, in municipal wastewater treatments, NPK fertilization decreased heavy metal uptake and phyto-accumulation in S2 (Lahori palak) than remaining vegetable cultivars leading to reduced health risk values. Because of higher heavy metal phyto-accumulation and health risks, cultivation of spinach cultivars must be discouraged in agro-ecologies receiving municipal wastes, whereas lettuce cultivars should be promoted. © 2019, © 2019 Taylor & Francis Group, LLC.},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060334742&doi=10.1080%2f15226514.2018.1540547&partnerID=40&md5=762c80d0fd09c149bfb8ff88237ce04f},
+   address = {Department of Botany, PMAS Arid Agriculture University, Rawalpindi, Pakistan
+Department of Environmental Sciences, PMAS Arid Agriculture University, Rawalpindi, Pakistan
+Department of Plant and Environmental Protection, National Institute of Bioremediation, National Agricultural Research Centre, Islamabad, Pakistan
+Plant Physiology Program, Crop Sciences Institute, National Agricultural Research Centre, Islamabad, Pakistan},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Wang, H. and Zhao, Y. M. and Muhammad, A. and Liu, C. Y. and Luo, Q. and Wu, H. and Wang, X. X. and Zheng, X. H. and Wang, K. Z. and Du, Y. K.},
+   year = {2019},
+   title = {Influence of Celery on the Remediation of PAHs-contaminated Farm Soil},
+   journal = {Soil & Sediment Contamination},
+   volume = {28},
+   issue = {2},
+   pages = {200-212},
+   date = {Feb},
+   ISSN = {1532-0383},
+   DOI = {10.1080/15320383.2018.1564732},
+   accession_number = {WOS:000455494900004},
+   abstract = {Polycyclic aromatic hydrocarbons (PAHs) contamination has been considered as one of the major environmental concerns for farmland soil all over the world including China. Due to small per capita land area, to find crops or vegetable, which could not only degrade the PAHs contaminants but also would not concentrate PAHs, was particularly important. Celery was selected as the phytoremediator in this experiment, and the soil enzyme activity, PAHs-degrading microorganisms, and the speciation of PAHs in soil were studied. The results showed that celery could significantly enhance the remediation of PAHs compared with the controlled experiment after 90 days (p< 0.01), and the removal efficiency were 31.29%, 30.79%, and 50.21% in the soil, non-rhizosphere soil, and rhizosphere soil, respectively. The soil enzyme activity and PAHs-degrading microorganisms significantly increased in rhizosphere soil compared with non-rhizosphere soil (p< 0.05), and the bioaccessibility of PAHs in soil could have been enhanced in the presence of celery root exudates. Those would help the bioremediation of PAHs by soil microorganisms. Meanwhile, the concentration of PAHs in the edible portion of celery was only 17.13 +/- 1.24 mu g/kg, and the bioconcentration factors in the aboveground part of celery were only 0.025. This study provides a potential in-site farmland soil phytoremediation technology that could have practical utility.},
+   notes = {Wang, Hui Zhao, Yueming Muhammad, Adeel Liu, Chunyue Luo, Qing Wu, Hao Wang, Xiaoxu Zheng, Xuehao Wang, Kunzhe Du, Yingkui
+Adeel, Muhammad/P-6143-2019
+Adeel, Muhammad/0000-0002-2462-8260; Wang, Hui/0000-0002-2237-720X
+1549-7887},
+   url = {<Go to ISI>://WOS:000455494900004},
+
+}
+
+@article{Journal Article,
+   author = {Wang, W. and Wan, Q. and Li, Y. and Xu, W. and Yu, X.},
+   year = {2019},
+   title = {Uptake, translocation and subcellular distribution of pesticides in Chinese cabbage (Brassica rapa var. chinensis)},
+   journal = {Ecotoxicology and Environmental Safety},
+   volume = {183},
+   DOI = {10.1016/j.ecoenv.2019.109488},
+   article_number = {109488},
+   keywords = {Chinese cabbage
+Pesticides
+Plant uptake
+Subcellular distribution
+Transfer},
+   abstract = {The extensive application of pesticides in agricultural activities has raised increasing concerns on crop contamination by pesticide residues. Vegetables seem more susceptible to pesticide contamination given the high-intensive application of pesticides during their entire growth, while information about transfer and cell diffusion characteristics of pesticides in vegetables is currently insufficient. Here, we investigated the uptake, translocation and subcellular distribution behaviors of four commonly used pesticides in Chinese cabbage (Brassica rapa var. chinensis) under laboratory hydroponic conditions. Root uptake of pesticides followed the order of fenbuconazole > avermectin > thiamethoxam > spirotetramat. Thiamethoxam was more readily to be translocated from vegetable root to shoot, while spirotetramat, fenbuconazole and avermectin preferentially accumulated in vegetable root. Cell soluble components were the dominant storage compartment for thiamethoxam. The majority of spirotetramat, fenbuconazole and avermectin were partitioned into the cell walls. Hopefully, results of this study would extend the current knowledge of pesticide bioconcentration behavior in food-crops and assist in properly evaluating the threats of pesticide residues to human health via food chain. © 2019},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85069907372&doi=10.1016%2fj.ecoenv.2019.109488&partnerID=40&md5=fc3348f348df7bb4b5f510120f000d66},
+   address = {Jiangsu Key Laboratory for Food Quality and Safety-State Key Laboratory Cultivation Base of Ministry of Science and Technology, 50 Zhongling Street, Nanjing, 210014, China
+Institute of Food Quality and Safety, Jiangsu Academy of Agricultural Sciences, 50 Zhongling Street, Nanjing, 210014, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Wijewickrama, M. M. and Manage, P. M.},
+   year = {2019},
+   title = {Accumulation of microcystin-LR in grains of two rice varieties (Oryza sativa L.) and a leafy vegetable, ipomoea aquatica},
+   journal = {Toxins},
+   volume = {11},
+   issue = {8},
+   DOI = {10.3390/toxins11080432},
+   article_number = {432},
+   keywords = {Human health risk
+Ipomoea aquatica
+Microcystins
+Oryza sativa
+Tolerable daily intake},
+   abstract = {The potential transfer of microcystin-LR (MC-LR) to humans via crop plants irrigated with MC-contaminated water is causing serious concern. In this study, two Oryza sativa variants, a hybrid (BG358), a traditional (Suwandel) variety, and a leafy green vegetable crop, Ipomoea aquatica, were exposed under laboratory conditions to natural blooms of Microcystis aeruginosa sampled from a hypereutrophic lake contaminated with MC-LR (3,197.37 ± 1.04 µg/L). Field samples of O. sativa and I. aquatica were collected from farmlands that had been irrigated from a reservoir, containing MC-LR (180 µg/L). MC-LR was quantified by high performance liquid chromatography followed by photodiode-array detection (HPLC-PDA). From the laboratory study, we calculated the potential human health exposure from BG358, Suwandel and I. aquatica as 2.84 ± 0.01, 0.22 ± 0.01, and 0.06 ± 0.01 µg/kg of body weight/day, respectively, whereas the potential health exposures from BG358, Suwandel and I. aquatica collected from the field were 0.10 ± 0.01, 0.009 ± 0.005, and 0.03 ± 0.01 µg/kg of body weight/day, respectively. In certain instances, the results exceeded the World Health Organization’s (WHO) tolerable daily intake of MC-LR, posing a potential health risk to humans. Thus, our results emphasize the importance of continuous screening programs for cyanotoxins in edible plants in the future to prevent the consumption of contaminated crops. © 2019 by the authors. Licensee MDPI, Basel, Switzerland.},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070380699&doi=10.3390%2ftoxins11080432&partnerID=40&md5=9527804e89c80089bfdf1e0668e3121e},
+   address = {Center for Water Quality and Algae Research, Department of Zoology, University of Sri Jayewardenepura, Gangodawila, Nugegoda10250, Sri Lanka},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Wu, X. R. and Li, Y. P. and Tu, S. X. and Ding, Y. Z. and Wang, R. G. and Rensing, C. and Feng, R. W.},
+   year = {2019},
+   title = {Elevated atmospheric CO2 might increase the health risk of long-term ingestion of leafy vegetables cultivated in residual DDT polluted soil},
+   journal = {Chemosphere},
+   volume = {227},
+   pages = {289-298},
+   DOI = {10.1016/j.chemosphere.2019.04.024},
+   keywords = {Antioxidants
+Dichlorodiphenyltrichloroethane
+Health risk
+Leaf vegetable
+Photosynthesis},
+   abstract = {Residual dichlorodiphenyltrichloroethane (DDT) in the environment and a continuously increasing atmospheric carbon dioxide (CO2) concentration are two issues that have received a lot of attention. This study was conducted using a pot experiment to investigate the interactive effects of elevated CO2 and DDT on the uptake of DDT, the physiological responses and the resulting health risks in three vegetables. These vegetables included Brassica juncea var. foliosa Bailey (B. Bailey), Brassica campestris L. var. communis Tsen et Lee Suzhou Qing (B. Lee) and Brassica campestris L. ssp. pekinensis (Lour.) Olsson Chun Dawang (B. Olsson). Two levels of CO2 and four DDT treatment levels were set up. Results showed 5 mg kg−1 DDT significantly reduced the shoot biomass of B. Bailey when compared to 0 mg kg−1 DDT treatment under ambient CO2 condition. Elevated CO2 concentration stimulated the growth of B. Bailey and B. Lee, increased the DDT uptake in the shoots of both vegetables and the values of some photosynthesis indices, and triggered the activity of peroxidase and catalase in the shoots when compared to the related ambient CO2 treatment. Elevated CO2 concentration increased the values of hazard indexes for non-carcinogenic and cancer risks of all vegetables when compared to the individual ambient CO2 treatment (each of vegetable has an ambient CO2 treatment), especially for B. Bailey (increase amplitude of 123.81%–127.78% at 5 mg kg−1 DDT). Long-term ingestion with these DDT-polluted vegetables might result in an elevated carcinogenic risk and elevated atmospheric CO2 may enhance the non-carcinogenic and carcinogenic risks. © 2019 Elsevier Ltd},
+   notes = {Cited By :1
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064438736&doi=10.1016%2fj.chemosphere.2019.04.024&partnerID=40&md5=d47cf246bbb2e9019e339b6628abcba9},
+   address = {Institute of Environmental Microbiology, College of Resources and Environment, Fujian Agriculture & Forestry University, Fuzhou, 350002, China
+College of Resources and Environment, Huazhong Agricultural University, Wuhan, 430070, China
+Institute of Agro-Environmental Protection, The Ministry of Agriculture, Tianjin, 300191, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Yañez, L. M. and Alfaro, J. A. and Avila Carreras, N. M. E. and Bovi Mitre, G.},
+   year = {2019},
+   title = {Arsenic accumulation in lettuce (Lactuca sativa L.) and broad bean (Vicia faba L.) crops and its potential risk for human consumption},
+   journal = {Heliyon},
+   volume = {5},
+   issue = {1},
+   DOI = {10.1016/j.heliyon.2019.e01152},
+   article_number = {e01152},
+   keywords = {Environmental science},
+   abstract = {Exposure to arsenic (As) is considered one of the primary health risks humans face worldwide. This study was conducted to determine As absorption by broad beans and lettuce crops grown in soil with As contents and irrigated with water contaminated with this toxic element, in Pastos Chicos, Jujuy (Argentina). Total dry biomass (TDB) and total As were determined in soils, roots, leaves, pods and seeds. These data were used to determine several parameters, such as translocation (TF) and bioconcentration (BCF) factors, target hazard quotient (THQ), and carcinogenic risk (CR). Broad bean plants had the lowest biomass production when exposed to As in irrigation water and soil. Lettuce plants presented TDB reductions of 33.3 and 42.8% when grown in soil polluted with As, and in control soil under irrigation with contaminated water, respectively. The presence of this toxicant in broad bean seeds and lettuce leaves (edible parts) exceeded the limits established by Código Alimentario Argentino, i.e. 0.10 and 0.30 mg/kg, respectively. THQ values for lettuce leaves were higher than 1, the same as those for broad bean seeds when grown in soil with As contents and irrigated with arsenic-contaminated water, thus suggesting that consumers would run significant risks when consuming these vegetables. Furthermore, this type of exposure to As implied a CR that exceeded the acceptable 1 × 10−4 risk level. Hence, we may conclude that consuming lettuce and broad beans grown at the evaluated site brings about considerable health risks for local residents. © 2019},
+   notes = {Cited By :1
+Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060454403&doi=10.1016%2fj.heliyon.2019.e01152&partnerID=40&md5=387e0146a2b987e794730d301a18aef0},
+   address = {Facultad de Ciencias Agrarias, Universidad Nacional de Jujuy, Alberdi N° 47, San Salvador de Jujuy, 4600, Argentina
+Cátedra Introducción a la Gestión Ambiental-Sede Humahuaca, Facultad de Ciencias Agrarias, Universidad Nacional de Jujuy, Alberdi N° 47, San Salvador de Jujuy, 4600, Argentina
+Cátedra Toxicología de los Alimentos, Facultad de Ciencias Agrarias, Universidad Nacional de Jujuy, Alberdi N° 47, San Salvador de Jujuy, 4600, Argentina
+Cátedra Bromatología III, Facultad de Ciencias Agrarias, Universidad Nacional de Jujuy, Alberdi N° 47, San Salvador de Jujuy, 4600, Argentina},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Yazdi, M. and Kolahi, M. and Kazemi, E. M. and Barnaby, A. G.},
+   year = {2019},
+   title = {Study of the contamination rate and change in growth features of lettuce (Lactuca sativa Linn.) in response to cadmium and a survey of its phytochelatin synthase gene},
+   journal = {Ecotoxicology and Environmental Safety},
+   volume = {180},
+   pages = {295-308},
+   date = {Sep},
+   ISSN = {0147-6513},
+   DOI = {10.1016/j.ecoenv.2019.04.071},
+   accession_number = {WOS:000473836100035},
+   abstract = {Crops can become contaminated when grown in soils containing heavy metals. Cadmium is a heavy metal that poses a significant health risk to humans. The purpose of this study was to evaluate the effect of cadmium on lettuce (Lactuca saliva Linn) and the contamination risk of lettuce grown in cadmium environments. The results showed that photosynthesis and growth parameters were significantly affected by cadmium. Lettuce has the ability to absorb large amounts of cadmium from the contaminated environment and so is a cadmium hyper-accumulator plant. The study showed that approximately 35% of the total absorbed cadmium is transmitted to aerial and edible parts of lettuce. This study was undertaken as lettuce has the ability to absorb and accumulate high levels of cadmium. There are however are no reports on the PCS gene and the potential for high cadmium accumulation in lettuce. The bioinformatics study revealed that lettuce has two phytochelatin synthase genes that produce 6 PCSs through splicing leading to the ability of lettuce to store high levels of cadmium. These six sequences although different in length have high similarity. Sequence structure, cellular location, three-dimensional structure, phylogeny and a comparison of their catalytic power were evaluated. The high accumulation of cadmium in lettuce and the presence of several PCSs contribute to the accumulation of cadmium in aerial tissues. The cultivation of lettuce in contaminated environments led us to evaluate suspected farms for the presence of cadmium in produce. Lettuce grown in industrial environments contaminated with cadmium can pose a serious threat to human health.},
+   notes = {Yazdi, M. Kolahi, M. Kazemi, E. Mohajel Barnaby, A. Goldson
+1090-2414},
+   url = {<Go to ISI>://WOS:000473836100035},
+
+}
+
+@article{Journal Article,
+   author = {Yi, Z. and Lehto, N. J. and Robinson, B. H. and Cavanagh, J. A. E.},
+   year = {2020},
+   title = {Environmental and edaphic factors affecting soil cadmium uptake by spinach, potatoes, onion and wheat},
+   journal = {Science of the Total Environment},
+   volume = {713},
+   DOI = {10.1016/j.scitotenv.2020.136694},
+   article_number = {136694},
+   keywords = {Bioavailability
+Ca(NO3)2 extraction
+Diffusive gradients in thin-films
+Porewater},
+   abstract = {The relative ease with which cadmium (Cd) in agricultural soils can transfer to crop plants can pose a potential health risk to consumers. However, efforts to predict and mitigate these risks are often confounded by the various factors that influence metal accumulation in the edible plant parts. The aim of this work was to identify key drivers that determine Cd concentrations in spinach leaves, potato tubers, onion bulbs and wheat grain grown in commercial horticultural operations across New Zealand (NZ). Paired soil and plant samples (n = 147) were collected from farms across different NZ growing regions. Cadmium concentrations in the edible parts were measured and four different tests were used to examine the potential bioavailability of soil Cd: pseudo-total and porewater concentrations, 0.05 M Ca(NO3)2-extraction and diffusive gradients in thin-films (DGT). Information on a range of soil and climatic variables was also collected. The methods' ability to represent Cd concentrations in the plant parts was assessed through single and multiple regression analysis that considered the different variables and the farm locations. Soil Cd concentrations determined by the different tests were positively related to plant concentrations and there were clear regional differences between these relationships. The Ca(NO3)2 extraction predicted over 76% of the variability in Cd concentrations in onion bulbs and spinach leaves, while DGT and porewater Cd provided the best estimates for potato tubers and wheat grains, respectively, once regional differences were considered, along with certain environmental and soil variables. The results show that certain soil and environmental factors can be a key influence for determining Cd accumulation in the edible parts of some plants and that regional differences are important for modulating the extent to which this occurs. These effects should be considered when trying to mitigate the potential risks arising from Cd in agricultural soils. © 2020 Elsevier B.V.},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078059815&doi=10.1016%2fj.scitotenv.2020.136694&partnerID=40&md5=0e45b5340b17fdb27782f04ce0ca085b},
+   address = {Faculty of Agricultural and Life Sciences, Lincoln University, PO Box 7647, Lincoln, 7647, New Zealand
+School of Physical and Chemical Sciences, University of Canterbury, Private Bag 4800, Christchurch, 8140, New Zealand
+Manaaki Whenua – Landcare Research, Gerald Street, PO Box 69040, Lincoln, 7640, New Zealand},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Yu, Q. and Liu, S. and Zheng, F. and Xiao, H. and Guan, H. and Feng, Y.},
+   year = {2020},
+   title = {Identification and quantification of benzimidazole metabolites of thiophonate-methyl sprayed on celery cabbage using SiO2@NiO solid-phase extraction in combination with HPLC-MS/MS},
+   journal = {Chinese Chemical Letters},
+   volume = {31},
+   issue = {2},
+   pages = {482-486},
+   DOI = {10.1016/j.cclet.2019.07.065},
+   keywords = {Benzimidazole metabolites
+Celery cabbage
+High-resolution MS/MS analysis
+Precursor ion scan-mass spectrometry
+Thiophonate-methyl},
+   abstract = {Thiophonate-methyl (TPM) is one of fungicides and pesticides widely used in agriculture field. However, the residue of its benzimidazole (BZD) metabolites in related agricultural products poses a potential risk to consumers. In this paper, nickel oxide nanoparticle-deposited silica (SiO2@NiO) composite was used for the selective enrichment and purification of TPM's BZD metabolites in celery cabbage sprayed with TPM. Meanwhile, high-performance liquid chromatography coupled with precursor ion scan-mass spectrometry (HPLC-PIS-MS) and high-resolution MS/MS analysis (HR-MS/MS) was utilized for their qualitative and quantitative analysis. Twenty-one potential TPM's BZD metabolites were found and four of them were identified. One metabolite was discovered for the first time. Besides, a robust and sensitive quantitative method was developed with good linearities (R2 &gt; 0.9972) within a wide range of 10.00-1000 ng/g. The detection limits of three known TPM's metabolites were within the range of 3.20-4.90 ng/g. Relative standard deviations (RSDs) of intra-day and inter-day precisions were less than 18.3%, which showed perfect reproducibility. The method was successfully applied to monitoring TPM's BZD metabolites in celery cabbage sprayed with TPM and the concentration versus time curves of TPM's metabolites in celery cabbage were plotted. This method is expected to be used to monitor BZD residues in various fruits and vegetables. © 2019},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070690282&doi=10.1016%2fj.cclet.2019.07.065&partnerID=40&md5=2c4057de93b78467dfa469d9cc978dd6},
+   address = {Key Laboratory of Analytical Chemistry for Biology and Medicine (Ministry of Education), Department of Chemistry, Wuhan University, Wuhan, 430072, China
+Quality Management Department, Wuhan Hiteck Biological Pharma Co., Ltd., Wuhan, 430056, China},
+   database = {Scopus},
+
+}
+
+@article{Journal Article,
+   author = {Yu, X. and Liu, X. and Liu, H. and Chen, J. and Sun, Y.},
+   year = {2019},
+   title = {The accumulation and distribution of five antibiotics from soil in 12 cultivars of pak choi},
+   journal = {Environmental Pollution},
+   volume = {254},
+   DOI = {10.1016/j.envpol.2019.113115},
+   article_number = {113115},
+   keywords = {Accumulation capacity
+Antibiotics
+Cultivar variation
+Pak choi},
+   abstract = {There is a lack of understanding about the potential accumulation of antibiotics in plants exposed to low-dose contaminated soil. 12 Brassica rapa subsp. chinensis cultivars were used to investigate the different accumulation capacities of sulfamethoxypyridazine, tetracycline, ofloxacin, norfloxacin and difloxacin from the soil. The results showed a significant variation (p &lt; 0.05) among the 12 cultivars in the accumulation of antibiotics. Cultivars Y1 and Y2 had the highest accumulation capacity with average concentrations of 3.26 and 3.00 μg kg−1, respectively, while cultivars Y4 and Y9 had the lowest accumulation capacity with average concentrations of 0.83 and 0.89 μg kg−1. The average antibiotic concentration in all edible part samples (2.74 μg kg−1) of the treatment group was about 3.0-fold of that of the control group (0.93 μg kg−1). The average bioconcentration factors of sulfamethoxypyridazine, tetracycline, ofloxacin, norfloxacin and difloxacin were 0.051, 0.031, 0.017, 0.036 and 0.034, respectively, indicating a higher uptake of sulfamethoxypyridazine compared to ofloxacin. And the mobility of antibiotics in soil is a main factor affecting the bioavailability for plants. The average concentration of antibiotics in edible parts of cultivar Y12 on the 25th and 45th day were 1.52 and 1.73 μg kg−1 and that of the roots were 3.73 and 6.61 μg kg−1, respectively. The concentrations of tetracycline and difloxacin in the edible parts and roots significantly increased with growing time, while the concentration of sulfamethoxypyridazine and ofloxacin changed little throughout the growing period. The potential risks of antibiotics in vegetables on human health cannot be ignored. Overall, attention should be paid to the translocation of antibiotics from soil to plants. Twelve pak choi cultivars had significantly different responses to five antibiotics at different growing times, even when they were exposed to low-dose contaminated soil. © 2019 Elsevier Ltd},
+   notes = {Export Date: 9 April 2020},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85071413940&doi=10.1016%2fj.envpol.2019.113115&partnerID=40&md5=dafa37ea3bd9193cf2702ab33af6fd93},
+   address = {Beijing Key Laboratory of Farmland Soil Pollution Prevention and Remediation, College of Resources and Environmental Science, China Agricultural University, Beijing, 100193, China
+Beijing Station of Agro-Environmental Monitoring, Test and Supervision Center of Agro-Environmental Quality, MOA, Beijing, 100029, China
+Environmental Factors Risk Assessment Laboratory of Agricultural Products Quality and Safety of Ministry of Agriculture, Beijing, 100029, China},
+   database = {Scopus},
+
+}
+
