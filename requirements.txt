@@ -6,7 +6,7 @@ matplotlib==3.0.3
 transformers==2.5.1
 tensorflow-datasets==2.1.0
 tensorflow-estimator==2.0.1
-tensorflow-gpu==2.0.0
+tensorflow-gpu==2.0.1
 tensorflow-metadata==0.21.1
 ktrain==0.11.3
 silence-tensorflow==1.1.1
