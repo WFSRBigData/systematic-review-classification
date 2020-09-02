@@ -174,7 +174,7 @@ for i, (train_indices, val_indices) in enumerate(kfold_cv.split(train_val_text))
     print("Training the model")
     model = t.get_classifier()
     learner = ktrain.get_learner(model, train_data=train_preprocessed,
-                                 val_data=val_preprocessed, batch_size=1)
+                                 val_data=val_preprocessed, batch_size=2)
     learner.fit_onecycle(5e-5, 3)
 
     # Save the model for this fold
