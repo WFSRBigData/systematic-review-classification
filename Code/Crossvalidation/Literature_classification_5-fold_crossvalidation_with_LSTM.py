@@ -177,7 +177,6 @@ ax.plot([0, 1], [0, 1], linestyle='--', lw=2, color='r',
         label='Chance', alpha=.8)
 val_labels_list = []
 val_predicted_prob_list = []
-best_auc = 0
 for i, (train_indices, val_indices) in enumerate(kfold_cv.split(train_val_text)):
 
     print("Fold {} of crossvalidation".format(i))
@@ -277,24 +276,12 @@ for i, (train_indices, val_indices) in enumerate(kfold_cv.split(train_val_text))
     model.compile(loss='binary_crossentropy',
                   optimizer=tf.keras.optimizers.Adam(learning_rate=learning_rate),
                   metrics=['accuracy'])
-    reduce_lr = tf.keras.callbacks.ReduceLROnPlateau(monitor='val_loss', factor=0.5,
-                                                     patience=10, verbose=1)
     model_save_name = "LSTM-{}-{}-{}-fold{}".format(nr_network_nodes,
                                                        learning_rate,
                                                        num_tokens, i) + "-{epoch:02d}.hdf5"
-    if not os.path.exists(os.path.join(save_path, model_name, "Checkpoints")):
-        os.makedirs(os.path.join(save_path, model_name, "Checkpoints"))
-    model_checkpoint = tf.keras.callbacks.ModelCheckpoint(filepath=os.path.join(save_path,
-                                                                                model_name,
-                                                                                "Checkpoints",
-                                                                                model_save_name),
-                                                                                monitor='val_loss',
-                                                                                save_best_only=True,
-                                                                                verbose=1)
     progress_history = model.fit_generator(train_generator,
                                            steps_per_epoch=math.ceil(len(train_data)/batch_size),
                                            epochs=epochs, verbose=2,
-                                           callbacks=[reduce_lr, model_checkpoint],
                                            validation_data=validation_generator,
                                            validation_steps=math.ceil(len(val_data)/batch_size),
                                            workers=0)
@@ -349,16 +336,6 @@ for i, (train_indices, val_indices) in enumerate(kfold_cv.split(train_val_text))
     corresponding_accuracy = progress_history.history['val_accuracy'][np.argmin(progress_history.history['val_loss'])]
     print("Lowest validation loss: {}, with corresponding accuracy: {}".format(
             lowest_val_loss, corresponding_accuracy))
-    
-    # If it is the best model so far based on AUC, save it as the final model.
-    # Note that this is different from the other algorithms, as LSTM uses the
-    # validation set for early stopping, thus can't train on the set as a whole.
-    if(auc_value > best_auc):
-        if not os.path.exists(os.path.join(save_path, model_name, "Final")):
-            os.makedirs(os.path.join(save_path, model_name, "Final"))
-        pickle.dump(tokenizer, open(os.path.join(save_path, model_name, "Final", model_name+'_tokenizer.pkl'), 'wb'))
-        model.save(os.path.join(save_path, model_name, "Final", 'LSTM_model.h5'))
-        best_auc = auc_value
 
     tf.keras.backend.clear_session() # Clear session to prevent memory leak from TF
 
