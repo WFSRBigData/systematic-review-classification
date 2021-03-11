@@ -86,6 +86,10 @@ tf.keras.backend.clear_session() # Clear session to prevent memory leak from TF
 # Determine the final predicted class labels for this model
 test_predicted = np.where(test_predicted_prob < np.float64(threshold), 0, 1)
 
+# Check if results folder exists for this case
+if not os.path.exists(result_path):
+    os.makedirs(result_path)
+
 # Plot the ROC curve
 fig, ax = plt.subplots()
 ax.plot([0, 1], [0, 1], linestyle='--', lw=2, color='r',
