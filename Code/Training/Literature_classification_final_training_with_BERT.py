@@ -110,7 +110,7 @@ if(smote):
     train_val_preprocessed.x = train_val_preprocessed_text
     train_val_preprocessed.y = train_val_preprocessed_labels
 
-# Use a nearest neighbors algorithm to augment the data to expand the train set by 100%
+# Use a nearest neighbors algorithm to augment the data to expand the train set
 if(data_augmentation):
     print("Performing data augmentation")
     augmented_train_val_preprocessed = train_val_preprocessed.x.copy()
